@@ -49,20 +49,23 @@ function extractJsonFilename(output) {
 async function main() {
   console.log('[i] Starting the scraping orchestrator...');
   const links = await loadLinks();
+
+  const jobsToProcess = links.filter(job => job.Status !== 'COMPLETED');
   const totalLinks = links.length;
+  const linksLeftToProcess = jobsToProcess.length;
 
-  console.log(`[i] Found ${totalLinks} links to process.`);
-
+  console.log(`[i] Found ${totalLinks} links in total.`);
+  console.log(`[i] ${linksLeftToProcess} links left to process.`);
+  
   let count = 1;
   for (const job of links) {
     if (job.Status === 'COMPLETED') {
-      console.log(`[i] Skipping completed job ${count}/${totalLinks}: Tag "${job.SL}"`);
-      count++;
+      console.log(`\n[i] Skipping completed job: Tag "${job.SL}"`);
       continue; // skip already completed jobs
     }
 
     console.log('\n======================================================');
-    console.log(`[*] Starting job ${count}/${totalLinks}: Tag "${job.SL}"`);
+    console.log(`[*] Starting job ${count}/${linksLeftToProcess}: Tag "${job.SL}"`);
     console.log(`[*] Link: ${job.Link}`);
     console.log('======================================================');
 
@@ -79,7 +82,7 @@ async function main() {
 
       await subprocess;
 
-      console.log(`[+] Job ${count}/${totalLinks} for tag "${job.SL}" completed successfully.`);
+      console.log(`[+] Job ${count}/${linksLeftToProcess} for tag "${job.SL}" completed successfully.`);
 
       // Extract JSON filename
       const jsonFile = extractJsonFilename(outputLog) || '';
@@ -91,7 +94,7 @@ async function main() {
       // Save updated links.json after each job
       await saveLinks(links);
     } catch (error) {
-      console.error(`\n[-] Job ${count}/${totalLinks} for tag "${job.SL}" failed.`);
+      console.error(`\n[-] Job ${count}/${linksLeftToProcess} for tag "${job.SL}" failed.`);
       console.error('[-] Moving to the next job...');
     }
 

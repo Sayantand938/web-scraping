@@ -56,34 +56,23 @@
 
 // async function clickNext(page) {
 //   try {
-//     // Click the "Next" button
 //     const nextButton = await page.waitForSelector('button[ng-click="navBtnPressed(true)"]', { timeout: 5000 });
 //     await nextButton.click();
-    
-//     // Give the application a moment to respond
 //     await page.waitForTimeout(1500);
 
-//     // Check if the confirmation dialog for the last question has appeared.
-//     // This is a reliable way to detect the end of the quiz.
 //     const endOfQuizSelector = '//*[contains(text(), "You have reached the last question")]';
-    
-//     // Use a short timeout to quickly check for the element without a long wait.
-//     // If it's not found, it will return null instead of throwing an error.
 //     const endOfQuizElement = await page.waitForSelector(endOfQuizSelector, { state: 'visible', timeout: 2000 }).catch(() => null);
 
 //     if (endOfQuizElement) {
 //       console.log('[i] Detected the last question confirmation dialog. End of quiz reached.');
-//       return false; // Signal that we have reached the end.
+//       return false;
 //     }
 
-//     // If the dialog is not found, wait for the next question's container to load.
 //     await page.waitForSelector(selectors.parser.activeQuestionContainer, { timeout: 5000 });
 //     await page.waitForTimeout(1000 + Math.random() * 1000);
-//     return true; // Successfully navigated to the next question.
+//     return true;
 
 //   } catch (error) {
-//     // This catch block will handle cases where the "Next" button isn't found
-//     // or if waiting for the next question container fails.
 //     console.log('[i] Could not proceed to the next question. Assuming end of quiz.');
 //     return false;
 //   }
@@ -143,7 +132,22 @@
 //   if (derivedTag) tags.push(derivedTag);
 //   if (userTag) tags.push(userTag);
 
-//   const questionHtml = container.find(selectors.parser.questionBody).html() || '';
+//   // --- MODIFICATION START ---
+//   // Extract comprehension and question body HTML separately.
+//   const comprehensionHtml = container.find(selectors.parser.comprehension).html();
+//   const questionBodyHtml = container.find(selectors.parser.questionBody).html() || '';
+  
+//   let finalQuestionHtml;
+
+//   // If comprehensionHtml exists and is not empty, combine it with the question body.
+//   if (comprehensionHtml && comprehensionHtml.trim() !== '') {
+//     finalQuestionHtml = `${comprehensionHtml}<br><br><strong><b>Question:</b></strong><br>${questionBodyHtml}`;
+//   } else {
+//     // Otherwise, just use the question body.
+//     finalQuestionHtml = questionBodyHtml;
+//   }
+//   // --- MODIFICATION END ---
+
 //   const optionsHtml = [];
 //   container.find(selectors.parser.optionContainer).each((i, el) => {
 //     const htmlContent = $(el).find(selectors.parser.optionText).html();
@@ -156,7 +160,9 @@
 //     .html() || '';
 //   const solutionHtml = container.find(selectors.parser.solution).html() || '';
 
-//   const sanitizedQuestion = await transformAndSanitizeHtml(questionHtml);
+//   // Sanitize the final, potentially combined, question HTML.
+//   const sanitizedQuestion = await transformAndSanitizeHtml(finalQuestionHtml);
+  
 //   const sanitizedOptions = await Promise.all(
 //     optionsHtml.slice(0, 4).map(opt => transformAndSanitizeHtml(opt))
 //   );
@@ -201,7 +207,6 @@
 //   const scrapedQuestions = [];
 //   let questionsScraped = 0;
 
-//   // Skip questions if skip flag is provided
 //   for (let i = 0; i < skip; i++) {
 //     const hasNext = await clickNext(page);
 //     if (!hasNext) {
@@ -284,6 +289,8 @@
 // }
 
 // main();
+
+
 
 
 // src/workflows/scraping/index.js
@@ -406,7 +413,7 @@ async function humanizedMouseMovement(page) {
   await page.waitForTimeout(500 + Math.random() * 500);
 }
 
-async function scrapeAndSanitizeQuestion(page, serialNumber, userTag) {
+async function scrapeAndSanitizeQuestion(page, serialNumber, userTag, noteId) {
   const html = await page.content();
   const $ = load(html);
   const container = $(selectors.parser.activeQuestionContainer);
@@ -420,21 +427,16 @@ async function scrapeAndSanitizeQuestion(page, serialNumber, userTag) {
   if (derivedTag) tags.push(derivedTag);
   if (userTag) tags.push(userTag);
 
-  // --- MODIFICATION START ---
-  // Extract comprehension and question body HTML separately.
   const comprehensionHtml = container.find(selectors.parser.comprehension).html();
   const questionBodyHtml = container.find(selectors.parser.questionBody).html() || '';
   
   let finalQuestionHtml;
 
-  // If comprehensionHtml exists and is not empty, combine it with the question body.
   if (comprehensionHtml && comprehensionHtml.trim() !== '') {
     finalQuestionHtml = `${comprehensionHtml}<br><br><strong><b>Question:</b></strong><br>${questionBodyHtml}`;
   } else {
-    // Otherwise, just use the question body.
     finalQuestionHtml = questionBodyHtml;
   }
-  // --- MODIFICATION END ---
 
   const optionsHtml = [];
   container.find(selectors.parser.optionContainer).each((i, el) => {
@@ -448,7 +450,6 @@ async function scrapeAndSanitizeQuestion(page, serialNumber, userTag) {
     .html() || '';
   const solutionHtml = container.find(selectors.parser.solution).html() || '';
 
-  // Sanitize the final, potentially combined, question HTML.
   const sanitizedQuestion = await transformAndSanitizeHtml(finalQuestionHtml);
   
   const sanitizedOptions = await Promise.all(
@@ -461,7 +462,11 @@ async function scrapeAndSanitizeQuestion(page, serialNumber, userTag) {
   const finalAnswer = answerIndex !== -1 ? (answerIndex + 1).toString() : '';
 
   return {
-    SL: serialNumber,
+    noteId: noteId,
+    // --- MODIFICATION START ---
+    // Convert the serial number to a string before assigning it
+    SL: serialNumber.toString(),
+    // --- MODIFICATION END ---
     Question: sanitizedQuestion,
     OP1: sanitizedOptions[0] || '',
     OP2: sanitizedOptions[1] || '',
@@ -494,6 +499,7 @@ function parseArguments() {
 async function scrapeQuestions(page, count, userTag, skip = 0) {
   const scrapedQuestions = [];
   let questionsScraped = 0;
+  const STARTING_NOTE_ID = 1000;
 
   for (let i = 0; i < skip; i++) {
     const hasNext = await clickNext(page);
@@ -509,7 +515,9 @@ async function scrapeQuestions(page, count, userTag, skip = 0) {
     await humanizedScroll(page, selectors.parser.activeQuestionContainer);
     await humanizedMouseMovement(page);
 
-    const data = await scrapeAndSanitizeQuestion(page, questionsScraped + 1 + skip, userTag);
+    const noteId = STARTING_NOTE_ID + questionsScraped + skip;
+    const data = await scrapeAndSanitizeQuestion(page, questionsScraped + 1 + skip, userTag, noteId);
+    
     scrapedQuestions.push(data);
     questionsScraped++;
     console.log(`[*] Scraping Question ${questionsScraped + skip}...`);
