@@ -1,0 +1,1502 @@
+[
+  {
+    "noteId": 1001,
+    "SL": "1",
+    "Question": "Which of the following ​statement(s) is/are TRUE?<br>I. 33<sup>3</sup>&gt; 3<sup>33</sup><br>II. 333 &gt; (3<sup>3</sup>)<sup>3</sup>",
+    "OP1": "Only I",
+    "OP2": "Only II",
+    "OP3": "Both I and II",
+    "OP4": "Neither I nor II",
+    "Answer": "4",
+    "Solution": "<strong>Statement I:</strong><br>We can write 3<sup>33</sup>= (3<sup>11</sup>)<sup>3</sup><br>Now as we can see 3<sup>11</sup>will be more than 33<br>So 3<sup>33</sup>&gt; 33<sup>3</sup><br>∴ Statement I is wrong<br><strong>Statement II:</strong><br>We can clearly write (3<sup>3</sup>)<sup>3</sup>= 27<sup>3</sup>= 19683 which is more than 333<br>So (3<sup>3</sup>)<sup>3</sup>&gt; 333<br>∴ Statement II is also wrong<br>∴ Neither Statement I nor Statement II is correct.",
+    "Tags": [
+      "MATH::Number-System",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1002,
+    "SL": "2",
+    "Question": "If P = 2<sup>2</sup> + 6<sup>2</sup> + 10<sup>2</sup> + 14<sup>2</sup> + _______ + 94<sup>2</sup> and Q = 1<sup>2</sup> + 5<sup>2</sup> + 9<sup>2</sup> + _______ + 81<sup>2</sup>, then what is the value of P – Q?",
+    "OP1": "24645",
+    "OP2": "26075",
+    "OP3": "29317",
+    "OP4": "31515",
+    "Answer": "2",
+    "Solution": "As we can see that P will have 24 terms and Q will have 21 terms in the series so P has three extra terms:<br>⇒ P – Q = (2<sup>2</sup>– 1<sup>1</sup>) + (6<sup>2</sup>– 5<sup>2</sup>) + (10<sup>2</sup>– 9<sup>2</sup>) + (14<sup>2</sup>– 13<sup>2</sup>) + ______ + (82<sup>2</sup>– 81<sup>2</sup>) + 86<sup>2</sup>+ 90<sup>2</sup>+ 94<sup>2</sup> (3 Extra terms of P)<br>⇒ P – Q = 3 + 11 + 19 + 27 + ______ + 163 (AP with 21 terms) + 86<sup>2</sup>+ 90<sup>2</sup>+ 94<sup>2</sup><br>⇒ P – Q = 21/2 × (6 + 20 <strong>× </strong>8) +86<sup>2</sup>+ 90<sup>2</sup>+ 94<sup>2</sup><br>⇒ P – Q = 1743 + (90<sup>2</sup> + 4<sup>2</sup> + 2 × 90 × 4) + 90<sup>2</sup> + (90<sup>2</sup> + 4<sup>2</sup> – 2 × 90 × 4)<br>⇒ P – Q = 1743 + 8100 + 16 + 8100 + 8100 + 16<br>⇒ P – Q = 1743 + 24332<br>∴ P – Q = 26075",
+    "Tags": [
+      "MATH::Progressions",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1003,
+    "SL": "3",
+    "Question": "If A = (1/0.4) + (1/0.04) + (1/0.004) + ________ + upto 8 terms, then what is the value of A?",
+    "OP1": "27272727.5",
+    "OP2": "25252525.5",
+    "OP3": "27777777.5",
+    "OP4": "25555555.5",
+    "Answer": "3",
+    "Solution": "Equation can be written as:<br>\\(\\Rightarrow {\\rm{A}} = {\\rm{\\;}}\\frac{{10}}{4} + \\frac{{100}}{4} + \\frac{{1000}}{4} + \\frac{{10000}}{4} + \\frac{{100000}}{4} + \\frac{{1000000}}{4} + \\frac{{10000000}}{4} + \\frac{{100000000}}{4}\\)<br>⇒ A = 111111110/4<br>∴ A = 27777777.5",
+    "Tags": [
+      "MATH::Simplification",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1004,
+    "SL": "4",
+    "Question": "If M = 0.1 + (0.1)<sup>2</sup> + (0.01)<sup>2</sup> and N = 0.3 + (0.03)<sup>2</sup> + (0.003)<sup>2</sup>, then what is the value of M + N?",
+    "OP1": "0.411009",
+    "OP2": "0.413131",
+    "OP3": "0.313131",
+    "OP4": "0.131313",
+    "Answer": "1",
+    "Solution": "We can write:<br>M + N = 0.1 + 0.3 + 0.01 + 0.0009 + 0.0001 + 0.000009<br>⇒ M + N = 0.4 + 0.01 + 0.0010 + 0.000009<br>∴ M + N = 0.411009",
+    "Tags": [
+      "MATH::Simplification",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1005,
+    "SL": "5",
+    "Question": "If P = 96/ (95 × 97), Q = 97/ (96 × 98) and R = 1/97, then which of the following is TRUE?",
+    "OP1": "P &lt; Q &lt; R",
+    "OP2": "R &lt; Q &lt; P",
+    "OP3": "Q &lt; P &lt; R",
+    "OP4": "R &lt; P &lt; Q",
+    "Answer": "2",
+    "Solution": "Here in place of 95, 96, 97 and 98, we can take smaller numbers and then solve it (Result will be the same)<br>So we take 3, 4, 5 and 6 in place of 95, 96, 97 and 98 respectively<br>⇒ P = 4/ (3 × 5), Q = 5/ (4 × 6) and R = 1/5<br>∴ P = 0.267, Q = 0.2083, R = 0.2<br>Hence, R &lt; Q &lt; P is correct",
+    "Tags": [
+      "MATH::Number-System",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1006,
+    "SL": "6",
+    "Question": "Which of the following statement(s) is/are TRUE?<br>I. \\(11\\frac{1}{2} + 17\\frac{3}{4} - 5\\frac{1}{5} - 2\\frac{1}{{10}} = \\frac{{439}}{{20}}\\)<br>II. \\(\\frac{9}{{1078}} &gt; \\frac{{11}}{{1127}} &gt; \\frac{{12}}{{1219}}\\)<br>III. \\(\\frac{{149}}{{151}} &gt; \\frac{{153}}{{155}} &gt; \\frac{{157}}{{159}}\\)",
+    "OP1": "Only I",
+    "OP2": "Only II",
+    "OP3": "Only III",
+    "OP4": "None is true",
+    "Answer": "1",
+    "Solution": "Statement I: Solving the given equation:<br>⇒ 23/2 + 71/4 – 26/5 – 21/10<br>⇒ 117/4 – 73/10<br>⇒ 878/40<br>⇒ 439/20<br>So Statement I is true.<br>Here if we see the option then we can conclude that if we get any one statement true then we need not to check others.<br>∴ Only Option 1 is correct.<br><span><strong><span><u>Additional Information</u></span></strong></span><br><u><strong>Option 2:</strong></u><br>\\(\\frac{9}{{1078}} =8.34 \\times 10^{-3}\\)<br>\\(\\frac{{11}}{{1127}} =9.76 \\times 10^{-3}\\)<br>\\(\\frac{{12}}{{1219}} =9.84 \\times 10^{-3}\\)<br>\\(\\therefore ~\\frac{9}{{1078}} &lt; \\frac{{11}}{{1127}} &lt; \\frac{{12}}{{1219}}\\)<br>So, option 2 is wrong<br><u><span>Option 3:</span></u><br><u><span>\\(\\frac{{149}}{{151}} =0.9867\\)</span></u><br><u><span>\\(\\frac{{153}}{{155}} =0.9870\\)</span></u><br><u><span>\\(\\frac{{157}}{{159}}=0.9874\\)</span></u><br><u><span>\\(\\therefore \\frac{{149}}{{151}} &lt; \\frac{{153}}{{155}} &lt; \\frac{{157}}{{159}}\\)</span></u><br>So, option 3 is wrong",
+    "Tags": [
+      "MATH::Simplification",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1007,
+    "SL": "7",
+    "Question": "Which of the following statement(s) is/are TRUE?<br>I. \\(\\frac{2}{{3\\sqrt 5 }} &lt; \\frac{3}{{2\\sqrt 5 }} &lt; \\frac{5}{{4\\sqrt 3 }}\\)<br>II. \\(\\frac{3}{{2\\sqrt 5 }} &lt; \\frac{2}{{3\\sqrt 3 }} &lt; \\frac{7}{{4\\sqrt 5 }}\\)",
+    "OP1": "Only I",
+    "OP2": "Only II",
+    "OP3": "Both I and II",
+    "OP4": "Neither I nor II",
+    "Answer": "1",
+    "Solution": "<strong>Statement I:</strong><br>We need to make the denominators equal,<br>(2 × 4 × √3) / (3√5 × 4 × √3) &lt; (3 × 3 × 2 × √3) / (2√5 × 3 × 2 × √3) &lt; (5 × 3 × √5) / (4√3 × 3 × √5)<br>= (8√3) / (12√15) &lt; (18√3) / (12√15) &lt; (15√5) / (12√15)<br>Now denominators are equal and by approximation we can say 8√3 &lt; 18√3 &lt; 15√5 is true (√192 &lt; √972 &lt; √1125 after transforming the square root)<br>So statement I is true.<br><strong>Statement II:</strong><br>Similarly we need to make denominator equal here too.<br>So (3 × 6 × √3) / (3√5 × 4 × √3) &lt; (4 × 2 × √5) / (2√5 × 3 × 2 × √3) &lt; (7 × 3 × √5) / (4√3 × 3 × √5)<br>= (18√3) / (12√15) &lt; (8√5) / (12√15) &lt; (21√3) / (12√15)<br>Now denominators are equal and by approximation we can say 18√3 &lt; 8√5 &lt; 21√3, is not true (√972 &lt; √320 &lt; √1323 after transforming the square root)<br>So statement II is not true.<br>∴ Only Option 1 is correct.",
+    "Tags": [
+      "MATH::Number-System",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1008,
+    "SL": "8",
+    "Question": "Which of the following statement(s) is/are TRUE?<br>I. The total number of positive factors of 72 is 12.<br>II. The sum of first 20 odd numbers is 400.<br>III. Largest two-digit prime number is 97.",
+    "OP1": "Only I and II",
+    "OP2": "Only II and III",
+    "OP3": "Only I and III",
+    "OP4": "All are true",
+    "Answer": "4",
+    "Solution": "<strong>Statement I:</strong><br>⇒ Positive factors of 72: 1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 36, 72<br>Total factors = 12<br>∴ Statement I is true<br><strong>Statement II:</strong><br>We know that sum of first n odd numbers = n<sup>2</sup><br>⇒ Sum of first 20 odd numbers = 20<sup>2</sup> = 400<br>∴ Statement II is also true.<br>Statement III:<br>Largest two digit prime number is 97<br>∴ Statement III is also true<br>∴ All Statements are true.",
+    "Tags": [
+      "MATH::Number-System",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1009,
+    "SL": "9",
+    "Question": "If M = (3/7) ÷ (6/5) × (2/3) + (1/5) × (3/2) and N = (2/5) × (5/6) ÷ (1/3) + (3/5) × (2/3) ÷ (3/5), then what is the value of M/N?",
+    "OP1": "207/560",
+    "OP2": "339/1120",
+    "OP3": "113/350",
+    "OP4": "69/175",
+    "Answer": "3",
+    "Solution": "⇒ M = 15/42 × 2/3 + 3/10<br>⇒ M = 5/21 + 3/10<br>⇒ M = 113/210<br>⇒ N = 1 + 2/3<br>⇒ N = 5/3<br>Now, M/N = 113/210 × 3/5<br>∴ M/N = 113/350",
+    "Tags": [
+      "MATH::Simplification",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1010,
+    "SL": "10",
+    "Question": "M is the largest 4 digit number, which when divided by 4, 5, 6 and 7 leaves remainder as 2, 3, 4, and 5 respectively. What will be the remainder when M is divided by 9?",
+    "OP1": "2",
+    "OP2": "1",
+    "OP3": "3",
+    "OP4": "6",
+    "Answer": "2",
+    "Solution": "LCM of 4, 5, 6 and 7 = 420<br>Since we want the largest 4 digit number, so we need to take largest 4 digit common multiple of 4, 5, 6 and 7 which is 9660 (420 × 23)<br>Now, as given when this number is divided by 4, 5, 6 and 7, it leaves reminders as 2, 3, 4 and 5 respectively.<br>And the difference between each devisor and reminder is 2 (4 – 2, 5 – 3, 6 – 4, 7 – 5)<br>So, required number = 9660 – 2 = 9658<br>∴ When 9658 is divided by 9, it will leave reminder 1.",
+    "Tags": [
+      "MATH::Number-System",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1011,
+    "SL": "11",
+    "Question": "Which of the following statement(s) is/are TRUE?<br>I. √11 + √7 &lt; √10 + √8<br>II. √17 + √11 &gt; √15 + √13",
+    "OP1": "Only I",
+    "OP2": "Only II",
+    "OP3": "Both I and II",
+    "OP4": "Neither I nor II",
+    "Answer": "1",
+    "Solution": "Here is a trick to solve such questions:<br>For comparing two square roots like √a + √b and √c + √d, between a × b and c × d, the highest product will be larger.<br><strong>Statement I:</strong><br>√11 + √7 &lt; √10 + √8<br>⇒ 11 × 7 = 77 and 10 × 8 = 80<br>Since 77 &lt; 80.<br>∴ Statement I is true<br><strong>Statement II:</strong><br>√17 + √11 &gt; √15 + √13<br>⇒ 17 × 11 = 187 and 15 × 13 = 195<br>Since 187 &lt; 195.<br>∴ Statement II is not true.<br>∴ Only Statement I is true.",
+    "Tags": [
+      "MATH::Number-System",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1012,
+    "SL": "12",
+    "Question": "Which of the following statements (s) is/are TRUE?<br>I. √12 &gt; ∛16 &gt; ∜24<br>II. ∛25 &gt; ∜32 &gt; <sup>6</sup>√48<br>III. ∜9 &gt; ∛15 &gt; <sup>6</sup>√24",
+    "OP1": "Only I and II",
+    "OP2": "Only I and III",
+    "OP3": "Only I",
+    "OP4": "All are true",
+    "Answer": "1",
+    "Solution": "<strong>Statement I:</strong><br>We may write it as (12)<sup>1/2</sup>, (16)<sup>1/3</sup> and (24)<sup>1/4</sup><br>Now we need to remove the negative power from them, so we will take power 12 (as LCM) of each one.<br>⇒ (12)<sup>6</sup>, (16)<sup>4</sup>, (24)<sup>3</sup><br>⇒ (1728)<sup>2</sup>, (256)<sup>2</sup>, 13824<br>Here, (1728)<sup>2</sup>&gt; (256)<sup>2</sup>&gt; 13824<br>Hence, √12 &gt; ∛16 &gt; ∜24 holds true.<br>∴ Statement I is true<br><strong>Statement II:</strong><br>We may write it as (25)<sup>1/3</sup>, (32)<sup>1/4</sup> and (48)<sup>1/6</sup><br>Now we need to remove the negative power from them, so we will take power 12 (as LCM) of each one.<br>⇒ (25)<sup>4</sup>, (32)<sup>3</sup>, (48)<sup>2</sup><br>⇒ (625)<sup>2</sup>, 32768, 2304<br>Here, (625)<sup>2</sup>&gt; 32768 &gt; 2304<br>Hence, ∛25 &gt; ∜32 &gt; <sup>6</sup>√48holds true.<br>∴ Statement II is true<br><strong>Statement III:</strong><br>We may write it as (9)<sup>1/4</sup>, (15)<sup>1/3</sup> and (24)<sup>1/6</sup><br>Now we need to remove the negative power from them, so we will take power 12 (as LCM) of each one.<br>⇒ (9)<sup>3</sup>, (15)<sup>4</sup>, (24)<sup>2</sup><br>⇒ 729, (225)<sup>2</sup>, 576<br>Here, 729 &lt; (225)<sup>2</sup><br>Hence, given statement ∜9 &gt; ∛15 &gt; <sup>6</sup>√24 does not hold true.<br>∴ Statement III is not true<br>∴ Only Statement I and II are true.",
+    "Tags": [
+      "MATH::Number-System",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1013,
+    "SL": "13",
+    "Question": "If x + y + z = 22 and xy + yz + zx = 35, then what is the value of (x – y)<sup>2</sup> + (y – z)<sup>2</sup> + (z – x)<sup>2</sup>?",
+    "OP1": "793",
+    "OP2": "681",
+    "OP3": "758",
+    "OP4": "715",
+    "Answer": "3",
+    "Solution": "(x + y + z)<sup>2</sup> = x<sup>2</sup> + y<sup>2</sup> + z<sup>2</sup> +2(xy + yz + zx)<br>⇒ 484 = x<sup>2</sup> + y<sup>2</sup> + z<sup>2</sup> + 70<br>⇒ x<sup>2</sup> + y<sup>2</sup> + z<sup>2</sup> = 414<br>(x – y)<sup>2</sup> + (y – z)<sup>2</sup> + (z – x)<sup>2</sup> = 2[x<sup>2</sup> + y<sup>2</sup> + z<sup>2</sup> – (xy + yz + zx)]<br>⇒ (x – y)<sup>2</sup> + (y – z)<sup>2</sup> + (z – x)<sup>2</sup> = 2 × (414 – 35)<br>∴ (x – y)<sup>2</sup> + (y – z)<sup>2</sup> + (z – x)<sup>2</sup> = 758",
+    "Tags": [
+      "MATH::Algebra",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1014,
+    "SL": "14",
+    "Question": "If (x + y) /z = 2, then what is the value of [y/ (y – z)] + [x/ (x – z)]?",
+    "OP1": "0",
+    "OP2": "1",
+    "OP3": "2",
+    "OP4": "-1",
+    "Answer": "3",
+    "Solution": "[y/ (y – z)] + [x/ (x – z)]<br>Put y = 0, x = 2 and z = 1 (it will satisfy the given equation (x + y)/z = 2 )<br>⇒ [y/ (y – z)] + [x/ (x – z)] = 0 + 2<br>∴ [y/ (y – z)] + [x/ (x – z)] = 2",
+    "Tags": [
+      "MATH::Algebra",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1015,
+    "SL": "15",
+    "Question": "If α and β are the roots of equation x<sup>2</sup> – 2x + 4 = 0, then what is the equation whose roots are α<sup>3</sup>/β<sup>2</sup> and β<sup>3</sup>/α<sup>2</sup>?",
+    "OP1": "x<sup>2</sup> – 4x + 8 = 0",
+    "OP2": "x<sup>2</sup>– 32x + 4 = 0",
+    "OP3": "x<sup>2</sup> - 2x + 4 = 0",
+    "OP4": "​x<sup>2</sup>– 16x + 4 = 0",
+    "Answer": "3",
+    "Solution": "<strong>Given:</strong><br>α and β be two roots of the equation x<sup>2</sup> - 2x + 4 = 0<br><strong>Concept Used:</strong><br>If α and β be two roots of a quadratic equation ax<sup>2</sup> + bx + c = 0 then,<br>α + β = (- b/a) and α.β = c/a<br>If α and β be two roots then the equation of the quadratic equation is x<sup>2</sup> - (α + β)x + α.β = 0<br>α<sup>5</sup> + β<sup>5</sup>= {(α<sup>2</sup> + β<sup>2</sup>) × (α<sup>3</sup> + β<sup>3</sup>) - (α<sup>2</sup>β<sup>3</sup> + α<sup>3</sup>β<sup>2</sup>)}<br>α<sup>2</sup> + β<sup>2</sup> = (α + β)<sup>2</sup> - 2αβ<br>α<sup>3</sup> + β<sup>3</sup> = (α + β)<sup>3</sup> - 3αβ × (α + β)<br><strong>Calculation:</strong><br>Since α and β are the roots of equation x<sup>2</sup> – 2x + 4 = 0<br>⇒ α + β = 2 and α × β = 4<br>Now we need to find the sum and product of the roots of the equation whose roots are α<sup>3</sup>/β<sup>2</sup> and β<sup>3</sup>/α<sup>2</sup><br>α<sup>3</sup>/β<sup>2</sup> + β<sup>3</sup>/α<sup>2</sup><br>⇒ (α<sup>5</sup> + β<sup>5</sup>) / α<sup>2</sup>β<sup>2</sup><br>⇒ {(α<sup>2</sup> + β<sup>2</sup>) × (α<sup>3</sup> + β<sup>3</sup>) - (α<sup>2</sup>β<sup>3</sup> + α<sup>3</sup>β<sup>2</sup>)} / (αβ)<sup>2</sup><br>⇒ [{(α + β)<sup>2</sup> - 2αβ} × {(α + β)<sup>3</sup> - 3αβ × (α + β)} - α<sup>2</sup>β<sup>2</sup> × (α + β)] / (αβ)<sup>2</sup><br>⇒ {(2<sup>2</sup> - 2 × 4) × (2<sup>3</sup> - 3 × 4 × 2) - 4<sup>2</sup> × 2} / 4<sup>2</sup><br>⇒ {(- 4) × (- 16) - 32} / 16<br>⇒ (64 - 32) / 16<br>⇒ 2<br>And α<sup>3</sup>/β<sup>2</sup> × β<sup>3</sup>/α<sup>2</sup>= α × β = 4<br><strong>∴ The equation should be x<sup>2</sup> - 2x + 4 = 0</strong>",
+    "Tags": [
+      "MATH::Algebra",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1016,
+    "SL": "16",
+    "Question": "If one root of the equation Ax<sup>2</sup> + Bx + C = 0 is two and a half times the other, then which of the following is TRUE?",
+    "OP1": "7B<sup>2</sup> = 3CA",
+    "OP2": "7B<sup>2</sup> = 4CA",
+    "OP3": "7B<sup>2</sup>= 36CA",
+    "OP4": "10B<sup>2</sup>= 49CA",
+    "Answer": "4",
+    "Solution": "Ax<sup>2</sup> + Bx + C = 0<br>Let one root be P and then the other root will be 2.5P<br>⇒ P + 2.5P = -B/A (Sum of Roots)<br>⇒ 3.5P = -B/A ---- (1)<br>⇒ P × 2.5P = C/A (Product of Roots)<br>⇒ 2.5 P<sup>2</sup> = C/A ---- (2)<br>From equation 1 and 2<br>⇒ 2.5 × B<sup>2</sup>/ (3.5 × 3.5 × A<sup>2</sup>) = C/A<br>⇒ B<sup>2</sup> = 4.9AC<br>∴ 10B<sup>2</sup> = 49AC",
+    "Tags": [
+      "MATH::Algebra",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1017,
+    "SL": "17",
+    "Question": "If x<sup>2</sup> - 12x + 33 = 0, then what is the value of (x - 4)<sup>2</sup> + [1/ (x - 4)<sup>2</sup>]?",
+    "OP1": "16",
+    "OP2": "14",
+    "OP3": "18",
+    "OP4": "20",
+    "Answer": "2",
+    "Solution": "Put (x - 4) = m<br>⇒ x = m + 4<br>⇒ (m + 4)<sup>2</sup> - 12(m + 4) + 33 = 0<br>⇒ m<sup>2</sup> + 16 + 8m - 12m - 48 + 33 = 0<br>⇒ m<sup>2</sup> - 4m + 1 = 0<br>On dividing the equation by m,<br>⇒ m + 1/m = 4<br>Now Putting (x - 4) = m in (x - 4)<sup>2</sup> + [1/ (x - 4)<sup>2</sup>]<br>⇒ m<sup>2</sup> + 1/m<sup>2</sup> = (m + 1/m)<sup>2</sup> - 2<br>⇒ m<sup>2</sup> + 1/m<sup>2</sup> = 16 - 2 = 14<br>∴ (x - 4)<sup>2</sup> + [1/ (x - 4)<sup>2</sup>] = 14",
+    "Tags": [
+      "MATH::Algebra",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1018,
+    "SL": "18",
+    "Question": "If a<sup>4</sup> + 1 = [a<sup>2</sup>/b<sup>2</sup>](4b<sup>2</sup> - b<sup>4</sup> - 1) and b =1, then what is the value of a<sup>4</sup> + b<sup>4</sup>?",
+    "OP1": "2",
+    "OP2": "16",
+    "OP3": "32",
+    "OP4": "64",
+    "Answer": "1",
+    "Solution": "a<sup>4</sup> + 1 = [a<sup>2</sup>/b<sup>2</sup>](4b<sup>2</sup> - b<sup>4</sup> - 1)<br>Put b = 1 in the above equation,<br>⇒ a<sup>4</sup> + 1 = a<sup>2</sup> × 2<br>⇒ a<sup>4</sup> + 1 - 2a<sup>2</sup>= 0<br>⇒ a = <u>+</u>1<br>∴ a<sup>4</sup> + b<sup>4</sup>= 2",
+    "Tags": [
+      "MATH::Algebra",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1019,
+    "SL": "19",
+    "Question": "If \\(3\\sqrt {\\frac{{1{\\rm{\\;}} - {\\rm{\\;}}a}}{a}} + 9 = 19 - 3\\sqrt {\\frac{a}{{1{\\rm{\\;}} - {\\rm{\\;}}a}}}\\), then what is the value of a?",
+    "OP1": "3/10, 7/10",
+    "OP2": "1/10, 9/10",
+    "OP3": "2/5, 3/5",
+    "OP4": "1/5, 4/5",
+    "Answer": "2",
+    "Solution": "Put √[(1 - a) /a] = x<br>⇒ 3x + 9 = 19 - 3/x<br>⇒ 3x + 3/x = 10<br>⇒ x = 3, 1/3<br>Now, √[(1 - a) /a] = 3<br>⇒ (1 - a) /a = 9<br>⇒ 10a = 1<br>⇒ a = 1/10<br>and √[(1 - a) /a] = 1/3<br>⇒ (1 - a) /a = 1/9<br>⇒ 10a = 9<br>⇒ a = 9/10<br>∴ a = 1/10 and 9/10",
+    "Tags": [
+      "MATH::Algebra",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1020,
+    "SL": "20",
+    "Question": "If a + b = 10 and √[(a/b) - 13] = √[(-b/a) - 11], then what is the value of 3ab + 4a<sup>2</sup> + 5b<sup>2</sup>?",
+    "OP1": "450",
+    "OP2": "300",
+    "OP3": "600",
+    "OP4": "750",
+    "Answer": "2",
+    "Solution": "We can take a = b = 5 (it will satisfy the given equation √[(a/b) - 13] = √[(-b/a) - 11]<br>By putting a = b = 5,<br>⇒ 3ab + 4a<sup>2</sup> + 5b<sup>2</sup> = 3 × 25 + 4 × 25 + 5 × 25<br>∴ 3ab + 4a<sup>2</sup> + 5b<sup>2</sup> = 300",
+    "Tags": [
+      "MATH::Algebra",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1021,
+    "SL": "21",
+    "Question": "If 3x + 4y - 2z + 9 = 17, 7x + 2y + 11z + 8 = 23 and 5x + 9y + 6z - 4 = 18, then what is the value of x + y + z - 34?",
+    "OP1": "-28",
+    "OP2": "-14",
+    "OP3": "-31",
+    "OP4": "-45",
+    "Answer": "3",
+    "Solution": "On adding all the three equations,<br>⇒ 15x + 15y + 15z = 45<br>⇒ x + y + z = 3<br>⇒ x + y + z - 34 = -31",
+    "Tags": [
+      "MATH::Algebra",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1022,
+    "SL": "22",
+    "Question": "If x + 3y - 2z/4 = 6, x + (2/3)(2y + 3z) = 33 and (1/7)(x + y + z) + 2z = 9, then what is the value of 46x + 131y?",
+    "OP1": "414",
+    "OP2": "364",
+    "OP3": "384",
+    "OP4": "464",
+    "Answer": "1",
+    "Solution": "Arranging the equations,<br>4x + 12y – 2z = 24 ---- (1)<br>3x + 4y + 6z = 99 ---- (2)<br>x + y + 15z = 63 ---- (3)<br>Multiply equation (i) by 3, we get<br>12x + 36y – 6z = 72 ----(4)<br>Now, adding equation (2) and equation (4), we get<br>⇒ 12x + 3x + 36y + 4y = 99 + 72<br>⇒ 15x + 40y = 171 ----(5)<br>Multiply equation (2) by 5 and equation (3) by 2 and then subtract the equation (3) from equation (2)<br>⇒ 13x + 18y = 369 ---- (6)<br>Multiply equation (5) by 9 and equation (6) by 20 and then subtract the equation (5) from equation (6)<br>⇒ 125x = 5841<br>⇒ x = 46.728<br>Putting value of x in above equations, we will get<br>y = -13.248<br>Now, 46x + 131y = (46 × 46.728) + (131 × (-13.248)<br>⇒ 2149.488 – 1735.488 = 414<br><strong>∴ The value of 46x + 131y is 414</strong>",
+    "Tags": [
+      "MATH::Algebra",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1023,
+    "SL": "23",
+    "Question": "In ΔXYZ, G is the centroid. If XY = 11 cm, YZ = 14 cm and XZ = 7 cm, then what is the value (in cm) of GM?<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/18/12/26.12.2018.001.001.JPG\">",
+    "OP1": "6",
+    "OP2": "4",
+    "OP3": "2",
+    "OP4": "3",
+    "Answer": "3",
+    "Solution": "In a ΔXYZ with median XM,<br>(XY)<sup>2</sup> + (XZ)<sup>2</sup> = 2(YM<sup>2</sup> + XM<sup>2</sup>)<br>Putting the given values,<br>⇒ 11<sup>2</sup> + 7<sup>2</sup> = 2(7<sup>2</sup> + XM<sup>2</sup>)<br>⇒ 121 + 49 = 98 + 2(XM<sup>2</sup>)<br>⇒ 2(XM)<sup>2</sup> = 72<br>⇒ XM = 6 cm<br>We know centroid divides the median in the ratio 2 ∶ 1<br>∴ GM = 1/3 × 6 = 2 cm",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1024,
+    "SL": "24",
+    "Question": "In the given figure, PQRS is a square inscribed in a circle of radius 4 cm. PQ is produced till point Y. From Y a tangent is drawn to the circle at point R. What is the length (in cm) of SY? (Given that QR = QY)<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/18/12/26.12.2018.001.004.JPG\">",
+    "OP1": "4√10",
+    "OP2": "2√10",
+    "OP3": "6√10",
+    "OP4": "3√5",
+    "Answer": "1",
+    "Solution": "<img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/18/12/26.12.2018.001.004.JPG\"><br>Radius of the circle is 4 cm, so diameter = 8cm<br>Hence by Pythagoras theorem,<br>⇒ Side of the square = 4√2<br>In ΔRYQ,<br>⇒ RQ = QY = 4√2<br>In ΔSPY,<br>⇒ SP = 4√2cm and PY = 4√2 + 4√2 = 8√2 cm<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/18/12/26.12.2018.001.005.JPG\"><br>Applying Pythagoras theorem:<br>⇒ SY<sup>2</sup> = SP<sup>2</sup> + PY<sup>2</sup><br>⇒ SY<sup>2</sup> = 32 + 128<br>⇒ SY<sup>2</sup> = 160<br>∴ SY = 4√10 cm",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1025,
+    "SL": "25",
+    "Question": "​In a trapezium, one diagonal divides the other in the ratio 2 ∶ 9. If the length of the larger of the two parallel sides is 45 cm, then what is the length (in cm) of the other parallel side?",
+    "OP1": "10",
+    "OP2": "5",
+    "OP3": "18",
+    "OP4": "14",
+    "Answer": "1",
+    "Solution": "One diagonal divides the other in the ratio 2 ∶ 9,<br>And in a trapezium the ratio of length of parallel sides will also be same as ratio of diagonals,<br>∴ Larger parallel side/Smaller Parallel side = 9/2<br>⇒ Smaller Parallel Side = 2/9 × 45 = 10 cm",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1026,
+    "SL": "26",
+    "Question": "In the given figure, CD and AB are diameters of circle and AB and CD are perpendicular to each other. QL and SR are perpendiculars to AB and CD respectively. Radius of circle is 5 cm, PB ∶ PA = 2 ∶ 3 and CN ∶ ND = 2 : 3. What is the length (in cm) of SM?<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/19/01/CGL_2018_T2_20_Feb_2_hrev.docx_1.PNG\">",
+    "OP1": "[(5√3) - 3]",
+    "OP2": "[(4√3) - 2]",
+    "OP3": "[(2√5) - 1]",
+    "OP4": "[(2√6) - 1]",
+    "Answer": "4",
+    "Solution": "<img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/19/01/CGL_2018_T2_20_Feb_2_hrev.docx_2.PNG\"><br>Since PA ∶ PB = 3 ∶ 2 and AB is diameter which is equal to 10 cm,<br>⇒ PA = 3/5 × 10 = 6 cm and PB = 10 - 6 = 4 cm<br>Since AO is the radius of the circle,<br>∴ OP = 6 - 5 = 1 cm<br>In the same way,<br>ND = 6 cm and NC = 4 cm<br>∴ NO = 6 - 5 = 1 cm<br>Now applying Pythagoras theorem in ΔOSN,<br>⇒ OS<sup>2</sup> = NS<sup>2</sup> + NO<sup>2</sup><br>Since OS is the radius of the circle, OS = 5 cm<br>⇒ 25 = NS<sup>2</sup> + 1<br>⇒ NS = 2√6<br>∴ SM = (2√6 - 1) cm",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1027,
+    "SL": "27",
+    "Question": "In the given figure, PQRS is a square of side 20 cm and SR is extended to point T. If the length of QT is 25 cm, then what is the distance (in cm) between the centres O<sub>1</sub> and O<sub>2</sub> of the two circle?<br><img src=\"//storage.googleapis.com/tb-img/production/19/01/CGL_2018_T2_20_Feb_2_hrev.docx_5.PNG\">",
+    "OP1": "5√10",
+    "OP2": "4√10",
+    "OP3": "8√5",
+    "OP4": "16√2",
+    "Answer": "1",
+    "Solution": "<img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/19/01/CGL_2018_T2_20_Feb_2_hrev.docx_6.PNG\"><br>Given QT = 25 cm and QR = SR = 20 cm,<br>⇒ RT = 15 cm (Right angle triangle)<br>Now in ΔQRT,<br>Inradius = (Base + Perpendicular - Hypotenuses)/2 = (15 + 20 - 25)/2<br>⇒ Inradius = 5 cm<br>⇒ O<sub>2</sub>C = 5 cm<br>Since O<sub>1</sub>B = 10 cm and AB = 5 cm<br>⇒ O<sub>1</sub>A = O<sub>1</sub>B - AB<br>⇒ O<sub>1</sub>A = 5 cm and AO<sub>2</sub> = 10 + 5 = 15 cm<br>Now applying Pythagoras theorem in ΔAO<sub>1</sub>O<sub>2</sub>,<br>⇒ (O<sub>1</sub>O<sub>2</sub>)<sup>2</sup> = (O<sub>1</sub>A)<sup>2</sup> + (AO<sub>2</sub>)<sup>2</sup><br>⇒ (O<sub>1</sub>O<sub>2</sub>)<sup>2</sup> = (15)<sup>2</sup> + (5)<sup>2</sup><br>⇒ (O<sub>1</sub>O<sub>2</sub>)<sup>2</sup> = 250<br>⇒ O<sub>1</sub>O<sub>2</sub> = 5√10 cm<br>∴ Distance between the centre of two circle = 5√10 cm",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1028,
+    "SL": "28",
+    "Question": "In the given figure, PQSR is a square of side 6 cm. What is the value (in cm) of the radius of the circle?(where M is the point of contact of the tangent QS and the circle).<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/20/12/117.PNG\">",
+    "OP1": "4.25",
+    "OP2": "3.75",
+    "OP3": "3.5",
+    "OP4": "4.55",
+    "Answer": "2",
+    "Solution": "<img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/21/04/F1_Arindam.G_09-04-21_Savita_D1.png\"><br>QM = QS/2 = 3 cm and QP = 6 cm<br>QM<sup>2</sup> = QT × QP<br>⇒ QT = 9/6 = 3/2 cm<br>⇒ PT = PQ - QT<br>⇒ PT = 6 - 3/2 = 9/2 cm<br>Hence PV = ½ × 9/2 = 9/4 cm and VC = ½ × 6 = 3 cm<br>Applying Pythagoras theorem in ΔPVC,<br>⇒ PC<sup>2</sup> = PV<sup>2</sup> + VC<sup>2</sup><br>⇒ PC<sup>2</sup> = (9/4)<sup>2</sup> + 3<sup>2</sup><br>⇒ PC<sup>2</sup> = 225/16<br>⇒ PC = 15/4 = 3.75 cm<br>∴ Radius of the circle = 3.75 cm",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1029,
+    "SL": "29",
+    "Question": "In the given figure, ΔPQR is a right angled triangle at Q. If PQ = 35 cm and QS = 28 cm and a semicircle passes from the point QRS, then what is the value (in cm) of SR?<br><img src=\"//storage.googleapis.com/tb-img/production/19/01/CGL_2018_T2_20_Feb_2_hrev.docx_9.PNG\">",
+    "OP1": "35.33",
+    "OP2": "37.33",
+    "OP3": "41.33",
+    "OP4": "43.33",
+    "Answer": "2",
+    "Solution": "Here ∠PQR is 90° and ∠QSR will also be 90° (Angle made by diameter of the circle)<br>⇒ ∠PSQ = 90°<br>Applying Pythagoras theorem in ∆PSQ,<br>⇒ PQ<sup>2</sup> = PS<sup>2</sup>+ SQ<sup>2</sup><br>⇒ PS<sup>2</sup> = 35<sup>2</sup>- 28<sup>2</sup><br>⇒ PS<sup>2</sup> = 1225 - 784<br>⇒ PS = 21 cm<br>Now ∆PQS and ∆QRS are similar triangles,<br>⇒ QS/RS = PS/QS<br>⇒ QS<sup>2</sup> = RS × PS<br>⇒ RS = QS<sup>2</sup>/PS<br>⇒ RS = (28 × 28)/21<br>∴ RS = 37.33 cm",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1030,
+    "SL": "30",
+    "Question": "In the given figure, P is the centre of the circle. If QS = PR, then what is the ratio of ∠RSP to the ∠TPR?<br><img src=\"//storage.googleapis.com/tb-img/production/19/01/CGL_2018_T2_20_Feb_2_hrev.docx_10.PNG\">",
+    "OP1": "1 ∶ 4",
+    "OP2": "2 ∶ 5",
+    "OP3": "1 ∶ 3",
+    "OP4": "2 ∶ 7",
+    "Answer": "3",
+    "Solution": "<img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/19/01/CGL_2018_T2_20_Feb_2_hrev.docx_11.PNG\"><br>As given P is the centre of the circle, so PQ and PR are the radius of the circle.<br>⇒ PR = PQ and Given SQ = PR<br>⇒ SQ = PQ<br>⇒ ΔPSQ will be an Isosceles Triangle.<br>Let ∠PSQ = θ then ∠SPQ = θ<br>From Exterior Angle Theorem, in ∆PQS,<br>⇒ ∠PQR = ∠PSQ + ∠SPQ<br>⇒ ∠PQR = θ + θ = 2θ<br>And ∠PRQ = 2θ<br>Now from Exterior Angle Theorem, in ∆PSR<br>⇒ ∠TPR = ∠PSR + ∠PRS<br>⇒ ∠TPR = θ + 2θ = 3θ<br>∴ ∠RSP ∶ ∠TPR = 1 : 3",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1031,
+    "SL": "31",
+    "Question": "The distance between the centers of two circles is 60 cm and their radii are 35 cm and 24 cm respectively. What is the length (in cm) of the direct common tangent to the circles?",
+    "OP1": "\\(\\sqrt(3479)\\)",
+    "OP2": "61",
+    "OP3": "48",
+    "OP4": "72",
+    "Answer": "1",
+    "Solution": "We know the formula for length of direct common tangent,<br>L<sup>2</sup> = D<sup>2</sup> - (r<sub>1</sub> - r<sub>2</sub>)<sup>2</sup><br>Here L = Length of direct common tangent, D = Distance between the centre of the circles, r<sub>1</sub> and r<sub>2</sub> are radius of circles,<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/20/11/F1_Harshit_5.11.20_Pallavi_D1.png\"><br>⇒ L<sup>2</sup> = 60<sup>2</sup> - (35 - 24)<sup>2</sup><br>⇒ L<sup>2</sup> = 3600 - 121<br>⇒ L = \\(\\sqrt(3479)\\) cm<br>∴ Length of direct common tangent = \\(\\sqrt(3479)\\) cm",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1032,
+    "SL": "32",
+    "Question": "In the given figure, PQRS is a quadrilateral. If QR = 18 cm and PS = 9 cm, then what is the area (in cm<sup>2</sup>) of quadrilateral PQRS?<br><img src=\"//storage.googleapis.com/tb-img/production/19/01/CGL_2018_T2_20_Feb_2_hrev.docx_12.PNG\">",
+    "OP1": "(64√3)/3",
+    "OP2": "(177√3)/2",
+    "OP3": "(135√3)/2",
+    "OP4": "(98√3)/3",
+    "Answer": "3",
+    "Solution": "<img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/19/01/CGL_2018_T2_20_Feb_2_hrev.docx_13.PNG\"><br>Extend the line QP and RS they will meet at T and they will form an equilateral triangle<br>∆QRT is an equilateral triangle with side = 18 cm,<br>⇒ Area of the ∆QRT = √3/4 × 18 × 18 = 81√3 cm<sup>2</sup><br>⇒ ∆TSP is the right angle triangle with PS = 9 cm,<br>⇒ TS = 9 tan 30° = 9/√3 cm<br>⇒ Area of the ∆TSP = 1/2 × 9/√3 × 9 = (27√3)/2 cm<sup>2</sup><br>Now Area of quadrilateral PQRS = Area of ∆QRT - Area of ∆TSP<br>⇒ Area of quadrilateral PQRS = [81√3 - (27√3)/2]<br>∴ Area of quadrilateral PQRS = (135√3)/2 cm<sup>2</sup>",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1033,
+    "SL": "33",
+    "Question": "PQR is a triangle, whose area is 180 cm<sup>2</sup>. S is a point on side QR, such that PS is the angle bisector of ∠QPR. If PQ ∶ PR = 2 ∶ 3, then what is the area (in cm<sup>2</sup>) of ΔPSR?",
+    "OP1": "90",
+    "OP2": "108",
+    "OP3": "144",
+    "OP4": "72",
+    "Answer": "2",
+    "Solution": "<img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/19/01/CGL_2018_T2_20_Feb_2_hrev.docx_14.PNG\"><br>In the ΔPQR, PS is the angle bisector of the ∠QPR,<br>PQ ∶ PR = 2 ∶ 3,<br>By Angle bisector theorem,<br>⇒ Area of ∆PQS/Area of ∆PSR = 2/3<br>⇒ Area of ∆PSR/Area of ∆PQR = 3/5<br>∴ Area of ∆PSR = 3/5 × 180 = 108 cm<sup>2</sup>",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1034,
+    "SL": "34",
+    "Question": "In the given figure, ABCD is a square. EFGH is a square formed by pointing the mid points of sides of ABCD. LMNO is a square formed by joining the mid points of sides of EFGH. A circle is inscribed inside LMNO. If area of circle is 38.5 cm<sup>2</sup>, then what is the area (in cm<sup>2</sup>) square ABCD?<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/19/01/CGL_2018_T2_20_Feb_2_hrev.docx_15.PNG\">",
+    "OP1": "98",
+    "OP2": "196",
+    "OP3": "122.5",
+    "OP4": "171.5",
+    "Answer": "2",
+    "Solution": "Given Area of circle = 38.5<br>⇒ 22/7r<sup>2</sup> = 38.5<br>⇒ r<sup>2</sup> = 12.25<br>⇒ r = 3.5 cm<br>⇒ Side of square LMNO = 2 × 3.5 = 7 cm<br>In ΔNHO, suppose NH = OH = a<br>Now applying Pythagoras theorem in ΔNHO,<br>⇒ a<sup>2</sup> + a<sup>2</sup> = 49<br>⇒ a = 7/√2<br>⇒ NH = OH = 7/√2<br>⇒ Side of square EFGH = 2 × 7/√2 = 7√2 cm<br>In ΔFDH, suppose FD = DH = b cm<br>Now applying Pythagoras theorem in ΔFDH,<br>⇒ b<sup>2</sup> + b<sup>2</sup> = 98<br>⇒ b = 7 cm<br>⇒ FD = DH = 7 cm<br>⇒ Side of square ABCD = 2 × 7 = 14 cm<br>∴ Area of square ABCD = 196 cm<sup>2</sup>",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1035,
+    "SL": "35",
+    "Question": "ABCDEF is a regular hexagon of side 12 cm. What is the area (in cm<sup>2</sup>) of the ΔECD?",
+    "OP1": "18√3",
+    "OP2": "24√3",
+    "OP3": "36√3",
+    "OP4": "42√3",
+    "Answer": "3",
+    "Solution": "<img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/19/01/CGL_2018_T2_20_Feb_2_hrev.docx_16.PNG\"><br>In a regular hexagon ABCDEF, we can see that hexagon is divided into 6 parts,<br>⇒ Area of ΔEDC = 1/6 × (Area of Hexagon)<br>We know the Area of hexagon = 6 × √3/4 × (side)<sup>2</sup><br>∴ Area of ΔEDC = 1/6 × √3/4 × 12 × 12 × 6 = 36√3",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1036,
+    "SL": "36",
+    "Question": "PQRS is a square whose side is 16 cm. What is the value of the side (in cm) of the largest regular octagon that can be cut from the given square?",
+    "OP1": "8 - 4√2",
+    "OP2": "16 + 8√2",
+    "OP3": "16√2 - 16",
+    "OP4": "16 - 8√2",
+    "Answer": "3",
+    "Solution": "<img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/19/01/CGL_2018_T2_20_Feb_2_hrev.docx_17.PNG\"><br>AS shown in the figure square PQRS with side 16 cm has been to make an octagon ABCDEFGH,<br>Here we can see that it is a regular octagon,<br>Since DC is a side of the octagon and ED is also a side,<br>⇒ ED = CD = 16 - 2a<br>Applying Pythagoras Theorem in ΔERD,<br>⇒ ED<sup>2</sup> = a<sup>2</sup> + a<sup>2</sup><br>⇒ 256 + 4a<sup>2</sup> - 64a = 2a<sup>2</sup><br>⇒ 2a<sup>2</sup> - 64a + 256 = 0<br>⇒ a<sup>2</sup> - 32a + 128 = 0<br>⇒ a = [32 - √(1024 - 512)]/2<br>⇒ a = (32 - 16√2)/2<br>⇒ a = 16 - 8√2<br>∴ Side of Octagon = 16 - 2a = 16 - 2(16 - 8√2) = 16√2 - 16",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1037,
+    "SL": "37",
+    "Question": "In the given figure, PQRS is a rectangle, a semicircle with SR as the diameter is drawn. A circle is drawn a shown in the figure. If QR = 7 cm, then what is the radius (in cm) of the small circle?<br><img src=\"//storage.googleapis.com/tb-img/production/19/01/CGL_2018_T2_20_Feb_2_hrev.docx_18.PNG\">",
+    "OP1": "21 + 14√2",
+    "OP2": "21 - 14√2",
+    "OP3": "Both 1 and 2",
+    "OP4": "None of these",
+    "Answer": "2",
+    "Solution": "<img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/19/01/CGL_2018_T2_20_Feb_2_hrev.docx_19.PNG\"><br>As we can see in the figure, RT and QR are the radius of the bigger circle and equal to 7 cm,<br>⇒ QT<sup>2</sup> = 49 + 49<br>⇒ QT = 7√2<br>Now suppose radius of smaller circle is r cm,<br>⇒ QO = r√2<br>Since QT = TU + UO + OQ<br>⇒ QT = 7 + r + r√2<br>⇒ 7√2 = 7 + r(√2 + 1)<br>⇒ r = [7(√2 - 1)/(√2 + 1)]<br>⇒ r = 7(3 - 2√2)<br>⇒ r = 21 - 14√2<br><u><strong>NOTE:</strong></u><br>The rectangular figure when divided in makes two squares and thus the diagonal of the square will be r√2.<br>To calculate the radius of the small circle we will equate the lengths of the diagonal.",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1038,
+    "SL": "38",
+    "Question": "In the given figure, PQR is a quadrant whose radius is 7 cm. A circle is inscribed in the quadrant as shown in the figure. What is the area (in cm<sup>2</sup>) of the circle?<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/19/01/CGL_2018_T2_20_Feb_2_hrev.docx_20.PNG\">",
+    "OP1": "385 - 221√2",
+    "OP2": "308 - 154√2",
+    "OP3": "154 - 77√2",
+    "OP4": "462 - 308√2",
+    "Answer": "4",
+    "Solution": "<img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/19/01/CGL_2018_T2_20_Feb_2_hrev.docx_21.PNG\"><br>Given the radius of the bigger circle is 7 cm and suppose radius of the smaller circle is r cm,<br>⇒ From the figure we can say distance, QO = (7 - r)<br>Now applying the Pythagoras formula in ΔQOT,<br>⇒ (7 - r)<sup>2</sup> = r<sup>2</sup> + r<sup>2</sup><br>⇒ 7 - r = r√2<br>⇒ r = 7/(√2 + 1) = 7(√2 - 1)<br>Area of the circle = πr<sup>2</sup><br>⇒ 22/7 × 7 × 7 × (√2 - 1)<sup>2</sup><br>⇒ 22 × 7 × (3 - 2√2)<br>⇒ 462 - 308√2",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1039,
+    "SL": "39",
+    "Question": "A prism has a regular hexagonal base with side 6 cm. If the total surface area of prism is 216√3 cm<sup>2</sup>, then what is the height (in cm) of prism?",
+    "OP1": "3√3",
+    "OP2": "6√3",
+    "OP3": "6",
+    "OP4": "3",
+    "Answer": "1",
+    "Solution": "Area of the base of prism = 6 × √3/4 × 6 × 6 = 54√3<br>Total surface area of the prism = 2 × Area of the base + 6 × (Side of the base) × (Height of prism)<br>⇒ 216√3 = 2 × 54√3 + 6 × 6 × H<br>⇒ 36H = 108√3<br>∴ H = 3√3 cm",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1040,
+    "SL": "40",
+    "Question": "The radius of the base of a solid cone is 9 cm and its height is 21 cm. It cut into 3 parts by two cuts, which are parallel to its base. The cuts are at height of 7 cm and 14 cm from the base respectively. What is the ratio of curved surface areas of top, middle and bottom parts respectively?",
+    "OP1": "1 ∶ 4 ∶ 8",
+    "OP2": "1 ∶ 3 ∶ 5",
+    "OP3": "1 ∶ 3 ∶ 9",
+    "OP4": "1 ∶ 6 ∶ 12",
+    "Answer": "2",
+    "Solution": "<strong>Given:</strong><br>The radius of the cone = 9 cm<br>The height of the cone = 21 cm<br>Two cuts from base at height of 7 cm and 14 cm to make three parts<br><strong>Concept used:</strong><br><span>Ratio of heights will be equal to ratio of radii</span><br><strong>Formula used:</strong><br>Slant height (l) = \\(√{r^2 + h^2}\\)<br>Curved surface area of the cone = πrl<br>Curved surface area of frustum = π (R<sub>1</sub> + R<sub>2</sub>)l<br><strong>Calculation:</strong><br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/25/02/Sourav_SSC_24_01_25_Amit%20raj%20%20%201.png\"><br>Height will be divided in 3 equal parts<br>So, h<sub>1</sub> = h<sub>2</sub> = h<sub>3</sub> = 7 cm<br>Now,<br><span>Ratio of radii will be equal to ratio of height</span><br><span>i.e. r<sub>1</sub> : r<sub>2</sub> : r<sub>3</sub> = 1 : 2 : 3</span><br><span>So, r<sub>1</sub> = 3 cm, r<sub>2</sub> = 6 cm, r<sub>3</sub> = 9 cm</span><br>Now the slant heights of the three parts are<br>l<sub>1</sub> = √(h<sup>2</sup><sub>1</sub>+ r<sup>2</sup><sub>1</sub>) =<span> √(7<sup>2</sup> + 3<sup>2</sup>) = √(49 + 9) = √58</span><br><span>l<sup>2</sup></span><span> = √(h</span><sup>2</sup><sup>2</sup><span>+ (r</span><span>2<sub></sub></span> - r<sub>1</sub>)<sup>2</sup><span>) =</span><span> √(7<sup>2</sup> + (6 - 3)<sup>2</sup>) = √(49 + 9) = √58</span><br><span>l<sub>3</sub></span><span> = √(h</span><sup>2</sup><sup>3</sup><span>+ (r</span><span>3<span> </span></span><span>- r</span><sup>2</sup><span>)</span><sup>2</sup><span>) =</span><span> √(7<sup>2</sup> + (6 - 3)<sup>2</sup>) = √(49 + 9) = √58</span><br><span>i.e. l<sub>1</sub> = l<sub>2</sub> = l<sub>3</sub> = √58</span><br>Now,<br>the ratio of curved surface areas of three cones:<br>⇒ πr<sup>1</sup>l<sup>1</sup>∶ π(r<sub>1</sub>+ r<sub>2</sub>) l<sup>2</sup>∶ π(r<sub>2</sub> + r<sub>3</sub>) l<sup>3</sup><br><span>⇒ r<sub>1</sub> : (r<sub>1</sub> + r<sub>2</sub>) : (r<sub>2</sub> + r<sub>3</sub>)</span><br><span>⇒ 3 : (3 + 6) : (6 + 9)</span><br><span>⇒ 3 : 9 : 15 = 1 : 3 : 5</span><br><strong>∴ The correct answer is option (2).</strong>",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1041,
+    "SL": "41",
+    "Question": "A right circular cylinder has height 18 cm and radius 7 cm. The cylinder is cut in three equal parts (by 2 cuts parallel to base). What is the percentage increase in total surface area?",
+    "OP1": "62",
+    "OP2": "56",
+    "OP3": "48",
+    "OP4": "52",
+    "Answer": "2",
+    "Solution": "Total surface area before the cut = 2πrh + 2πr<sup>2</sup><br>⇒ 2πr(r + h)<br>⇒ 2 × 22/7 × 7 × 25 = 1100 cm<sup>2</sup><br>After cutting in 3 equal parts by 2 cuts parallel to the base, curved surface area will not increase only base area will increase,<br>⇒ Increase in base area = 4πr<sup>2</sup> = 4 × 22/7 × 7 × 7 = 616 cm<sup>2</sup><br>∴ Percentage increase in total surface area = 616/1100 × 100 = 56%",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1042,
+    "SL": "42",
+    "Question": "The ratio of curved surface area and volume of a cylinder is 1 ∶ 7. The ratio of total surface area and volume is 187 ∶ 770. What is the respective ratio of its base radius and height?",
+    "OP1": "5 ∶ 8",
+    "OP2": "4 ∶ 9",
+    "OP3": "3 ∶ 7",
+    "OP4": "7 ∶ 10",
+    "Answer": "4",
+    "Solution": "Curved surface area/volume = 2πrh/πr<sup>2</sup>h = 1/7<br>⇒ r = 14 cm<br>Total surface area/volume = (2πrh + 2πr<sup>2</sup>)/πr<sup>2</sup>h = 187/770<br>⇒ [2πr(h + r)]/πr<sup>2</sup>h = 187/770<br>⇒ [2(h + r)]/rh = 187/770<br>Putting r = 14 cm<br>⇒ 110(h + 14) = 187 h<br>⇒ 77h = 1540<br>⇒ h = 20 cm<br>∴ r ∶ h = 7 ∶ 10",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1043,
+    "SL": "43",
+    "Question": "The ratio of total surface area and volume of a sphere is 1 ∶ 7. This sphere is melted to form small spheres of equal size. The radius of each small sphere is 1/6<sup>th</sup> the radius of the large sphere. What is the sum (in cm<sup>2</sup>) of curved surface areas of all small spheres?",
+    "OP1": "31276",
+    "OP2": "36194",
+    "OP3": "25182",
+    "OP4": "33264",
+    "Answer": "4",
+    "Solution": "Total surface area/volume = 4πr<sup>2</sup>/(4/3πr<sup>3</sup>) = 1/7<br>⇒ r = 21 cm<br>⇒ Radius of small spheres = 21/6 cm<br>Let’s suppose large sphere is melted to form ‘n’ no. of small spheres,<br>⇒ 4/3π × 21 × 21 × 21 = n × 4/3π × 21/6 × 21/6 × 21/6<br>⇒ n = 216<br>∴ Curved surface area of all the smaller spheres = 216 × 4πr<sup>2</sup><br>⇒ 216 × 4 × 22/7 × 21/6 × 21/6<br>⇒ 33264 cm<sup>2</sup>",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1044,
+    "SL": "44",
+    "Question": "A hemisphere is kept on top of a cube. Its front view is shown in the given figure. The total height of the figure is 21 cm. The ratio of curved surface area of the hemisphere and total surface area of cube is 11 ∶ 42. What is the total volume (in cm <sup>3</sup>) of figure?<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/19/01/CGL_2018_T2_20_Feb_2_hrev.docx_22.PNG\">",
+    "OP1": "3318.33",
+    "OP2": "3462.67",
+    "OP3": "3154.67",
+    "OP4": "3248.33",
+    "Answer": "2",
+    "Solution": "Curved surface area of hemisphere/Total surface area of cube = 2πr<sup>2</sup>/6a<sup>2</sup> = 11/42<br>⇒ 14 × 22/7 × r<sup>2</sup> = 11a<sup>2</sup><br>⇒ a = 2r<br>And given total height of the figure is 21 cm,<br>⇒ a + r = 21<br>⇒ r = 7 cm and a = 14 cm<br>∴ Volume of the figure = a<sup>3</sup> + 2/3πr<sup>3</sup><br>⇒ 14<sup>3</sup> + 2/3 × 22/7 × 7<sup>3</sup><br>⇒ 2744 + 718.67 = 3462.67 cm<sup>3</sup>",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1045,
+    "SL": "45",
+    "Question": "A solid cube has side 8 cm. It is cut along diagonals of top face to get 4 equal parts. What is the total surface area (in cm<sup>2</sup>) of each part?",
+    "OP1": "96 + 64√2",
+    "OP2": "80 + 64√2",
+    "OP3": "96 + 48√2",
+    "OP4": "80 + 48√2",
+    "Answer": "1",
+    "Solution": "<strong>Figure:</strong><br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/21/03/F1_Gayathry%20M_30-03-21_Savita_D1.png\"><br><strong>Calculation:</strong><br>Total surface area of a part = Area of one face of the cube + 2 × 1/4 × Area of top face + 2 × (Side of cube) × (1/2 × face diagonal)<br>⇒ 8 × 8 + 1/2 × 64 + 2 × 8 × ½ × 8√2<br>⇒ 64 + 32 + 64√2<br>⇒ 96 + 64√2",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1046,
+    "SL": "46",
+    "Question": "A regular pyramid has a square base. The height of the pyramid is 22 cm and side of its base is 14 cm. Volume of pyramid is equal to the volume of a sphere. What is the radius (in cm) of the sphere?",
+    "OP1": "∛49",
+    "OP2": "7",
+    "OP3": "14",
+    "OP4": "∛98",
+    "Answer": "2",
+    "Solution": "Volume of pyramid = 1/3 × Area of base × Height<br>Volume of sphere = 4/3πr<sup>3</sup><br>Putting the given values in the formulas and equating both the volumes,<br>⇒ 1/3 × 14 × 14 × 22 = 4/3 × 22/7 × r<sup>3</sup><br>⇒ r<sup>3</sup> = 7 × 7 × 7<br>∴ Radius of sphere = 7 cm",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1047,
+    "SL": "47",
+    "Question": "What is the value of [sin(y - z) + sin(y + z) + 2siny]/[sin(x - z) + sin(x + z) + 2sinx]?",
+    "OP1": "cosx.siny",
+    "OP2": "siny/sinx",
+    "OP3": "sinz",
+    "OP4": "sinx.tany",
+    "Answer": "2",
+    "Solution": "Simplifying the given equation by applying the formula:<br>sinC + sinD = 2[sin(C + D)/2.cos(C - D)/2]<br>\\(\\Rightarrow \\frac{{2sin\\;\\frac{{\\left( {y\\; - \\;z\\; + \\;y\\; + \\;z} \\right)}}{2}{\\rm{\\;cos\\;}}\\frac{{\\left( {y\\; - \\;z\\; - \\;y\\; - \\;z} \\right)}}{2}\\; + \\;2\\sin y\\;}}{{2sin\\;\\frac{{\\left( {x\\; - \\;z\\; + \\;x\\; + \\;z} \\right)}}{2}{\\rm{\\;cos\\;}}\\frac{{\\left( {x\\; - \\;z\\; - \\;x\\; - \\;z} \\right)}}{2}\\; + \\;2\\sin x}}\\)<br>\\(\\Rightarrow \\frac{{ - \\;2siny{\\rm{cos}}z\\; + \\;2siny\\;}}{{ - \\;2sinx{\\rm{cos}}z\\; + \\;2sinx}}\\)<br>\\(\\Rightarrow \\frac{{2siny\\left( {{\\rm{cos}}z\\; + \\;1} \\right)\\;}}{{2sinx\\left( {{\\rm{cos}}z\\; + \\;1} \\right)}} = \\frac{{siny}}{{sinx}}\\)<br>∴ [sin(y - z) + sin(y + z) + 2siny]/[sin(x - z) + sin(x + z) + 2sinx] = siny/sinx",
+    "Tags": [
+      "MATH::Trigonometry",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1048,
+    "SL": "48",
+    "Question": "What is the value of [sin(x + y) - 2sinx + sin(x - y)]/[cos(x - y) + cos(x + y) - 2cosx] × [(sin 10x - sin 8x)/(cos 10x + cos 8x)]?",
+    "OP1": "0",
+    "OP2": "tan<sup>2</sup>x",
+    "OP3": "1",
+    "OP4": "2tanx",
+    "Answer": "2",
+    "Solution": "Simplifying the given equation by applying the formula:<br>sinC + sinD = 2[sin(C + D)/2.cos(C - D)/2]<br>cosC + cosD = 2[cos(C + D)/2.cos(C - D)/2]<br>\\(\\Rightarrow \\frac{{2\\sin x\\cos y\\; - \\;2\\sin x}}{{2\\cos x\\cos y\\; - \\;2\\cos x}} \\times \\;\\frac{{2\\sin x\\cos 9x}}{{2\\cos x\\;cox\\;9x}}\\)<br>\\(\\Rightarrow \\frac{{\\sin x(\\cos y\\; - \\;1)}}{{\\cos x(\\cos y\\; - \\;1)}} \\times \\;\\frac{{\\sin x}}{{\\cos x\\;}}\\) = tan<sup>2</sup>x<br>∴ [sin(x + y) - 2sinx + sin(x - y)]/[cos(x - y) + cos(x + y) - 2cosx] × [(sin 10x - sin 8x)/(cos 10x + cos 8x)] = tan<sup>2</sup>x",
+    "Tags": [
+      "MATH::Trigonometry",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1049,
+    "SL": "49",
+    "Question": "What is the value of [sin(90° - 10θ) - cos(π - 6θ)] / [cos(π/2 - 10θ) - sin(π - 6θ)]?",
+    "OP1": "tan 2θ",
+    "OP2": "cot 2θ",
+    "OP3": "cot θ",
+    "OP4": "cot 3θ",
+    "Answer": "2",
+    "Solution": "Simplifying the given equation,<br>\\(\\Rightarrow \\frac{{\\cos 10\\theta \\; + \\;\\cos 6\\theta \\;}}{{\\sin 10\\theta \\; - \\;\\sin 6\\theta }}\\)<br>Using the formulas of (cosC + cosD) and (sinC - sinD),<br>\\(\\Rightarrow \\frac{{2\\cos \\left( {\\frac{{10\\theta \\; + \\;6\\theta }}{2}} \\right)\\;cos\\left( {\\frac{{10\\theta \\; - \\;6\\theta }}{2}} \\right)}}{{2\\sin \\left( {\\frac{{10\\theta \\; - \\;6\\theta }}{2}} \\right)\\;cos\\left( {\\frac{{10\\theta \\; + \\;6\\theta }}{2}} \\right)}}\\)<br>\\(\\Rightarrow \\frac{{2\\cos 8\\theta \\;\\cos 2\\theta }}{{2{\\rm{\\;sin}}2\\theta \\;\\cos 8\\theta }} = {\\rm{cot}}2{\\rm{\\theta }}\\)<br>∴ [sin(90° - 10θ) - cos(π - 6θ)] / [cos(π/2 - 10θ) - sin(π - 6θ)] = cot2θ",
+    "Tags": [
+      "MATH::Trigonometry",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1050,
+    "SL": "50",
+    "Question": "If secθ(cosθ + sinθ) = √2, then what is the value of 2sinθ/(cosθ - sinθ)?",
+    "OP1": "3√2",
+    "OP2": "3/√2",
+    "OP3": "1/√2",
+    "OP4": "√2",
+    "Answer": "4",
+    "Solution": "Simplifying the given equation,<br>⇒ 1 + tan θ = √2<br>⇒ tan θ = √2 - 1<strong> </strong>----(1)<br>Now, 2sinθ/(cosθ - sinθ)<br>Dividing by sinθ in both the numerator and denominator.<br>⇒ 2/(cotθ - 1)<br>Putting the value of cotθ from equation 1,<br>⇒ 2/[1/(√2 - 1) - 1]<br>⇒ (2√2 - 2)/(1 - √2 + 1)<br>⇒ (2√2 - 2)/(2 - √2) = √2<br>∴ 2sinθ/(cosθ - sinθ) = √2",
+    "Tags": [
+      "MATH::Trigonometry",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1051,
+    "SL": "51",
+    "Question": "What is the value of \\(\\frac{1}{{{{\\sin }^4}\\left( {90 - \\theta } \\right)}} + \\frac{1}{{\\left[ {{{\\cos }^2}\\left( {90 - \\theta } \\right)} \\right] - 1}}?\\)",
+    "OP1": "tan<sup>2</sup>θsec<sup>2</sup>θ",
+    "OP2": "sec<sup>4θ</sup>",
+    "OP3": "tan<sup>4</sup>θ",
+    "OP4": "tan<sup>2</sup>θsin<sup>2</sup>θ",
+    "Answer": "1",
+    "Solution": "Simplifying the given equation,<br>\\(\\Rightarrow \\frac{1}{{{{\\cos }^4}\\theta }} + \\frac{1}{{\\left[ {{{\\sin }^2}\\left( \\theta \\right)} \\right] - 1}}\\)<br>\\(\\Rightarrow \\frac{1}{{{{\\cos }^4}\\theta }} - \\frac{1}{{co{s^2}\\theta }}\\)<br>\\(\\Rightarrow \\frac{{1 - co{s^2}\\theta }}{{{{\\cos }^4}\\theta }}\\)<br>\\(\\Rightarrow \\frac{{si{n^2}\\theta }}{{{{\\cos }^4}\\theta }}\\)<br>⇒ tan<sup>2</sup>θsec<sup>2</sup>θ",
+    "Tags": [
+      "MATH::Trigonometry",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1052,
+    "SL": "52",
+    "Question": "What is the value of [tan(90 - A) + cot(90 - A)]<sup>2</sup>/[2sec<sup>2</sup>(90 - 2A)]?",
+    "OP1": "0",
+    "OP2": "1",
+    "OP3": "2",
+    "OP4": "-1",
+    "Answer": "3",
+    "Solution": "Simplifying the given equation,<br>⇒ [cotA + tanA]<sup>2</sup>/(2cosec<sup>2</sup>2A)<br>Put A = 45°<br>⇒ 2<sup>2</sup>/2 = 2<br>∴ [tan(90 - A) + cot(90 - A)]<sup>2</sup>/[2sec<sup>2</sup>(90 - 2A)] = 2",
+    "Tags": [
+      "MATH::Trigonometry",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1053,
+    "SL": "53",
+    "Question": "What is the value of {sin (90 - x).cos[π - (x - y)]} + {cos(90 - x).sin [π - (y - x)]}?",
+    "OP1": "-cos y",
+    "OP2": "sin y",
+    "OP3": "cos x",
+    "OP4": "tan y",
+    "Answer": "1",
+    "Solution": "Simplifying the given equation,<br>⇒ cosx.[-cos(x - y)] + sinx.sin(y - x)<br>Since sin(-A) = -sinA,<br>⇒ -cosx.cos(x - y) - sinx.sin(x - y)<br>⇒ -[cosx.cos(x - y) + sinx.sin(x - y)]<br>⇒ -cos[x - (x - y)] {∵ cos(A - B) = cosA.cosB + sinA.sinB}<br>⇒ -cosy",
+    "Tags": [
+      "MATH::Trigonometry",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1054,
+    "SL": "54",
+    "Question": "The angle of elevation of an aeroplane from a point on the ground is 60°. After flying for 30 seconds, the angle of elevation changes to 30°. If the aeroplane is flying at a height of 4500 m, then what is the speed (in m/s) of aeroplane?",
+    "OP1": "50√3",
+    "OP2": "100√3",
+    "OP3": "200√3",
+    "OP4": "300√3",
+    "Answer": "2",
+    "Solution": "<img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/18/12/SSC_CHSL_24_March_2018_Shift3_Komal.docx_hrev.docx_67.PNG\"><br>From the figure,<br>tan 60° = 4500/x<br>⇒ x = 4500/√3<br>And tan 30° = 4500/(x + y)<br>⇒ x + y = 4500√3<br>⇒ y = 4500√3 - 4500/√3<br>⇒ y = (13500 - 4500)/√3 = 9000/√3 = 3000√3<br>∴ Speed = 3000√3/30 = 100√3 mtr/sec",
+    "Tags": [
+      "MATH::Height-And-Distance",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1055,
+    "SL": "55",
+    "Question": "A kite is flying in the sky. The length of a string between a point on the ground and the kite is 420 m. The angle of elevation of the string with the ground is 30°. Assuming that there is no slack in the string, then what is the height (in metres) of the kite?",
+    "OP1": "210",
+    "OP2": "140√3",
+    "OP3": "210√3",
+    "OP4": "150",
+    "Answer": "1",
+    "Solution": "<img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/18/12/SSC_CHSL_24_March_2018_Shift3_Komal.docx_hrev.docx_68.PNG\"><br>From the figure,<br>sin 30° = H/420<br>⇒ H = 420 × 1/2 = 210<br>∴ The height of the kite = 210 mtr",
+    "Tags": [
+      "MATH::Height-And-Distance",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1056,
+    "SL": "56",
+    "Question": "A balloon leaves from a point P rises at a uniform speed. After 6 minutes, an observer situated at a distance of 450√3 metres from point P observes that angle of elevation of the balloon is 60°. Assume that the point of observation and point P are on the same level. What is the speed (in m/s) of the balloon?",
+    "OP1": "4.25",
+    "OP2": "3.75",
+    "OP3": "4.5",
+    "OP4": "3.45",
+    "Answer": "2",
+    "Solution": "<img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/18/12/SSC_CHSL_24_March_2018_Shift3_Komal.docx_hrev.docx_69.PNG\"><br>From the figure,<br>tan 60° = H/450√3<br>⇒ H = √3 × 450√3<br>⇒ H = 1350 mtr<br>∴ Speed of the balloon = 1350/(6 × 60) = 3.75 mtr/sec",
+    "Tags": [
+      "MATH::Height-And-Distance",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1057,
+    "SL": "57",
+    "Question": "<strong>Direction:</strong> The table given below shows the information about bats manufactured by 6 different companies. Each company manufactures only plastic and wooden bats. Each company labels these bats as Brand A or Brand B. The table shows the number of plastic bats as a percentage of total bats manufactured by each company. It shows the ratio of wooden bats labelled A and B. Each company manufactured a total of 550000 bats.<table border=\"1\"><tr><td><strong>Company</strong><td><strong>Plastic Bats</strong><td><strong>Brand A ∶ Brand B</strong><tr><td>R<td>55%<td>21 ∶ 4<tr><td>S<td>70%<td>8 ∶ 7<tr><td>T<td>45%<td>6 ∶ 19<tr><td>U<td>75%<td>41 ∶ 14<tr><td>V<td>60%<td>7 ∶ 15<tr><td>W<td>40%<td>5 ∶ 6</table><strong><b>Question:</b></strong><br>What is the total number of wooden bats of brand A manufactured by company T?",
+    "OP1": "23420",
+    "OP2": "22990",
+    "OP3": "68920",
+    "OP4": "72600",
+    "Answer": "4",
+    "Solution": "Total manufactured bats by company T = 550000<br>Since plastic bats manufactured by T are 45%, wooden bats will be 55%,<br>⇒ Total no. of wooden bats manufactured by company T = 550000 × 0.55 = 302500<br>Since the ratio of wooden bats of Brand A and B manufactured by T = 6 ∶ 19<br>∴ Total number of wooden bats of brand A manufactured by company T = 6/25 × 302500 = 72600",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1058,
+    "SL": "58",
+    "Question": "<strong>Direction:</strong> The table given below shows the information about bats manufactured by 6 different companies. Each company manufactures only plastic and wooden bats. Each company labels these bats as Brand A or Brand B. The table shows the number of plastic bats as a percentage of total bats manufactured by each company. It shows the ratio of wooden bats labelled A and B. Each company manufactured a total of 550000 bats.<table border=\"1\"><tr><td><strong>Company</strong><td><strong>Plastic Bats</strong><td><strong>Brand A ∶ Brand B</strong><tr><td>R<td>55%<td>21 ∶ 4<tr><td>S<td>70%<td>8 ∶ 7<tr><td>T<td>45%<td>6 ∶ 19<tr><td>U<td>75%<td>41 ∶ 14<tr><td>V<td>60%<td>7 ∶ 15<tr><td>W<td>40%<td>5 ∶ 6</table><strong><b>Question:</b></strong><br>N = Wooden bats of Brand B manufactured by U.<br>M = Total wooden bats manufactured by R and W together.<br>What is the value of N/M?",
+    "OP1": "0.043",
+    "OP2": "0.061",
+    "OP3": "0.125",
+    "OP4": "0.087",
+    "Answer": "2",
+    "Solution": "N = Wooden bats of Brand B manufactured by U = 14/55 × 0.25 × 550000 = 35000<br>M = Total wooden bats manufactured by R and W together = (0.45 + 0.6) × 550000 = 577500<br>∴ N/M = 35000/577500 = 0.061",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1059,
+    "SL": "59",
+    "Question": "<strong>Direction:</strong> The table given below shows the information about bats manufactured by 6 different companies. Each company manufactures only plastic and wooden bats. Each company labels these bats as Brand A or Brand B. The table shows the number of plastic bats as a percentage of total bats manufactured by each company. It shows the ratio of wooden bats labelled A and B. Each company manufactured a total of 550000 bats.<table border=\"1\"><tr><td><strong>Company</strong><td><strong>Plastic Bats</strong><td><strong>Brand A ∶ Brand B</strong><tr><td>R<td>55%<td>21 ∶ 4<tr><td>S<td>70%<td>8 ∶ 7<tr><td>T<td>45%<td>6 ∶ 19<tr><td>U<td>75%<td>41 ∶ 14<tr><td>V<td>60%<td>7 ∶ 15<tr><td>W<td>40%<td>5 ∶ 6</table><strong><b>Question:</b></strong><br>P = Sum of wooden bats of Brand B manufactured by S and wooden bats of Brand A manufactured by W.<br>Q = Difference of Brand B wooden bats and Brand A wooden bats manufactured by U.<br>What is the value P - Q?",
+    "OP1": "67500",
+    "OP2": "177700",
+    "OP3": "159500",
+    "OP4": "123500",
+    "Answer": "3",
+    "Solution": "P = Sum of wooden bats of Brand B manufactured by S and wooden bats of Brand A manufactured by W,<br>⇒ P = 7/15 × 0.3 × 550000 + 5/11 × 0.60 × 550000<br>⇒ P = 77000 + 150000<br>⇒ P = 227000<br>Q = Difference of Brand B wooden bats and Brand A wooden bats manufactured by U<br>⇒ Q = 27/55 × 0.25 × 550000<br>⇒ Q = 67500<br>∴ P - Q = 227000 - 67500 = 159500",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1060,
+    "SL": "60",
+    "Question": "<strong>Direction:</strong> The table given below shows the information about bats manufactured by 6 different companies. Each company manufactures only plastic and wooden bats. Each company labels these bats as Brand A or Brand B. The table shows the number of plastic bats as a percentage of total bats manufactured by each company. It shows the ratio of wooden bats labelled A and B. Each company manufactured a total of 550000 bats.<table border=\"1\"><tr><td><strong>Company</strong><td><strong>Plastic Bats</strong><td><strong>Brand A ∶ Brand B</strong><tr><td>R<td>55%<td>21 ∶ 4<tr><td>S<td>70%<td>8 ∶ 7<tr><td>T<td>45%<td>6 ∶ 19<tr><td>U<td>75%<td>41 ∶ 14<tr><td>V<td>60%<td>7 ∶ 15<tr><td>W<td>40%<td>5 ∶ 6</table><strong><b>Question:</b></strong><br>Taking all 6 companies together, how many wooden bats of Brand A have been produced?",
+    "OP1": "691000",
+    "OP2": "724000",
+    "OP3": "683000",
+    "OP4": "716000",
+    "Answer": "1",
+    "Solution": "Taking all 6 companies together, wooden bats of Brand A produced,<br>⇒ 550000 × (21/25 × 0.45 + 8/15 × 0.3 + 6/25 × 0.55 + 41/55 × 0.25 + 7/22 × 0.4 + 5/11 × 0.6)<br>⇒ 550000 × (0.378 + 0.16 + 0.132 + 0.186 + 0.127 + 0.273)<br>⇒ 550000 × (1.256)<br>⇒ 690800 which is approximately 691000",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1061,
+    "SL": "61",
+    "Question": "<strong>Direction:</strong> The table given below shows the information about bats manufactured by 6 different companies. Each company manufactures only plastic and wooden bats. Each company labels these bats as Brand A or Brand B. The table shows the number of plastic bats as a percentage of total bats manufactured by each company. It shows the ratio of wooden bats labelled A and B. Each company manufactured a total of 550000 bats.<table border=\"1\"><tr><td><strong>Company</strong><td><strong>Plastic Bats</strong><td><strong>Brand A ∶ Brand B</strong><tr><td>R<td>55%<td>21 ∶ 4<tr><td>S<td>70%<td>8 ∶ 7<tr><td>T<td>45%<td>6 ∶ 19<tr><td>U<td>75%<td>41 ∶ 14<tr><td>V<td>60%<td>7 ∶ 15<tr><td>W<td>40%<td>5 ∶ 6</table><strong><b>Question:</b></strong><br>X = Average of plastic bats manufactured by V, U and T.<br>Y = Wooden bats of Brand A manufactured by V.<br>What is the value X - Y?",
+    "OP1": "197600",
+    "OP2": "432890",
+    "OP3": "260000",
+    "OP4": "293300",
+    "Answer": "3",
+    "Solution": "X = Average of plastic bats manufactured by V, U and T,<br>⇒ X = 1/3 × 550000 × (0.6 + 0.75 + 0.45)<br>⇒ X = 1/3 × 550000 × 1.8<br>⇒ X = 330000<br>Y = Wooden bats of Brand A manufactured by V,<br>⇒ Y = 7/22 × 550000 × 0.4<br>⇒ Y = 70000<br>∴ X - Y = 330000 - 70000 = 260000",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1062,
+    "SL": "62",
+    "Question": "A drum contains 80 litres of ethanol. 20 litres of this liquid is removed and replaced with water. 20 litres of this mixture is again removed and replaced with water. How much water (in litres) is present in this drum now?",
+    "OP1": "45",
+    "OP2": "40",
+    "OP3": "35",
+    "OP4": "44",
+    "Answer": "3",
+    "Solution": "We know the formula:<br>X = A(1 - R/C)<sup>n</sup><br>Here X = Liquid remaining after replacement<br>A = Total quantity of liquid before replacement<br>R = Quantity of replaced liquid<br>C = Total Capacity of drum<br>n = No. of times the liquid was replaced<br>⇒ A = 80, R = 20, C = 80 and n = 2<br>Putting these values in the formula,<br>⇒ X = 80 × (1 - 1/4)<sup>2</sup><br>⇒ X = 80 × 9/16<br>⇒ X = 45 litres<br>⇒ Amount of ethanol present after replacement = 45 litres<br>∴ Amount of water present after replacement = 80 - 45 = 35 litres",
+    "Tags": [
+      "MATH::Mixture-And-Alligation",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1063,
+    "SL": "63",
+    "Question": "An alloy is made by mixing metal A costing Rs. 2000/kg and metal B costing Rs. 400/kg in the ratio A ∶ B = 3 ∶ 1. What is the cost (in Rs.) of 8 kilograms of this alloy?",
+    "OP1": "1600",
+    "OP2": "9800",
+    "OP3": "6400",
+    "OP4": "12800",
+    "Answer": "4",
+    "Solution": "Since Ratio in which A and B are mixed = 3 ∶ 1<br>⇒ Weight of metal A in 8 kg of alloy = 3/4 × 8 = 6 kg<br>⇒ Weight of metal B in 8 kg of alloy = 1/4 × 8 = 2 kg<br>∴ Cost of 8 kg of the alloy = 2000 × 6 + 400 × 2 = Rs. 12800",
+    "Tags": [
+      "MATH::Mixture-And-Alligation",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1064,
+    "SL": "64",
+    "Question": "A, B and C invest to start a restaurant. The total investment was Rs. 3 lakhs. B invested Rs. 50,000 more than A and C invested Rs. 25,000 less than B. If the profit at the end of the year was Rs. 14,400 then what is C's share of the profit (in Rs)?",
+    "OP1": "3600",
+    "OP2": "4800",
+    "OP3": "6000",
+    "OP4": "7200",
+    "Answer": "2",
+    "Solution": "Let investment by A be Rs. N<br>Then investment by B will be N + 50000 and investment by C will be N + 25000,<br>Since total investment is Rs. 3 lakhs,<br>⇒ N + N + 50000 + N + 25000 = 300000<br>⇒ 3N = 225000<br>⇒ N = 75000<br>⇒ Investment by A = 75000<br>⇒ Investment by B = 125000<br>⇒ Investment by C = 100000<br>⇒ Ratio of Investment = 3 : 5 : 4<br>⇒ Ratio of profit = 3 : 5 : 4<br>Since Total profit = 14400<br>∴ Profit received by C = 4/12 × 14400 = 4800",
+    "Tags": [
+      "MATH::Partnership",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1065,
+    "SL": "65",
+    "Question": "Two businessmen A and B invest in a business in the ratio 5 ∶ 8. They decided to reinvest 30% of the profit they earned back into the business. The remaining profit they distributed amongst themselves. If A's share of the profit was Rs. 87,500 then how much profit (in Rs.) did the business make?",
+    "OP1": "227000",
+    "OP2": "250000",
+    "OP3": "375000",
+    "OP4": "325000",
+    "Answer": "4",
+    "Solution": "<strong>Given:</strong><br>The ratio of investment of A and B = 5 : 8<br>The reinvestment amount = 30% of profit earned<br>A's share of the profit = Rs. 87,500<br><strong>Concept used:</strong><br>The ratio of profit distribution = The ratio of investment distribution<br><strong>Calculation:</strong><br>Let us take the total profit = P<br>Since they decided to reinvest the 30% profit so the remaining profit that is been distributed = 0.7P<br>A's share in the profit = 87500<br>⇒ 5/13 × 0.7P = 87500<br>⇒ 7P/26 = 87500<br>⇒ P = Rs. 325000<br><strong>∴ The total profit is Rs. 325000.</strong>",
+    "Tags": [
+      "MATH::Partnership",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1066,
+    "SL": "66",
+    "Question": "Working alone A can do the task in 27 hours and B can do it in 54 hours. Find C's share (in Rs) if A, B and C get paid Rs. 4,320 for completing a task in 12 hours on which they worked together.",
+    "OP1": "1440",
+    "OP2": "960",
+    "OP3": "1920",
+    "OP4": "1280",
+    "Answer": "1",
+    "Solution": "Let’s take Total task = 108 units (LCM of 27, 54 and 12)<br>⇒ Task completed in 1 hour by A = 108/27 = 4 units<br>⇒ Task completed in 1 hour by B = 108/54 = 2 units<br>⇒ Task completed in 1 hour by A, B and C together = 108/12 = 9 units<br>⇒ Task completed by C in 1 hour will be = 9 - 4 - 2 = 3 units<br>⇒ Number of hours C will take to complete the task = Total task/Task completed in one hour = 108/3 = 36 hours<br>⇒ Ratio of no. of hours taken by A, B and C = 27 : 54 ∶ 36 = 3 ∶ 6 ∶ 4<br>⇒ Ratio of efficiencies of A, B and C = 4 : 2 : 3<br>Since the amount will be distributed according to efficiency,<br>∴ Amount received by C = 3/9 × 4320 = Rs. 1440",
+    "Tags": [
+      "MATH::Time-And-Work",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1067,
+    "SL": "67",
+    "Question": "If A had worked alone he would have taken 63 hours to do the task. What is B's share, if A and B work together on a task finishing it in 36 hours and they get paid Rs. 5,950 for it?",
+    "OP1": "3400",
+    "OP2": "3600",
+    "OP3": "2550",
+    "OP4": "2750",
+    "Answer": "3",
+    "Solution": "Let’s the total task = 252 units (LCM of 63 and 36)<br>⇒ Task completed in 1 hour by A = 252/63 = 4 units<br>⇒ Task completed in 1 hour by A and B together = 252/55 = 7 units<br>⇒ Task done by B in 1 hour will be = 7 - 4 = 3 units<br>⇒ Number of hours B will take to complete the task = Total task/Task completed in one hour = 252/3 = 84 hours<br>⇒ Ratio of no. of hours taken by A and B = 63/84 = 3 : 4<br>⇒ Ratio of efficiencies of A and B = 4 : 3<br>Since the amount will be distributed according to efficiency,<br>∴ Amount received by B = 3/7 × 5950 = 3 × 850 = Rs. 2550<br><img height=\"31px\"src=\"//cdn.testbook.com/images/production/quesImage5.png\"width=\"147px\"><br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/21/04/F1__Arun.K_23-04-21_Savita_D2.png\"><br>B = 7 - 4 = 3<br>Share of B \\(= \\dfrac{3}{7} \\times 5950\\)<br>= 2550",
+    "Tags": [
+      "MATH::Time-And-Work",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1068,
+    "SL": "68",
+    "Question": "Working together A, B and C can complete a task in 12 days. A and B can do the task in 55 days and 66 days respectively if they worked alone. In how many days can C do the task if he worked alone?",
+    "OP1": "22",
+    "OP2": "44",
+    "OP3": "20",
+    "OP4": "40",
+    "Answer": "3",
+    "Solution": "Let’s take Total task = 660 units (LCM of 12, 55 and 66)<br>⇒ Task completed in 1 day by A = 660/55 = 12 units<br>⇒ Task completed in 1 day by B = 660/66 = 10 units<br>⇒ Task completed in 1 day by A, B and C together = 660/12 = 55 units<br>⇒ Task completed by C in 1 day will be = 55 – 12 – 10 = 33 units<br>∴ Number of days C will take to complete the task = Total task/Task completed in one day = 660/33 = 20 days",
+    "Tags": [
+      "MATH::Time-And-Work",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1069,
+    "SL": "69",
+    "Question": "B would have taken 10 hours more than what A would have taken to complete a task if each of them worked alone. Working together they can complete the task in 12 hours. How many hours would B take to do 50% of the task?",
+    "OP1": "30",
+    "OP2": "15",
+    "OP3": "20",
+    "OP4": "10",
+    "Answer": "2",
+    "Solution": "Let A would have taken x hours to complete the task,<br>⇒ According to given condition B would take (x + 10) hours to complete the task<br>⇒ Work done in one day by A and B will be 1/x and 1/(x + 10) units<br>Since working together they take 12 hours to complete the task,<br>⇒ 1/x + 1/(x + 10) = 1/12<br>⇒ (2x + 10)/(x<sup>2</sup>+ 10x) = 1/12<br>⇒ 24x + 120 = x<sup>2</sup>+ 10x<br>⇒ x<sup>2</sup> - 14x - 120 = 0<br>⇒ (x - 20) (x + 6) = 0<br>⇒ x = 20, -6<br>∴ B will take 30 hours to complete the task and <strong>15 hours to complete 50% task.</strong>",
+    "Tags": [
+      "MATH::Time-And-Work",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1070,
+    "SL": "70",
+    "Question": "Giving two successive discounts of 20% is same as giving one discount of ________ %.",
+    "OP1": "36",
+    "OP2": "40",
+    "OP3": "44",
+    "OP4": "50",
+    "Answer": "1",
+    "Solution": "For 2 Successive discounts of x%, overall discount = x + x - x<sup>2</sup>/100<br>∴ Overall discount = 20 + 20 - 4 = 36%",
+    "Tags": [
+      "MATH::Discount",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1071,
+    "SL": "71",
+    "Question": "A retailer marks up his goods by 150% and offers 40% discount. What will be the selling price (in Rs.) if the cost price is Rs. 800?",
+    "OP1": "1200",
+    "OP2": "1500",
+    "OP3": "1000",
+    "OP4": "2000",
+    "Answer": "1",
+    "Solution": "CP = Rs. 800<br>Since mark-up is 150% and discount is 40%,<br>∴ Selling price = 800 × 2.5 × 0.6 = Rs. 1200",
+    "Tags": [
+      "MATH::Discount",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1072,
+    "SL": "72",
+    "Question": "On television of brand A, the discount is 25% and on television of brand B, the discount is 40%. The price of B after discount is Rs. 2,250 greater than the price of A after discount. What is the marked price of A (in Rs.) if the marked price of B is Rs. 35,000?",
+    "OP1": "18750",
+    "OP2": "21000",
+    "OP3": "25000",
+    "OP4": "17850",
+    "Answer": "3",
+    "Solution": "Let the marked price of Brand A is Rs. X and it is given that marked price of brand B is Rs 35000,<br>Discounted price of Brand A = 0.75 X<br>and discounted price of Brand B = 0.6 <span>× 35000</span><br>Now according to the given condition,<br><span>Price of B after discount = price of A after discount + 2,250</span><br>⇒ 0.75X + 2250 = 0.6 × 35000<br>⇒ 0.75X = 21000 - 2250<br>⇒ 0.75X = 18750<br>⇒ X = 25000<br>∴ Marked price of Brand A = Rs. 25000",
+    "Tags": [
+      "MATH::Discount",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1073,
+    "SL": "73",
+    "Question": "If 60% discount is offered on the marked price and selling price becomes equal to cost price then what was the % mark up?",
+    "OP1": "100",
+    "OP2": "250",
+    "OP3": "150",
+    "OP4": "40",
+    "Answer": "3",
+    "Solution": "Let the cost price be Rs. 100 then selling price after discount is also Rs. 100<br>Since after 60% discount in MP, selling price becomes equal to cost price,<br>⇒ 0.4 × MP = 100<br>⇒ MP = 250<br>⇒ CP = 100 and MP = 250<br>∴ Mark-up = (250 - 100)/100 = 150%",
+    "Tags": [
+      "MATH::Discount",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1074,
+    "SL": "74",
+    "Question": "If 3A = 6B = 9C, what is A ∶ B ∶ C?",
+    "OP1": "6 ∶ 3 ∶ 1",
+    "OP2": "6 ∶ 3 ∶ 2",
+    "OP3": "9 ∶ 3 ∶ 6",
+    "OP4": "9 ∶ 3 ∶ 1",
+    "Answer": "2",
+    "Solution": "Given 3A = 6B = 9C,<br>⇒ A ∶ B = 2 ∶ 1 = 6 ∶ 3<br>⇒ B ∶ C = 3 ∶ 2<br>∴ A ∶ B ∶ C = 6 ∶ 3 ∶ 2",
+    "Tags": [
+      "MATH::Ratio-And-Proportion",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1075,
+    "SL": "75",
+    "Question": "How many job applicants had applied if the ratio of selected to unselected was 19 : 17. If 1,200 less had applied and 800 less selected, then the ratio of selected to unselected would have been 1 : 1.",
+    "OP1": "6000",
+    "OP2": "7200",
+    "OP3": "8400",
+    "OP4": "4800",
+    "Answer": "2",
+    "Solution": "Ratio of selected to unselected applicants = 19 ∶ 17<br>Let’s take selected candidates be 19x, then unselected candidates be 17x, so total candidates is 36x<br>According to given conditions,<br>No. of job applicants = 36x - 1200 and selected candidates = 19x - 800,<br>⇒ Selected candidates/unselected candidates = (19x - 800)/(36x - 1200 - 19x + 800) = 1/1<br>⇒ 19x - 800 = 17x - 400<br>⇒ 2x = 400<br>⇒ x = 200<br>∴ Total number of job applicants = 200 × 36 = 7200",
+    "Tags": [
+      "MATH::Ratio-And-Proportion",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1076,
+    "SL": "76",
+    "Question": "What is the third proportional to 10 and 20?",
+    "OP1": "30",
+    "OP2": "25",
+    "OP3": "50",
+    "OP4": "40",
+    "Answer": "4",
+    "Solution": "<span>Given:</span><br>The numbers are 10 and 20<br><span>Formula used:</span><br>a : b :: c : d<br>⇒ a/b = c/d<br><span>Calculation:</span><br>Let the third proportional be x<br>⇒ 10 ∶ 20 ∷ 20 ∶ x<br>⇒ 10/20 = 20/x<br>x = 400/10 = 40<br><span>∴ The third proportional of 10 and 20 is 40.</span>",
+    "Tags": [
+      "MATH::Ratio-And-Proportion",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1077,
+    "SL": "77",
+    "Question": "The ratio of the sum of the salaries of A and B to the difference of their salaries is 11 : 1 and the ratio of the sum of the salaries of B and C to the difference of their salaries is also 11 : 1. If A's salary is the highest and C's is the lowest then what is B's salary (in Rs) given the total of all their salaries is Rs. 1,82,000?",
+    "OP1": "72000",
+    "OP2": "60000",
+    "OP3": "50000",
+    "OP4": "86400",
+    "Answer": "2",
+    "Solution": "Let the salaries of A, B and C are A, B and C respectively.<br>\\(\\Rightarrow \\frac{{A + B}}{{A - B}} = \\frac{{11}}{1}\\)<br>\\(\\Rightarrow \\frac{{B + C}}{{B - C}} = \\frac{{11}}{1}\\)<br>Applying componendo and dividendo,<br>\\(\\Rightarrow \\frac{A}{B} = \\frac{{12}}{{10}} = \\frac{6}{5}\\)<br>\\(\\Rightarrow \\frac{B}{C} = \\frac{{12}}{{10}} = \\frac{6}{5}\\)<br>⇒ A ∶ B ∶ C = 36 ∶ 30 ∶ 25<br>Let A = 36x, B = 30x and C = 25x<br>Given A + B + C = 182000<br>⇒ 91x = 182000<br>⇒ x = 2000<br>∴ B = 30 × 2000 = Rs. 60000",
+    "Tags": [
+      "MATH::Ratio-And-Proportion",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1078,
+    "SL": "78",
+    "Question": "If by increasing the price of a ticket in the ratio 8 : 11 the number of tickets sold fall in the ratio 23 : 21 then what is the increase (in Rs.) in revenue if revenue before increase in price of ticket was Rs. 36,800?",
+    "OP1": "21250",
+    "OP2": "9400",
+    "OP3": "7850",
+    "OP4": "12850",
+    "Answer": "2",
+    "Solution": "Let the price of the ticket be 8x and revised price be 11x (Since the ratio given is 8 ∶ 11)<br>Number of tickets sold be 23y and revised number be 21y,<br>⇒ Revenue before increase in price = 8x × 23y = 184xy<br>⇒ Revenue after increase in price = 11x × 21y = 231xy<br>Given, 184xy = 36800<br>⇒ xy = 200<br>⇒ Increased revenue = 231xy = 231 × 200 = Rs. 46200<br>∴ Increase in revenue = 46200 - 36800 = Rs. 9400",
+    "Tags": [
+      "MATH::Ratio-And-Proportion",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1079,
+    "SL": "79",
+    "Question": "The ratio of ages of the father and mother was 11 ∶ 10 when their son was born. The ratio of ages of the father and mother will be 19 ∶ 18 when the son will be twice his present age. What is the ratio of present ages of father and mother?",
+    "OP1": "15 ∶ 14",
+    "OP2": "14 ∶ 13",
+    "OP3": "16 ∶ 15",
+    "OP4": "17 ∶ 16",
+    "Answer": "1",
+    "Solution": "Ratio of ages of the father and mother when their son was born = 11 ∶ 10<br>Ratio of ages of the father and mother when son will be twice the present age = 19 ∶ 18<br>Here we can see that difference in the ratios is equal for father and mother (19 - 11 = 18 - 10 = 8)<br>Since the age of son has been doubled so we may subtract 4 i.e (8 ÷ 2) in the ratio for getting present ratio.<br>⇒ 19 - 4 = 15 and 18 - 4 = 14<br>∴ Ratio of present ages of father and mother = 15 ∶ 14",
+    "Tags": [
+      "MATH::Age",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1080,
+    "SL": "80",
+    "Question": "Of the 3 numbers whose average is 22, the first is 3/8<sup>th</sup> the sum of other two. What is the first number?",
+    "OP1": "16",
+    "OP2": "20",
+    "OP3": "22",
+    "OP4": "18",
+    "Answer": "4",
+    "Solution": "Let the three number are x, y and z<br>Given x = [3(y + z)] /8<br>⇒ y + z = 8x/3<br>Now as given average of three numbers is 22,<br>⇒ x + y + z = 66<br>⇒ x + 8x/3 = 66<br>⇒ 11x = 198<br>⇒ x = 18<br>∴ First number is 18.",
+    "Tags": [
+      "MATH::Average",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1081,
+    "SL": "81",
+    "Question": "The average of three consecutive odd numbers is 52 more than 1/3<sup>rd</sup> of the largest of these numbers. What is the smallest of these numbers?",
+    "OP1": "79",
+    "OP2": "75",
+    "OP3": "81",
+    "OP4": "77",
+    "Answer": "4",
+    "Solution": "Let these three consecutive odd numbers are x, x + 2 and x + 4<br>Average of any 3 consecutive odd numbers will be the middle number only.<br>⇒ Average = x + 2<br>Given that average is 52 more than 1/3<sup>rd</sup> of the largest number,<br>⇒ x + 2 = (x + 4) /3 + 52<br>⇒ 3x + 6 = x + 4 + 156<br>⇒ 2x = 154<br>⇒ x = 77<br>∴ Smallest number is 77.",
+    "Tags": [
+      "MATH::Average",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1082,
+    "SL": "82",
+    "Question": "A batsman scores 98 runs in the 17<sup>th</sup> match of his career. His average runs per match increased by 2.5. What is his average before the 17<sup>th</sup> match?",
+    "OP1": "58",
+    "OP2": "60.5",
+    "OP3": "63",
+    "OP4": "55.5",
+    "Answer": "4",
+    "Solution": "Let the average before the 17<sup>th</sup> match be x,<br>Since average has increased 2.5 after scoring 98 runs in 17<sup>th</sup> match,<br>⇒ 16x + 98 = (x + 2.5) × 17<br>⇒ 17x - 16x = 98 - 42.5<br>⇒ x = 55.5<br>∴ Average before 17<sup>th</sup> match is 55.5.",
+    "Tags": [
+      "MATH::Average",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1083,
+    "SL": "83",
+    "Question": "What is the average of all numbers between 100 and 200 which are divisible by 13?",
+    "OP1": "147.5",
+    "OP2": "145.5",
+    "OP3": "143.5",
+    "OP4": "149.5",
+    "Answer": "4",
+    "Solution": "Numbers between 100 and 200 which are divisible by 13 = 104, 117, 130, 143, 156, 169, 182, 195<br>⇒ Sum = 104 + 117 + 130 + 143 + 156 + 169 + 182 + 195<br>⇒ 13 × (8 + 9 + 10 + 11 + 12 + 13 + 14 + 15) = 1196<br>∴ Average = 1196/8 = 149.5",
+    "Tags": [
+      "MATH::Average",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1084,
+    "SL": "84",
+    "Question": "A vendor buys 9 bananas for Rs. 8 and sells 8 for Rs. 9. What will be the profit or loss (in %)?",
+    "OP1": "13.28% profit",
+    "OP2": "26.56% loss",
+    "OP3": "26.56% profit",
+    "OP4": "13.28% loss",
+    "Answer": "3",
+    "Solution": "The cost price of 1 banana = 8/9 = Rs. 0.889<br>The selling Price of 1 banana = 9/8 = Rs. 1.125<br>⇒ Profit = (1.125 - 0.889)/0.889 × 100<br>⇒ Profit = 0.236/0.889 × 100<br>∴ Profit = 26.56%",
+    "Tags": [
+      "MATH::Profit-And-Loss",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1085,
+    "SL": "85",
+    "Question": "If a stall sells a pizza at Rs. 200 he makes 20% loss if he wants to make 10% profit then at what price (in Rs.) should he sell?",
+    "OP1": "250",
+    "OP2": "300",
+    "OP3": "275",
+    "OP4": "325",
+    "Answer": "3",
+    "Solution": "Loss is 20% and selling price is Rs. 200,<br>⇒ Cost price = 200/0.8 = Rs. 250<br>∴ Selling price for 10% profit = 250 × 1.1 = Rs. 275",
+    "Tags": [
+      "MATH::Profit-And-Loss",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1086,
+    "SL": "86",
+    "Question": "A wholesaler had 200 dozens of mangoes. He sold some of these mangoes at 20% profit and the rest at 10% profit, so that he made 13% profit on selling all the mangoes. How many mangoes (in dozens) did he sell at 20% profit?",
+    "OP1": "140",
+    "OP2": "60",
+    "OP3": "80",
+    "OP4": "120",
+    "Answer": "2",
+    "Solution": "Let the mangoes at profit 20% be x dozens<br>⇒ Mangoes at profit 10% = (200 - x) dozens<br>⇒ 1.2x + 1.1(200 - x) = 200 × 1.13<br>⇒ 0.1x = 6<br>⇒ x = 60<br>∴ Number of mangoes sold at 20% profit = 60 dozens",
+    "Tags": [
+      "MATH::Profit-And-Loss",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1087,
+    "SL": "87",
+    "Question": "If the selling price is tripled and the cost price is doubled, the profit would become 65%. What is the present profit (in %)?",
+    "OP1": "20",
+    "OP2": "15",
+    "OP3": "25",
+    "OP4": "10",
+    "Answer": "4",
+    "Solution": "Let the initial cost price be Rs. 100 and then the revised price will be Rs. 200<br>When profit is 65%,<br>⇒ Selling price = 200 × 1.65 = Rs. 330<br>Now as given, the selling price is tripled,<br>⇒ Initial selling price = 330/3 = Rs. 110<br>∴ Profit percentage = (110 - 100)/100 × 100 = 10%",
+    "Tags": [
+      "MATH::Profit-And-Loss",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1088,
+    "SL": "88",
+    "Question": "0.06% of 250% of 1600 is _________.",
+    "OP1": "24",
+    "OP2": "0.24",
+    "OP3": "0.024",
+    "OP4": "2.4",
+    "Answer": "4",
+    "Solution": "0.06% of 250% of 1600 = (0.06 × 250 × 1600)/(100 × 100) = 24000/10000 = 2.4",
+    "Tags": [
+      "MATH::Percentage",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1089,
+    "SL": "89",
+    "Question": "Two numbers are 90% and 75% lesser than a third number. By what % should the first number be increased so that it becomes equal to the second number?",
+    "OP1": "250",
+    "OP2": "200",
+    "OP3": "150",
+    "OP4": "100",
+    "Answer": "3",
+    "Solution": "Let the third number be x<br>⇒ First number = x - 0.9x = 0.1x<br>⇒ Second number = x - 0.75x = 0.25x<br>∴ Percentage by which the first number be increased so that it becomes equal to the second number = (0.25x - 0.1x)/0.1x × 100 = 150%",
+    "Tags": [
+      "MATH::Percentage",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1090,
+    "SL": "90",
+    "Question": "When a number is increased by 216, it becomes 140% of itself. What is the number?",
+    "OP1": "540",
+    "OP2": "756",
+    "OP3": "450",
+    "OP4": "675",
+    "Answer": "1",
+    "Solution": "Let the number be x,<br>⇒ x + 216 = 1.4x<br>⇒ 0.4x = 216<br>∴ x = 540",
+    "Tags": [
+      "MATH::Percentage",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1091,
+    "SL": "91",
+    "Question": "A man donates 30% of his wealth to charity. 30% and 25% of the remaining wealth to his wife and son respectively. The rest he divides equally among his three daughters. One of his daughter gets Rs. 42 lakh as her share. What was the man's wealth (in Rs. lakhs)?",
+    "OP1": "280",
+    "OP2": "400",
+    "OP3": "500",
+    "OP4": "350",
+    "Answer": "2",
+    "Solution": "Let the total wealth be ‘x’<br>⇒ Part of the wealth donated to charity = 0.3x<br>⇒ Part of the wealth given to wife = 0.3 × 0.7x = 0.21x<br>⇒ Part of the wealth given to son = 0.25 × 0.7x = 0.175x<br>⇒ Remaining wealth = x - (0.3x + 0.21x + 0.175x) = 0.315x<br>This remaining wealth is divided equally among his three daughters,<br>⇒ Amount received by each daughter = 0.315x/3 = 0.105x<br>Given, 0.105x = 42<br>⇒ X = 42/0.105 = 400<br>∴ Total wealth of the man = Rs. 400L",
+    "Tags": [
+      "MATH::Percentage",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1092,
+    "SL": "92",
+    "Question": "A bus travels 720 km in 20 hours. Calculate its average speed in meters/second.",
+    "OP1": "12",
+    "OP2": "15",
+    "OP3": "18",
+    "OP4": "10",
+    "Answer": "4",
+    "Solution": "Speed = Distance/Time<br>⇒ Speed = 720/20 = 36 km/hr<br>Converting km/hr into mtr/sec by multiplying it with 5/18<br>∴ Speed(in mtr/sec) = 36 × 5/18 = 10 mtr/sec",
+    "Tags": [
+      "MATH::Time-Speed-Distance",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1093,
+    "SL": "93",
+    "Question": "If a boat goes upstream at a speed of 21 km/h and comes back the same distance at 28 km/h. What is the average speed (in km/hr) for the total journey?",
+    "OP1": "24.5",
+    "OP2": "24",
+    "OP3": "25",
+    "OP4": "25.4",
+    "Answer": "2",
+    "Solution": "Let the total distance = 84 km (LCM of 21 and 28)<br>⇒ Then time taken to go upstream = 84/21 = 4 hr<br>⇒ Time take to go downstream = 84/28 = 3 hr<br>⇒ Total distance (upstream + downstream) = 2 × 84 = 168<br>⇒ Total time taken = 4 + 3 = 7 hr<br>∴ Average speed of the journey = 168/7 = 24 km/hr",
+    "Tags": [
+      "MATH::Time-Speed-Distance",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1094,
+    "SL": "94",
+    "Question": "Two runners A and B start running at 12 km/hr and 16 km/hr towards each other. They meet after 1 hour and 30 minutes. How far (in km) were they from each other when they started?",
+    "OP1": "42",
+    "OP2": "36",
+    "OP3": "40",
+    "OP4": "45",
+    "Answer": "1",
+    "Solution": "Since the runners are running towards each other, their speeds will be added<br>⇒ Relative speed = 28 km/hr<br>Time given = 1.5 hr<br>∴ Distance between them before starting = 28 × 1.5 = 42 km",
+    "Tags": [
+      "MATH::Time-Speed-Distance",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1095,
+    "SL": "95",
+    "Question": "Flight A usually takes 1 hour more than Flight B to travel a distance of 7200 km. Due to engine trouble, the speed of flight B becomes 5/6 times of its actual speed, so it takes 36 minutes more than Flight A to complete the same journey. What is the speed of Flight A (in km/hr)?",
+    "OP1": "800",
+    "OP2": "900",
+    "OP3": "750",
+    "OP4": "720",
+    "Answer": "1",
+    "Solution": "Let’s take speed of Flight A be x km/hr and speed of Flight B be y km/hr,<br>⇒ 7200/x = 7200/y + 1<strong> </strong>----(1)<br>Now after engine trouble, speed of the flight B will be 5y/6 and it takes 36 minutes more that flight A,<br>⇒ 7200/x = (7200 × 6)/5y - 36/60 ----(2)<br>Equating both equations,<br>⇒ 7200/y + 1 = (7200 × 6)/5y - 36/60<br>⇒ 8640/y - 7200/y = 1.6<br>⇒ 1440/y = 1.6<br>⇒ y = 900 km/hr<br>From equation 1<br>⇒ x = 800 km/hr<br>∴ Speed of flight A is 800 km/hr.<br><img height=\"46px\"src=\"//cdn.testbook.com/images/production/quesImages/quesImage37.png\"width=\"240px\"><br>According to the question,<br>Time of flight A = x + 1<br>Time of flight B = x<br>Due to the engine failure,<br>Speed of B decrease the 1/6<br>Speed ratio old vs new<br>⇒ 6 : 5<br>Time ratio become inverse<br>⇒ 5 : 6<br>Time difference 6 - 5 = 1 is equal to the 1 hour 36 min<br>⇒ 1 → 1 + 36/60 = 8/5<br>⇒ Time taken by B = 5 × (8/5)<br>⇒ 8 hours<br>Time taken by A = 8 + 1 = 9 hours<br>Speed of A = 7200/9<br>⇒ 800 km/hr<br><strong>∴ Speed of flight A is 800 km/hr.</strong>",
+    "Tags": [
+      "MATH::Time-Speed-Distance",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1096,
+    "SL": "96",
+    "Question": "In how many years will Rs. 2,000 yield Rs. 662 as compound interest at 10% per annum compounded annually?",
+    "OP1": "3",
+    "OP2": "2",
+    "OP3": "4",
+    "OP4": "5",
+    "Answer": "1",
+    "Solution": "We know the formula for compound interest,<br>CI = P(1 + r/100)<sup>n</sup> - P<br>Given: CI = 662, P = 2000 and r = 10%<br>Putting these values in the formula,<br>⇒ 662 = 2000(1 + 10/100)<sup>n</sup> - 2000<br>⇒ 2662 = 2000(1.1)<sup>n</sup><br>⇒ (1.1)<sup>n</sup> = 1.331<br>∴ n = 3 years",
+    "Tags": [
+      "MATH::Compound-Interest",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1097,
+    "SL": "97",
+    "Question": "What is the compound interest earned on Rs. 80,000 at 40% per annum in 1 year compounded quarterly?",
+    "OP1": "28317",
+    "OP2": "37128",
+    "OP3": "18732",
+    "OP4": "21387",
+    "Answer": "2",
+    "Solution": "We know the formula for compound interest,<br>CI = P(1 + r/100)<sup>n</sup> - P<br>P = 80000, r = 40% per annum and n = 1 year<br>Since the interest is compounded quarterly,<br>P = 80000, r = 10% and n = 4<br>Putting these values in the formula,<br>⇒ CI = 80000(1 + 10/100)<sup>4</sup> - 80000<br>⇒ CI = 80000(1.4641) - 80000<br>∴ CI = Rs. 37128",
+    "Tags": [
+      "MATH::Compound-Interest",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1098,
+    "SL": "98",
+    "Question": "An investor invested his saving in the stock market. The value of his investments increased by 12% and 9% in the first year and the second year respectively. If the value of his investments after two years became Rs. 97,664 then how much had he invested (in Rs.)?",
+    "OP1": "81000",
+    "OP2": "75000",
+    "OP3": "80000",
+    "OP4": "72000",
+    "Answer": "3",
+    "Solution": "Let’s take the invested amount be Rs. X,<br>Since the value of his investments increased by 12% and 9% in the first year and the second year respectively<br>⇒ 1.12 × 1.09 × X = 97664<br>∴ X = Rs. 80000",
+    "Tags": [
+      "MATH::Compound-Interest",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1099,
+    "SL": "99",
+    "Question": "What is the rate of interest (in %) if simple interest earned on a certain sum for the 3 years is Rs. 6,000 and compound interest earned for 2 years is Rs. 4,160?",
+    "OP1": "9",
+    "OP2": "8",
+    "OP3": "12",
+    "OP4": "6",
+    "Answer": "2",
+    "Solution": "SI for 3 years = Rs. 6000<br>⇒ SI for 2 years = Rs. 4000<br>CI for 2 years = Rs. 4160<br>⇒ Difference in CI and SI for 2 years = Rs. 160<br>This difference is the Interest on SI for 1<sup>st</sup> year<br>∴ Rate of Interest = 160/2000 × 100 = 8%",
+    "Tags": [
+      "MATH::Compound-Interest",
+      "CGL::Mains::007"
+    ]
+  },
+  {
+    "noteId": 1100,
+    "SL": "100",
+    "Question": "In the given figure, in ΔSTU, ST = 8 cm, TU = 9 cm and SU = 12 cm. QU = 24 cm, SR = 32 cm and PT = 27 cm. What is the ratio of the area of ΔPQU and area of ΔPTR?<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/20/08/F1_5c2c6eedfdb8bb3444ee604f_Ashish_29-08-2020_Savita_Dia.png\">",
+    "OP1": "4 : 9",
+    "OP2": "√3 ∶ √2",
+    "OP3": "2 ∶ 3",
+    "OP4": "3 ∶ 2",
+    "Answer": "1",
+    "Solution": "In ΔPUQ,<br>Area of ΔPUQ = 1/2 × sin U × PU × QU<br>⇒ Area = ½ × sin U × 18 × 24<br>⇒ Area = 18 × 12 × sin U<br>Area of ΔPTR = 1/2 × sin T × PT × TR<br>⇒ Area = 1/2 × sin T × 27 × 24<br>⇒ Area = 12 × 27 × sin T<br>In Δ STU,<br>1/2 × 8 × 9 sin (180 - T) = 1/2 × 12 × 9 sin (180 - U)<br>⇒ 4 sin T = 6 sin U<br>⇒ sin T/ sin U = 3/2<br>∴ Ratio of the area of ΔPQU and area of ΔPTR = (18 × 12 × sin U)/(12 × 27 × sin T) = 18 × 2/(27 × 3) = 4 : 9",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::007"
+    ]
+  }
+]

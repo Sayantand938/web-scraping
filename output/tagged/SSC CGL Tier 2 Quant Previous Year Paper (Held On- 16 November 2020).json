@@ -1,0 +1,1502 @@
+[
+  {
+    "noteId": 1001,
+    "SL": "1",
+    "Question": "The average of twenty-five numbers is 54. The average of the first 13 numbers and that of the last 13 numbers is 52.8 and 62.2, respectively. If the 13<sup>th</sup>number is excluded, then what is the average of the remaining numbers (correct to one decimal place)?",
+    "OP1": "51.2",
+    "OP2": "49.8",
+    "OP3": "50.2",
+    "OP4": "50.6",
+    "Answer": "3",
+    "Solution": "<strong>GIVEN:</strong><br>The average of twenty-five numbers is 54 and The average of the first 13 numbers and that of the last 13 numbers is 52.8 and 62.2<br><strong>FORMULA USED:</strong><br>Average = sum of the observation/Number of the observation<br><strong>CALCULATION:</strong><br>Average = sum of the observation/Number of the observation<br>⇒ Sum of the 25 numbers = 54 × 25 = 1350<br>⇒ Sum of the first 13 numbers = 13 × 52.8 = 686.4<br>⇒ Sum of the last 13 numbers = 13 × 62.2 = 808.6<br>⇒ 13<sup>th</sup> number = (Sum of the first 13 numbers + Sum of the last 13 numbers) - (Sum of the 25 numbers)<br>⇒ (686.4 + 808.6) - (1350)<br>⇒ 1495 - 1350 = 145<br>⇒ Sum of the remaining 24 numbers = (1350 - 145) =1205<br>⇒ Average of the remaining 24 numbers = 1205/24 = 50.2<br><strong>∴The average of the remaining 24 numbers is 50.2</strong>",
+    "Tags": [
+      "MATH::Average",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1002,
+    "SL": "2",
+    "Question": "\\(\\frac{sin^2 \\ \\theta}{cos\\theta(1 + cos\\theta)} +\\frac{1 + cos \\theta}{cos\\theta} = \\ ?\\)",
+    "OP1": "cosecθ",
+    "OP2": "2secθ",
+    "OP3": "2cosθ",
+    "OP4": "secθ",
+    "Answer": "2",
+    "Solution": "<strong>Given:</strong><br>\\(\\frac{sin^2 \\ θ}{cosθ(1 + cosθ)} +\\frac{1 + cos θ}{cosθ} = \\ ?\\)<br><strong>Formula used:</strong><br>sin<sup>2</sup>θ + cos<sup>2</sup>θ = 1<br>1/cosθ = secθ<br><strong>Calculations:</strong><br>⇒ x = \\(\\frac{sin^2 \\ θ}{cosθ(1 + cosθ)} +\\frac{1 + cos θ}{cosθ}\\)<br>⇒ (1/cosθ) {(sin<sup>2</sup>θ/1 + cosθ) + (1 + cosθ)}<br>⇒ (1/cosθ) {sin<sup>2</sup>θ + (1 + cosθ)<sup>2</sup>}/(1 + cosθ)<br>⇒ (1/cosθ) {sin<sup>2</sup>θ + 1 + cos<sup>2</sup>θ + 2cosθ }/(1 + cosθ)<br>⇒ (1/cosθ) {1 + 1 + 2cosθ }/(1 + cosθ)<br>⇒ (1/cosθ) {2 + 2cosθ }/(1 + cosθ)<br>⇒ (2/cosθ) {1 + cosθ}/(1 + cosθ)<br>⇒ (2/cosθ)<br>⇒ 2secθ<br><strong>∴ The value is 2secθ.</strong>",
+    "Tags": [
+      "MATH::Trigonometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1003,
+    "SL": "3",
+    "Question": "The base of a right pyramid is an equilateral triangle with side 8 cm, and its height is 30 \\(\\sqrt{3}\\) cm. The volume (in cm<sup>3</sup>)",
+    "OP1": "240\\(\\sqrt{3}\\) cm<sup>3</sup>",
+    "OP2": "360\\(\\sqrt{3}\\) cm<sup>3</sup>",
+    "OP3": "480 cm<sup>3</sup>",
+    "OP4": "360 cm<sup>3</sup>",
+    "Answer": "3",
+    "Solution": "<strong>Given:</strong><br>Side of equilateral triangle = 8 cm<br>Height = 30 \\(√{3}\\) cm<br><strong>Formula used:</strong><br>The volume of the pyramid (V) = (1/3) × Base Area × Height<br>Area of equilateral triangle = (√3/4) × a<sup>2</sup> (where a is the side of the equilateral triangle)<br><strong>Calculations:</strong><br>⇒ Area of triangle = (√3/4) × 8 × 8<br>⇒ Area of equilateral triangle = 16√3 cm<sup>2</sup><br>⇒ The volume of pyramid = (1/3) × 16√3 × 30√3<br>⇒ V = 480 cm<sup>3</sup><br><strong>∴ The volume of the pyramid is 480 cm<sup>3</sup></strong>",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1004,
+    "SL": "4",
+    "Question": "The ratio of the monthly income of X and Y is 5 ∶ 4 and that of their monthly expenditures is 9 ∶ 7. If the income of Y is equal to the expenditure of X, then what is the ratio of the savings of X and Y?",
+    "OP1": "9 ∶ 8",
+    "OP2": "7 ∶ 6",
+    "OP3": "6 ∶ 7",
+    "OP4": "8 ∶ 9",
+    "Answer": "1",
+    "Solution": "<strong>Given:</strong><br>The ratio of the monthly income of X and Y = 5 : 4<br>The ratio of monthly expenditures of X and Y = 9 : 7<br><strong>Formula used:</strong><br>Income = Saving + Expenditure<br><strong>Calculations:</strong><br>Let, the income ratio of X and Y is 5a and 4a.<br>The expenditure ratio of X and Y is 9b and 7b.<br>⇒ 4a = 9b<br>⇒ a/b = 9/4<br>⇒ Saving of X = 5a - 9b<br>⇒ Saving of Y = 4a - 7b<br>⇒ Ratio = (5a - 9b)/(4a - 7b)<br>By dividing b<br>⇒ Ratio = (45 - 36)/(36 - 28)<br>⇒ Ratio = 9/8<br><strong>∴ The ratio of saving is 9 : 8</strong>",
+    "Tags": [
+      "MATH::Ratio-And-Proportion",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1005,
+    "SL": "5",
+    "Question": "Let x be the greatest number which divides 955, 1027, 1075, the remainder in each case is the same. Which of the following is NOT a factor of x?",
+    "OP1": "6",
+    "OP2": "8",
+    "OP3": "4",
+    "OP4": "16",
+    "Answer": "4",
+    "Solution": "<strong>Given:</strong><br>Number = 955, 1027, 1075<br><strong>Concept used:</strong><br>The greatest number means we will calculate the HCF of the given number. We will see the factors of numbers.<br><strong>Calculations:</strong><br>⇒ Required number (x) = HCF of (1027 - 955), (1075 - 1027) and (1075 - 955)<br>⇒ Required number (x) = HCF of 72, 48 and 120<br>⇒ HCF of 72, 48 and 120 = 24<br>⇒ Required number (x) = 24<br>⇒ Factors of 24 = 6 , 8 , 4 but 16 is not the factor of 24<br><strong>∴ 16 is not the factor of 24.</strong>",
+    "Tags": [
+      "MATH::HCF-And-LCM",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1006,
+    "SL": "6",
+    "Question": "The value of 4 ÷ 12 of [3 ÷ 4 of {(4 - 2) × 6 ÷ 2}] - 2 × 6 ÷ 8 + 3 is:",
+    "OP1": "\\(7\\frac{1}{6}\\)",
+    "OP2": "\\(2\\frac{1}{3}\\)",
+    "OP3": "\\(3\\frac{1}{3}\\)",
+    "OP4": "\\(4\\frac{1}{6}\\)",
+    "Answer": "4",
+    "Solution": "<strong>Given:</strong><br>4 ÷ 12 of [3 ÷ 4 of {(4 - 2) × 6 ÷ 2}] - 2 × 6 ÷ 8 + 3<br><strong>concept used:</strong><br><img alt=\"\"src=\"//cdn.testbook.com/images/production/quesImages/quesImage3348.png\"><br><strong>Calculations:</strong><br>⇒ x = 4 ÷ 12 of [3 ÷ 4 of {(4 - 2) × 6 ÷ 2}] - 2 × 6 ÷ 8 + 3<br>⇒ x = 4 ÷ 12 of [3 ÷ 4 of {(4 - 2) × 3}] - 2 × (3/4) + 3<br>⇒ x = 4 ÷ 12 of [3 ÷ 4 of {2 × 3}] - (3/2) + 3<br>⇒ x = 4 ÷ 12 of [3 ÷ 4 of {2 × 3}] - (3/2) + 3<br>⇒ x = 4 ÷ 12 of [3 ÷ 4 of 6] - (3/2) + 3<br>⇒ x = 4 ÷ 12 of [3 ÷ 24] - (3/2) + 3<br>⇒ x = 4 ÷ 12 of (1/8) - (3/2) + 3<br>⇒ x = 4 ÷ (3/2) - (3/2) + 3<br>⇒ x = (8/3) - (3/2) + 3<br>⇒ x = 25/6<br>⇒ x = \\(4\\frac{1}{6}\\)<br><strong>∴ The value is \\(4\\frac{1}{6}\\)</strong>",
+    "Tags": [
+      "MATH::Simplification",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1007,
+    "SL": "7",
+    "Question": "The denominator of a fraction is 4 more than the double of its numerator. When 3 is added to the numerator and 3 is subtracted from denominator the fraction becomes 2/3. Then find the difference between denominator and numerator of the original fraction.",
+    "OP1": "12",
+    "OP2": "13",
+    "OP3": "11",
+    "OP4": "10",
+    "Answer": "3",
+    "Solution": "<strong>Concept used:</strong><br>Fraction = a/b<br>Where,<br>a → Numerator<br>b → Denominator<br><strong>Calculations:</strong><br>The original fraction be x/y<br>According to the question,<br>y = 2x + 4 ----(1)<br>When 3 is added to the numerator and 3 is subtracted from denominator the fraction becomes 2/3<br>So, new fraction = (x + 3)/(y – 3) = 2/3<br>Put value of y from eq. (1)<br>⇒ (x + 3)/(2x + 4 – 3) = 2/3<br>⇒ (x + 3)/(2x + 1) = 2/3<br>⇒ 3x + 9 = 4x + 2<br>⇒ x = 7<br>Put the value of x in eq. (1)<br>y = 2x + 4<br>⇒ 2 × 7 + 4<br>⇒ 18<br>The original fraction = 7/18<br>Required difference = 18 – 7 = 11<br><strong>∴ Required difference is 11</strong>",
+    "Tags": [
+      "MATH::Algebra",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1008,
+    "SL": "8",
+    "Question": "The graphs of the linear equations 3x - 2y = 8 and 4x + 3y = 5 intersect at the point P(α, β). What is the value of (2<span>α</span> - β)?",
+    "OP1": "5",
+    "OP2": "6",
+    "OP3": "3",
+    "OP4": "4",
+    "Answer": "1",
+    "Solution": "<strong>Given:</strong><br>Equation (1) = 3x - 2y = 8<br>Equation (2) = 4x + 3y = 5<br>Intersect point = P(<span>α</span>, β)<br><strong>Concept used:</strong><br>We will solve the linear equations. The value of x and y will be the coordinates of intersecting point P.<br><strong>Calculations:</strong><br>⇒ 3x - 2y = 8 ------(1)<br>⇒ 4x + 3y = 5 ------(2)<br>By solving equation (1) and (2)<br>⇒ x = 2, y = -1<br>⇒ <span>α</span> = 2, β = -1<br>⇒ (2<span>α</span> - β)<br>⇒ (2 × 2 + 1)<br>⇒ 5<br><strong>∴ The value of (2</strong><span>α</span><strong> - β) is 5.</strong>",
+    "Tags": [
+      "MATH::Algebra",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1009,
+    "SL": "9",
+    "Question": "In E is a point inside the quadrilateral ABCD where DE and CE is the angle bisector of ∠D and ∠C respectively. If ∠B is 82° and ∠DEC is 80°, then find the ∠A.",
+    "OP1": "84°",
+    "OP2": "78°",
+    "OP3": "81°",
+    "OP4": "75°",
+    "Answer": "2",
+    "Solution": "<strong>Given:</strong><br>DE and CE is the angle bisector of ∠D and ∠C respectively<br>∠B = 82° and ∠DEC = 80°<br><strong>Concept used:</strong><br>Sum of all the internal angles of a quadrilateral is 360°<br>Sum of all the internal angles of a triangle is 180°<br><strong>Calculations:</strong><br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/21/04/F1%20_Ashish.S_20-04-21_Savita_D1.png\"><br>In quadrilateral ABCD,<br>∠A + ∠B + ∠C + ∠D = 360°<br>⇒ ∠A + 82° + ∠C + ∠D = 360°<br>⇒ ∠A + ∠C + ∠D = 278° ----(1)<br>In ΔDEC,<br>∠EDC + ∠DEC + ∠ECD = 180°<br>⇒ ∠D/2 + 80° + ∠C/2 = 180°<br>⇒ ∠D/2 + ∠C/2 = 100°<br>⇒ ∠D + ∠C = 200° ----(2)<br>Put the value of ∠D + ∠C from eq.(2) to eq. (1)<br>⇒ ∠A + 200° = 278°<br>⇒ ∠A = 78°<br><strong>∴ The value of ∠A is 78°</strong>",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1010,
+    "SL": "10",
+    "Question": "What is the area (in sq. units) of the triangle formed by the graphs of the equations 2x + 5y - 12 = 0, x + y = 3 and y = 0?",
+    "OP1": "3 unit<sup>2</sup>",
+    "OP2": "2 unit<sup>2</sup>",
+    "OP3": "5 unit<sup>2</sup>",
+    "OP4": "6 unit<sup>2</sup>",
+    "Answer": "1",
+    "Solution": "<strong>Given:</strong><br>2x + 5y - 12 = 0 ------(1)<br>x + y = 3 ------(2)<br>y = 0 ------(3)<br><strong>Concept used:</strong><br>At x axis, y = 0<br>Area of triangle = (1/2) × Base × Height<br><strong>Calculations:</strong><br>By solving Equation (1) and (2)<br>⇒ x = 1 and y = 2<br>Point of intersection P = (1, 2)<br>In equation (1) By putting y = 0<br>⇒ R(x, y) = (6, 0)<br>In equation (2) by putting y = 0<br>⇒ Q(x, y) = (3, 0)<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/22/04/F1_Madhuri_SSC_29.04.2022_D2.png\"><br>⇒ Vertices of triangle are (1, 2<span>) , </span>(6, 0) and (3, 0)<br>Here we can see that ΔPQR is an obtuse traingle<br>So, its bese will be QR (= 3) and Height will be PM (=2)<br>So, Area of triangle = (1/2) × 3 × 2<br>⇒ Area of triangle = 3 unit<sup>2</sup><br><strong>∴ The area of triangle is 3 unit<sup><sup>2</sup></sup></strong><br><strong><span><span><img height=\"26px\"src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\"width=\"26px\"><strong><span><u>Alternate Method</u></span></strong></span> </span></strong>From the diagram<br>Area of ΔPQR = \\(\\frac{1}{2}× QR × PM\\)<br><span>Area of ΔPQR = (3 × 2)/2 = 3 units<sup>2</sup></span>",
+    "Tags": [
+      "MATH::Coordinate-Geometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1011,
+    "SL": "11",
+    "Question": "Pipes A and B can fill a tank in 12 minutes and 15 minutes, respectively. The tank when full can be emptied by pipe C in x minutes. When all the three pipes are opened simultaneously, the tank is full in 10 minutes. The value of x is:",
+    "OP1": "24",
+    "OP2": "18",
+    "OP3": "15",
+    "OP4": "20",
+    "Answer": "4",
+    "Solution": "<strong><span>Given:</span></strong><span></span><br><span>A can-do 1 unit work = 1/12 minutes</span><br><span>B can do 1 unit work = 1/15 </span>minutes<br>C can do 1 unit work = - 1/x minutes<br>Together they can fill the tank = 1/10 minutes<br><b><span>Formula used:</span></b><span></span><br><span>Total work = Efficiency × days</span><br><strong><span>Solutions:</span></strong><span></span><br><span>⇒</span><span> 1/total days = 1/A + 1/B - 1/C</span><br><span>⇒</span><span> 1/10 = 1/12 + 1/15 - 1/x</span><br><span>⇒ 1/x = </span>1/12 + 1/15 - 1/10<span></span><br><span>⇒</span><span> 1/x = (5 + 4 - 6)/60</span><br><span>⇒</span><span> 1/x = 3/60</span><br><span></span><br><strong><span>∴</span> </strong><strong><span>The value of x is 20.</span></strong>",
+    "Tags": [
+      "MATH::Pipe-And-Cistern",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1012,
+    "SL": "12",
+    "Question": "If the five-digit number 235 xy is divisible by 3, 7 and 11, then what is the value of (3x - 4y)?",
+    "OP1": "9",
+    "OP2": "5",
+    "OP3": "8",
+    "OP4": "10",
+    "Answer": "4",
+    "Solution": "<strong>Given:</strong><br>Five-digit number 235xy is divisible by 3, 7 and 11<br><strong>Concept used:</strong><br>Divisibility rule of 3- The sum of its digit is divisible by 3.<br>Divisibility rule of 7- To make a pair of 3 from unit digit than subtract left over pair,<br>The result is divisible by 7.<br>Divisibility rule of 11- The difference of the sum of odd place and even place is zero or multiples of 11.<br>The result is divisible by 11.<br><strong>Calculation:</strong><br>235xy<br>For 3, x + y = 2, 5, 8, 11<br>For 11, (7 + y) - (3 + x) = 0 or 11<br>y = 2 then x = 6, x + y = 8<br>For 7, 562 - 023 = 539<br>it is also divisible by 7<br>number = 23562 and x = 6, y = 2<br>now,<br>3x - 4y = 18 - 8 = 10<br><strong>∴ The value of 3x - 4y is 10.</strong>",
+    "Tags": [
+      "MATH::Number-System",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1013,
+    "SL": "13",
+    "Question": "Study the pie-chart and answer the options:<br>Break up (degree wise) of students in terms of specialization in different areas (A, B, C, D &amp; E) in an MBA program.<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/22/03/5fc665f70887b1ca065734a9_Ashish_Akash_28-03-2022_1.PNG\"><br>If the ratio of male and female students specialising in B is 4 : 3 and that of male and female students specialising in D is 8 : 7, then the number of female students in D is what per cent less than the number of male students in B (correct to one decimal place)?",
+    "OP1": "40.2",
+    "OP2": "71.4",
+    "OP3": "41.7",
+    "OP4": "55.8",
+    "Answer": "3",
+    "Solution": "<strong>Given:</strong><br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/22/03/5fc665f70887b1ca065734a9_Ashish_Akash_28-03-2022_1.PNG\"><br><strong>Calculation:</strong><br>Total number of students in B = 2100 × (75.6<sup>°</sup>/360<sup>°</sup>)<br>⇒ (21 × 756)/36 = 441<br>The ratio of male and female students in B = 4 : 3<br>Number of male students in B = 441 × 4/7 = 252<br>Number of female students in B = 441 - 252 = 189<br>Total number of students in D = 2100 × (54<sup>°</sup>/360<sup>°</sup>) = 315<br>The ratio of male and female students in D = 8 : 7<br>Number of male students in D = 315 × 8/15 = 168<br>Number of female students in D = 315 - 168 = 147<br>now,<br>% decrease of female in D that of male students in B = (105/252) × 100 = 41.7%<br><strong>∴ The % decrease is 41.7%.</strong>",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1014,
+    "SL": "14",
+    "Question": "If x = sec 57°, then cot<sup>2</sup> 33° + sin<sup>2</sup> 57° + sin<sup>2</sup> 33° + cosec<sup>2</sup> 57° cos<sup>2</sup> 33° + sec<sup>2</sup> 33° sin<sup>2</sup> 57° is equal to",
+    "OP1": "2x<sup>2</sup> + 1",
+    "OP2": "x<sup>2</sup> + 1",
+    "OP3": "\\(\\frac{1}{x^2 + 1}\\)",
+    "OP4": "x<sup>2</sup> + 2",
+    "Answer": "4",
+    "Solution": "<strong>Given:</strong><br>x = sec 57<sup>°</sup><br><strong>Concept:</strong><br>sec θ = h/b, tan θ = p/b, sin θ = p/h<br>cosec θ = h/p, cot θ = b/p<br>where p = perpendicular, b = base and h = hypotenuse<br>sin θ × cosec θ = 1 and cos θ × sec θ = 1<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/22/04/F1_Savita__SSC_1-4-22_D1.png\"><br>When A + B = 90<sup>°</sup> then,<br>sin A = cos B, sec A = cosec B and tan A = cot B<br><strong>Calculation:</strong><br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/22/04/F1_Savita__SSC_1-4-22_D2.png\"><br>sec 57<sup>°</sup>= x = h/b<br>p = √(x<sup>2</sup> - 1)<br>cot <sup>2</sup>33<sup>°</sup>+ sin<sup>2</sup> 57<sup>°</sup>+ sin<sup>2</sup> 33<sup>°</sup> + cosec<sup>2</sup> 57<sup>°</sup>cos<sup>2</sup> 33<sup>°</sup>+ sec<sup>2</sup> 33<sup>°</sup> sin<sup>2</sup> 57<sup>°</sup><br>⇒ cot<sup>2</sup> 33<sup>°</sup>+ sin<sup>2</sup> 57<sup>°</sup>+ cos<sup>2</sup> 57<sup>°</sup>+ sec<sup>2</sup> 33<sup>°</sup>cos<sup>2</sup> 33<sup>°</sup>+ cosec<sup>2</sup> 57<sup>°</sup> sin<sup>2</sup> 57<sup>°</sup><br>⇒ cot<sup>2</sup> 33<sup>°</sup> + 1 + 1 + 1<br>⇒ (√(x<sup>2</sup> - 1)/1)<sup>2</sup> + 3<br>⇒ x<sup>2</sup> - 1 + 3 = x<sup>2</sup> + 2<br><strong>∴ The answer is given data is x<sup>2</sup> + 2.</strong>",
+    "Tags": [
+      "MATH::Trigonometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1015,
+    "SL": "15",
+    "Question": "In ΔABC, D is a point on side BC such that ∠ADC = 2∠BAD. If ∠A = 80° and ∠C = 38°, then what is the measure of ∠ADB?",
+    "OP1": "56°",
+    "OP2": "62°",
+    "OP3": "58°",
+    "OP4": "52°",
+    "Answer": "1",
+    "Solution": "<strong>Given:</strong><br>In ΔABC, D is a point on side BC<br>∠ADC = 2∠BAD<br>∠A = 80<sup>°</sup> and ∠C = 38<sup>°</sup><br><b>Concept used:</b><br>The sum of all angles in any triangle is to be 180<sup>°</sup><br>The sum of two opposite angles = external angles<br><strong>Explanation:</strong><br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/22/03/F1_Savita%20SSC_29-3-22_D1.png\"><br>According to the question,<br>80<sup>°</sup>+ 38<sup>°</sup>+ ∠B = 180<sup>°</sup><br>⇒ ∠B = 62<sup>°</sup><br>∵ ∠ADC = 2∠BAD<br>if ∠BAD = x than ∠ADC = 2x<br>By theorm,<br>∠BAD + ∠ABD = ∠ADC<br>⇒ x + 62<sup>°</sup>= 2x<br>⇒ x = 62<sup>°</sup><br>In ΔABD,<br>∠ABD + ∠BAD + ∠ADB = 180<sup>°</sup><br>⇒ 62<sup>°</sup>+ 62<sup>°</sup>+ ∠ADB = 180<sup>°</sup><br>⇒ ∠ADB = 56<sup>°</sup><br><strong>∴ The measure of ∠ADB is 56<sup>°</sup>.</strong>",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1016,
+    "SL": "16",
+    "Question": "The value of \\(\\frac{7+3\\sqrt5}{3+\\sqrt5}-\\frac{7-3\\sqrt5}{3-\\sqrt{5}}\\)lies between:",
+    "OP1": "1.5 and 2",
+    "OP2": "3 and 3.5",
+    "OP3": "2.5 and 3",
+    "OP4": "2 and 2.5",
+    "Answer": "4",
+    "Solution": "<strong>Concept used:</strong><br>a<sup>2</sup> - b<sup>2</sup> = (a + b)(a - b)<br><strong>Calculation:</strong><br>\\(\\frac{7+3√5}{3+√5}-\\frac{7-3√5}{3-√{5}}\\)<br>⇒ \\(((7+3√5)(3- √5)- (7-3√5)(3+ √5))/(3+ √5)(3- √5)\\)<br>⇒ (21 + 9√5 - 7√5 - 15 - 21 + 9√5 - 7√5 + 15)/4<br>⇒ 4√5/4 = √5<br>(∵ √5 = 2.236 approx)<br>⇒ 2.3 (approx)<br><strong>∴ The value lies between 2 and 2.5.</strong>",
+    "Tags": [
+      "MATH::Simplification",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1017,
+    "SL": "17",
+    "Question": "A solid metallic cuboid of dimensions 18 cm × 36 cm × 72 cm is melted and recast into 8 cubes of the same volume. What is the ratio of the total surface area of the cuboid to the sum of the lateral surface areas of all 8 cubes?",
+    "OP1": "2 : 3",
+    "OP2": "7 : 12",
+    "OP3": "4 : 7",
+    "OP4": "7 : 8",
+    "Answer": "4",
+    "Solution": "<strong>Given:</strong><br>A solid metallic cuboid of dimensions 18 cm × 36 cm × 72 cm<br>where l = 18 cm, b = 36 cm and h = 72 cm<br>It is melted and recast into 8 cubes of the same volume.<br><strong>Concept used:</strong><br>The volume of cuboid = lbh<br>The total surface area of the cuboid = 2(lb + bh + hl)<br>Where l = length, b = breadth and h = height<br>The volume of cube = a<sup>3</sup><br>The lateral surface area of cube = 4 × a<sup>2</sup><br>Where a = side of cube<br><strong>Explanation:</strong><br>according to the question,<br>lbh = 8 × a<sup>3</sup><br>⇒ 18 × 36 × 72 = 8 × a<sup>3</sup><br>⇒ a<sup>3</sup> = 18 × 36 × 9<br>⇒ a = √(9 × 2 × 9 × 2 × 2 × 9)<br>⇒ a = 18 cm<br>now,<br>according to the question,<br>2(lb + bh + hl) : 8 × 4 × a<sup>2</sup><br>⇒ 2(18 × 36 + 36 × 72 + 72 × 18) : 8 × 4 × (18)<sup>2</sup><br>⇒ 2 × 18 × 36(1 + 4 + 2) : 8 × 4 × 18 × 18<br>⇒ 36 × 36 × 7 : 32 × 18 × 18<br>⇒ 7 : 8<br><strong>∴ The ratio is 7 : 8.</strong>",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1018,
+    "SL": "18",
+    "Question": "If a + b + c = 7 and a<sup>3</sup> + b<sup>3</sup> + c<sup>3</sup> - 3abc = 175, then what is the value of (ab + bc + ca)?",
+    "OP1": "8",
+    "OP2": "7",
+    "OP3": "6",
+    "OP4": "9",
+    "Answer": "1",
+    "Solution": "<strong>Given:</strong><br>a + b + c = 7<br>a<sup>3</sup> + b<sup>3</sup> + c<sup>3</sup> - 3abc = 175<br><strong>Concept used:</strong><br>a<sup>3</sup>+ b<sup>3</sup> + c<sup>3</sup> - 3abc = (a + b + c)[(a + b + c)<sup>2</sup> - 3(ab + bc + ca)]<br><strong>Calculation:</strong><br>a<sup>3</sup>+ b<sup>3</sup> + c<sup>3</sup> - 3abc = (a + b + c)[(a + b + c)<sup>2</sup> - 3(ab + bc + ca)]<br>⇒ 175 = 7 × [(7)<sup>2</sup> - 3(ab + bc + ca)]<br>⇒ 25 = 49 - 3(ab + bc + ca)<br>⇒ 24 = 3(ab + bc + ca)<br>⇒ ab + bc + ca = 8<br><strong>∴ The value of given identities is 8.</strong>",
+    "Tags": [
+      "MATH::Algebra",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1019,
+    "SL": "19",
+    "Question": "If the radius of a sphere is increased by 2.5 decimetre (dm), then its surface area increases by 110 dm<sup>2</sup>. What is the volume (in dm<sup>3</sup>) of the sphere?<br>(Take π = \\(\\frac{22}{7}\\))",
+    "OP1": "\\(\\frac{4}{7}\\)",
+    "OP2": "\\(\\frac{3}{7}\\)",
+    "OP3": "\\(\\frac{13}{21}\\)",
+    "OP4": "\\(\\frac{11}{21}\\)",
+    "Answer": "4",
+    "Solution": "<strong>Given:</strong><br>The radius of a sphere is increased by 2.5 decimeter(dm),<br>then its surface area increases by 110 dm<sup>2</sup><br><strong>Concept used:</strong><br>The surface area of sphere = 4πr<sup>2</sup><br>The volume of sphere = (4/3) × πr<sup>3</sup><br>Where r = radius and π = 22/7<br>a<sup>2</sup> - b<sup>2</sup> = (a + b)(a - b)<br><strong>Calculation:</strong><br>according to the question,<br>4π(r + 2.5)<sup>2</sup> - 4πr<sup>2</sup> = 110<br>⇒ 4π[(r + 2.5)<sup>2</sup> - r<sup>2</sup>] = 110<br>⇒ 4π[(r + 2.5 + r)(r + 2.5 - r)] = 110<br>⇒ 4 × 22/7 × (2r + 2.5) × 2.5 = 110<br>⇒ 10 × (2r + 2.5) = 35<br>⇒ 20r + 25 = 35<br>⇒ r = 1/2 dm<br>now,<br>Volume = 4/3 × π × (1/2)<sup>3</sup><br>⇒ 4/3 × 22/7 × 1/8<br>⇒ 88/168 = 11/21 dm<sup>3</sup><br><strong>∴ The volume of the sphere is 11/21 dm<sup>3</sup>.</strong>",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1020,
+    "SL": "20",
+    "Question": "A certain sum is divided between A, B, C, and D such that the ratio of the shares of A and B is 1 : 3, that of B and C is 2 : 5, and that of C and D is 2 : 3. If the difference between the shares of A and C is Rs. 3,510, then the share of D is",
+    "OP1": "Rs. 4,320",
+    "OP2": "Rs. 3,240",
+    "OP3": "Rs. 6,075",
+    "OP4": "Rs. 4,050",
+    "Answer": "3",
+    "Solution": "<strong>Given:</strong><br>The ratio of the shares of A and B is 1 : 3, B and C is 2 : 5, and that of C and D is 2 : 3. The difference between the shares of A and C is Rs. 3,510.<br><strong>Calculation:</strong><br>According to the question<br>A : B : C : D<br>1 : 3<br>2 : 5<br>2 : 3<br>The ratio of the A : B : C : D is<br>⇒ (1 × 2 × 2) : (3 × 2 × 2) : (3 × 5 × 2) : ( 3 × 5 × 3)<br>⇒ 4 : 12 : 30 : 45<br>The difference between the share of A and C is<br>⇒ (30 - 4)<br>⇒ 26 units<br>Now,<br>⇒ 26 units = 3510<br>⇒ 1 unit = 3510/26<br>⇒ 1 unit = 135 rupee<br>The share of D is<br>⇒ 45 units<br>⇒ 45 × 135<br>⇒ 6075 rupees<br><strong>∴ The share of D is 6075 rupees.</strong>",
+    "Tags": [
+      "MATH::Ratio-And-Proportion",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1021,
+    "SL": "21",
+    "Question": "A hemispherical tank full of water is emptied by a pipe at the rate of 7.7 litres per second. How much time (in hours) will it take to empty \\(\\frac{2}{3}\\)part of the tank, if the internal radius of the tank is 10.5 m?",
+    "OP1": "\\(\\frac{185}{3}\\)",
+    "OP2": "\\(\\frac{175}{3}\\)",
+    "OP3": "\\(\\frac{185}{6}\\)",
+    "OP4": "\\(\\frac{175}{2}\\)",
+    "Answer": "2",
+    "Solution": "<strong>Given:</strong><br>The internal radius of the tank is 10.5 m<br>A pipe at the rate of 7.7 liters per second emptied the tank.<br><strong>Concept:</strong><br>Volume of hemisphere = 2π/3 × r<sup>3</sup><br>1 m<sup>3</sup> = 1000 L<br>1000 cm<sup>3</sup> = 1 L<br><strong>Calculation:</strong><br>The volume of the hemispherical tank is<br>⇒ 2/3 × 22/7 × 10.5 × 10.5 × 10.5<br>⇒ 2425.5 m<sup>3</sup><br>The capacity of the tank is<br>⇒ 2425.5 × 1000 L<br>⇒ 2425500 L<br>So,<br>Time taken by the pipe emptied 2/3 part of the tank is<br>⇒ (2/3 × 2425500) ÷ 7.7 sec<br>⇒ 210,000 sec<br>Time in hours<br>⇒ 210,000/3600<br>⇒ 175/3 hours<br><strong>∴ The required time is 175/3 hours.</strong>",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1022,
+    "SL": "22",
+    "Question": "An article is marked 25% above its cost price. If x% discount is allowed on the marked price and still there is a profit of 5.5%, then what is the value of x?",
+    "OP1": "13.6",
+    "OP2": "15.4",
+    "OP3": "15.6",
+    "OP4": "16.4",
+    "Answer": "3",
+    "Solution": "<strong>Given:</strong><br>An article is Marked 25% above the cost price.<br>After giving x% discount still makes a profit of 5.5%.<br><strong>Concept:</strong><br>S.P = [(100 + gain%)/100] × C.P<br>S.P = [M.P - (M.P × Discount%)]<br><strong>Calculation:</strong><br>Let the cost price of the article is 100 unit.<br>According to the question<br>The selling price of the article is<br>⇒ [(100 + 5.5)/100] × 100<br>⇒ 105.5 units<br>The Marked price of the article is<br>⇒ [100 + (100 × 25%)]<br>⇒ 100 + 25<br>⇒ 125 units<br>Also,<br>The selling price of the article is<br>⇒ [125 - (125 × x%)] = 105.5<br>⇒ 125 - 5x/4 = 105.5<br>⇒ 5x/4 = 19.5<br>⇒ x = 19.5 × 4/5<br>⇒ x = 15.6<br><strong>∴ The required value of x is 15.6.</strong><br><strong><span><img height=\"26px\"src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\"width=\"26px\"><strong><span><u>Shortcut Trick</u></span></strong></span> </strong>Let the Cost Price be Rs. 100.<br>Marked Price = 100 + 25 = 125<br>Selling Price = Cost Price + Profit<br>⇒ 100 + 5.5 = 105.5<br>Now, <span>x% discount is allowed on the marked price</span><br><span>then, Selling Price = Marked Price × [(100 - x%)/100]</span><br><span>⇒ 105.5 = 125 × [(100 - x%)/100]</span><br><span>⇒ 105.5 = 5/4 × (100 - x%)</span><br><span>⇒ 21.1 = 1/4 × (100 - x%)</span><br><span>⇒ (100 - x%) = 84.4</span><br><span>⇒ x = 100 - 84.4</span><br><span>⇒ x = 15.6%</span>",
+    "Tags": [
+      "MATH::Discount",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1023,
+    "SL": "23",
+    "Question": "In a circle with centre O, AB is the diameter. P and Q are two points on the circle on the same side of the diameter AB. AQ and BP intesect at C. If ∠POQ = 54° , then the measure of ∠PCA is:",
+    "OP1": "72°",
+    "OP2": "63°",
+    "OP3": "56°",
+    "OP4": "54°",
+    "Answer": "2",
+    "Solution": "<strong>Given:</strong><br>A circle with the centre O and diameter AB.<br>P and Q are two points on the circle, and ∠POQ = 54°<br><strong>Concept used:</strong><br>The angle subtended by the chord at the circumference would be half of the angle subtended at the centre<br><strong>Calculation:</strong><br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/20/12/F3_Aashish%20S_16-12-2020_Swati_D11.png\"><br>We know that angle subtended by diameter on the circumference is 90<br>⇒ ∠APB = 90°<br>The angle subtended by chord PQ at the circumference would be half of the angle subtended at the centre<br>∠QAP = 54°/2<br>⇒ ∠QAP = 27°<br>In the Δ APC<br>∠APC = ∠APB = 90°<br>∠CAP = ∠QAP = 27°<br>We know that sum of all angle in a triangle is 180°<br>∠PCA + ∠APC + ∠CAP = 180°<br>⇒ ∠PCA + 90° + 27° = 180°<br>⇒ ∠PCA = 180° – 117°<br>⇒ ∠PCA = 63°<br><strong>∴ The required value of ∠PCA is 63°.</strong>",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1024,
+    "SL": "24",
+    "Question": "Let x be the least number which when subtracted from 10424 gives a perfect square number. What is the least number by which x should be multiplied to get a perfect square?",
+    "OP1": "6",
+    "OP2": "3",
+    "OP3": "5",
+    "OP4": "2",
+    "Answer": "3",
+    "Solution": "<strong>Given:</strong><br>The number is 10424<br><strong>Calculation:</strong><br>Firstly, Find the square root of 10424 by division method<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/20/12/F3_Aashish%20S_16-12-2020_Swati_D12.png\"><br>Here, 20 is the remainder, then the value of the least possible number x subtracted from the given number to make the perfect square is 20.<br>Now,<br>Prime factor of 20 is<br>20 = 2 × 2 × 5<br>Here, we see in the prime factor 20, pair of 5 is not<br><strong>∴ The required least number multiplied in x to make a perfect square is 5.</strong>",
+    "Tags": [
+      "MATH::Number-System",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1025,
+    "SL": "25",
+    "Question": "The ratio of the radii of two cones is 5 : 6 and their volumes are in the ratio 8 : 9. The ratio of their heights is:",
+    "OP1": "32 : 25",
+    "OP2": "25 : 32",
+    "OP3": "27 : 20",
+    "OP4": "20 : 27",
+    "Answer": "1",
+    "Solution": "<strong>Given:</strong><br>The ratio of the radii of two cones is 5 : 6 and their volumes are in the ratio 8 : 9.<br><strong>Concept:</strong><br>Volume of the cone = 1/3(πr<sup>2</sup>h)<br><strong>Calculation:</strong><br>Let the radius of one cone is 5r and another cone is 6r and their height is h<sub>1</sub> and h<sub>2</sub> respectively.<br>The ratio of their volume is<br>⇒ 1/3(π × 25r × h<sub>1</sub>) : 1/3(π × 36r × h<sub>2</sub>)<br>⇒ 25h<sub>1</sub> : 36h<sub>2</sub><br>But, The ratio of their volume is equal to 8 : 9, then<br>⇒ 25h<sub>1</sub> : 36h<sub>2</sub> = 8 : 9<br>⇒ h<sub>1</sub> : h<sub>2</sub> = (8 × 36) : (25 × 9)<br>⇒ h<sub>1</sub> : h<sub>2</sub> = 32 : 25<br><strong>∴ The ratio of height of the two cone is 32 : 25.</strong>",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1026,
+    "SL": "26",
+    "Question": "If a : b : c = \\(\\frac{1}{4} : \\frac{1}{3} : \\frac{1}{2},\\) then \\(\\ \\frac{a}{b} : \\frac{b}{c} : \\frac{c}{a} = ?\\)",
+    "OP1": "12 : 9 : 8",
+    "OP2": "9 : 8 : 24",
+    "OP3": "8 : 9 : 24",
+    "OP4": "9 : 12 : 8",
+    "Answer": "2",
+    "Solution": "<strong>Given:</strong><br>a : b : c = 1/4 : 1/3 : 1/2<br><strong>Calculation:</strong><br>According to the question<br>⇒ a : b : c = 1/4 : 1/3 : 1/2<br>⇒ 12(1/4 : 1/3 : 1/2) [Muiltiplied by LCM of (4, 3 , 2)]<br>⇒ 3 : 4 : 6<br>Now,<br>a = 3 unit, b = 4 unit, c = 6 unit<br>So,<br>a/b : b/c : c/a = 3/4 : 4/6 : 6/3<br>⇒ 12(3/4 : 4/6 : 6/3) [Muiltiplied by LCM of (4, 6, 3)]<br>⇒ 9 : 8 : 24<br><strong>∴ The required ratio is 9 : 8 : 24</strong>",
+    "Tags": [
+      "MATH::Ratio-And-Proportion",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1027,
+    "SL": "27",
+    "Question": "Renu saves 20% of her income. If her expenditure increases by 20% and income increases by 29% then her savings increase by:",
+    "OP1": "60%",
+    "OP2": "55%",
+    "OP3": "65%",
+    "OP4": "54%",
+    "Answer": "3",
+    "Solution": "<strong>Given:</strong><br>Renu saves 20% of her income.<br>Her expenditure and income increases by 20% and 29% respectively.<br><strong>Concept:</strong><br>Saving = Income - Expenditure<br><strong>Calculation:</strong><br>Let the income of Renu is 100 unit.<br>According to the question<br>The present saving of Renu is<br>⇒ 100 × 20%<br>⇒ 20 unit<br>The present expenditure of Renu is<br>⇒ 100 - 20<br>⇒ 80 unit<br>Now,<br>The income increases by 29% and expenditure increases by 20%, then<br>The new income is<br>⇒ 100 + (100 × 29%)<br>⇒ 100 + 29<br>⇒ 129 unit<br>The new expenditure is<br>⇒ 80 + (80 × 20%)<br>⇒ 80 + 16<br>⇒ 96 unit<br>The new saving is<br>⇒ 129 - 96<br>⇒ 33 unit<br>The saving increases by<br>⇒ 33 - 20<br>⇒ 13 unit<br>Increases percent of saving is<br>⇒ (13/20) × 100%<br>⇒ 65%<br><strong>∴ The required increases percent is 65%.</strong>",
+    "Tags": [
+      "MATH::Percentage",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1028,
+    "SL": "28",
+    "Question": "A loan is to be returned in two equal yearly instalments. If the rate of interest is 10% p.a., compounded annually, and each instalment is Rs. 5,808, then the total interest charged in this scheme is:",
+    "OP1": "Rs. 1,536",
+    "OP2": "Rs. 1,632",
+    "OP3": "Rs. 1,602",
+    "OP4": "Rs. 1,563",
+    "Answer": "1",
+    "Solution": "<strong>Given:</strong><br>Amount of each installment = Rs. 5,808<br>Rate of interest compounded annually = 10%<br>Number of years (n) = 2<br><strong>Concept used:</strong><br>P = A/[1 + (R/100)]<sup>n</sup><br>Interest = 2 × Installment – P<br><strong>Calculation:</strong><br>Let the loan amount be P.<br>P = 5808/[1 + (10/100)] + 5808/[1 + (10/100)]<sup>2</sup><br>⇒ P = 5808/(1 + 1/10) + 5808/(1 + 1/10)<sup>2</sup><br>⇒ P = 5808/(11/10) + 5808/(11/10)<sup>2</sup><br>⇒ P = (5808 × 10)/11 + 5808/(121/100)<br>⇒ P = 58080/11 + 580800/121<br>⇒ P = 5280 + 4800<br>⇒ P = 10080<br>Interest = 2 × 5808 – 10080<br>⇒ 11616 – 10080<br>⇒ 1536<br><strong>∴ The total interest charged in this scheme is Rs. 1,536.</strong>",
+    "Tags": [
+      "MATH::Installment",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1029,
+    "SL": "29",
+    "Question": "The volume of a solid right circular cylinder of height 8 cm is 392π cm<sup>3</sup>. Its curved surface area (in cm<sup>2</sup>) is:",
+    "OP1": "96π",
+    "OP2": "161π",
+    "OP3": "112π",
+    "OP4": "210π",
+    "Answer": "3",
+    "Solution": "<strong>Given:</strong><br>Volume of the cylinder = 392π cm<sup>3</sup><br>Height of the cylinder (h) = 8 cm<br><strong>Concept used:</strong><br>Volume of the right circular cylinder = π × r<sup>2</sup> × h<br>Curved surface area of the right circular cylinder = 2 × π × r × h<br><strong>Calculation:</strong><br>Let the radius of the right circular cylinder be r.<br>π × r<sup>2</sup> × h = 392π<br>⇒ r<sup>2</sup> × 8 = (392π)/π<br>⇒ r<sup>2</sup> = 392/8<br>⇒ r<sup>2</sup> = 49<br>⇒ r = 7<br>Curved surface area = 2 × π × 7 × 8<br>⇒ 112π<br><strong>∴ The curved surface area of the right circular cylinder </strong><span>(in cm<sup>2</sup>)</span><span> </span><strong>is 112π.</strong>",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1030,
+    "SL": "30",
+    "Question": "When positive numbers a, b and c are divided by 13, the remainders are 9, 7 and 10, respectively. What will be the remainder when (a + 2b + 5c) is divided by 13?",
+    "OP1": "5",
+    "OP2": "10",
+    "OP3": "9",
+    "OP4": "8",
+    "Answer": "4",
+    "Solution": "<strong>Given:</strong><br>Remainder of a divided by 13 = 9<br>Remainder of b divided by 13 = 7<br>Remainder of c divided by 13 = 10<br><strong>Concept used:</strong><br>Dividend = Divisor × Quotient + Remainder<br><strong>Calculation:</strong><br>Let the quotient be 1.<br>a = 13 × 1 + 9 = 22<br>b = 13 × 1 + 7 = 20<br>c = 13 × 1 + 10 = 23<br>a + 2b + 5c<br>⇒ 22 + 2 × 20 + 5 × 23<br>⇒ 22 + 40 + 115<br>⇒ 177<br>Remainder of 177/13 = 8<br><strong>∴ The remainder when (a + 2b + 5c) is divided by 13 is 8.</strong>",
+    "Tags": [
+      "MATH::Number-System",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1031,
+    "SL": "31",
+    "Question": "Study the pie-chart and answer the options:<br>Break up (degree wise) of students in terms of specialization in different areas (A, B, C, D &amp; E) in an MBA program.<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/22/03/5fc6744688c1eec0071f7b2c_Ashish_Akash_28-03-2022_1.PNG\"><br>The total number of students specialising in A and B exceeds the total number of students specialising in C and D by x, which lies between:",
+    "OP1": "50 and 55",
+    "OP2": "60 and 65",
+    "OP3": "65 and 70",
+    "OP4": "55 and 60",
+    "Answer": "2",
+    "Solution": "<strong>Given:</strong><br>Total number of students = 2100<br>Difference between students in A and B and students in C and D = x<br><strong>Calculation:</strong><br>Angle of the students specialising in A and B = 61.2° + 75.6° = 136.8°<br>Angle of the students specialising in C and D = 72° + 54° = 126°<br>Angle difference = 136.8° – 126° = 10.8°<br>360° = 2100<br>⇒ 1° = 2100/360 = 210/36<br>⇒ 1° = 210/36<br>⇒ 10.8° = 210/36 × 10.8<br>⇒ 10.8° = 2268/36<br>⇒ 10.8° = 63<br>⇒ x = 63<br><strong>∴ The total number of students specializing in A and B exceeds the total number of students specializing in C and D by x, which lies between 60 and 65.</strong>",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1032,
+    "SL": "32",
+    "Question": "The value of \\(\\frac{{5{{\\cos }^2}60^\\circ\\space +\\space 4{{\\sec }^2}30^\\circ\\space - \\space{{\\tan }^2}45^\\circ }}{{{{\\tan }^2}60^\\circ\\space -\\space {{\\sin }^2}30^\\circ\\space -\\space {{\\cos }^2}45^\\circ }}\\) is",
+    "OP1": "\\(\\frac{22}{9}\\)",
+    "OP2": "\\(\\frac{67}{27}\\)",
+    "OP3": "\\(\\frac{19}{9}\\)",
+    "OP4": "\\(\\frac{67}{24}\\)",
+    "Answer": "2",
+    "Solution": "<strong>Concept used:</strong><br>cos 60° = 1/2<br>sec 30° = 2/√3<br>tan 45° = 1<br>tan 60° = √3<br>sin 30° = 1/2<br>cos 45° = 1/√2<br><strong>Calculation:</strong><br>\\(\\frac{{5{{\\cos }^2}60^\\circ\\space +\\space 4{{\\sec }^2}30^\\circ\\space - \\space{{\\tan }^2}45^\\circ }}{{{{\\tan }^2}60^\\circ\\space -\\space {{\\sin }^2}30^\\circ\\space -\\space {{\\cos }^2}45^\\circ }}\\)<br>⇒ [5 × (1/2)<sup>2</sup> + 4 × (2/√3)<sup>2</sup> – (1)<sup>2</sup>]/[(√3)<sup>2</sup> – (1/2)<sup>2</sup> – (1/√2)<sup>2</sup>]<br>⇒ [5/4 + 16/3 – 1]/[3 – 1/4 – 1/2]<br>⇒ [(3 × 5 + 4 × 16 – 12)/12]/[(4 × 3 – 1 – 2 × 1)/4]<br>⇒ [(15 + 64 – 12)/12]/[(12 – 1 – 2)/4]<br>⇒ [(67/12)/(9/4)]<br>⇒ (67 × 4)/(12 × 9)<br>⇒ 67/27<br><strong>∴ The value is 67/27.</strong><br><strong><span><img height=\"26px\"src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\"width=\"26px\"><strong><span><u>Important Points</u></span></strong></span></strong><br><strong><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/21/02/Trigo%20-%20Angles%20and%20Radian.PNG\"></strong>",
+    "Tags": [
+      "MATH::Trigonometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1033,
+    "SL": "33",
+    "Question": "\\(\\frac{{25\\% \\;of\\;(50\\% \\;of\\;30\\% \\;of\\;150)}}{{40\\% \\;of\\;2250}}\\) is equal to:",
+    "OP1": "0.225%",
+    "OP2": "0.825%",
+    "OP3": "0.25%",
+    "OP4": "0.625%",
+    "Answer": "4",
+    "Solution": "<strong>Concept used:</strong><br>Follow <span>BODMAS </span>rule to solve this question, as per the order given below,<br><img src=\"//cdn.testbook.com/images/production/quesImages/quesImage3446.png\"><br><strong>Calculation:</strong><br>\\(\\frac{{25\\% \\;of\\;(50\\% \\;of\\;30\\% \\;of\\;150)}}{{40\\% \\;of\\;2250}}\\)<br><span>⇒ </span>\\(\\dfrac{{25\\% \\;of\\;(\\dfrac{50}{100} ×\\dfrac{30}{100} ×150)}}{{\\dfrac{40}{100}×2250}}\\)<br><span>⇒ </span>\\(\\dfrac{{25\\% \\;of\\;(\\dfrac{45}{2} )}}{{900}}\\)<br><span>⇒ </span>\\(\\dfrac{{\\dfrac{25}{100}\\times\\dfrac{45}{2}}}{{900}}\\)<br><span>⇒ </span>\\(\\dfrac{45}{8}\\) × \\(\\dfrac{1}{900}\\) = \\(\\dfrac{1}{160}\\)<br><br>Percentage = \\(\\dfrac{1}{160}\\) × 100<br>⇒ 0.625%<br><strong>∴ The value is 0.625%.</strong>",
+    "Tags": [
+      "MATH::Percentage",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1034,
+    "SL": "34",
+    "Question": "Let D and E be two points on the side BC of ΔABC such that AD = AE and ∠BAD = ∠EAC. If AB = (3x + 1) cm, BD = 9 cm, AC = 34 cm and EC = (y + 1) cm, then the value of (x + y) is:",
+    "OP1": "20",
+    "OP2": "17",
+    "OP3": "16",
+    "OP4": "19",
+    "Answer": "4",
+    "Solution": "<strong>Given:</strong><br>AD = AE<br>∠BAD = ∠EAC<br>AB = (3x + 1) cm<br>BD = 9 cm<br>AC = 34 cm<br>EC = (y + 1) cm<br><strong>Concept used:</strong><br>If two sides of a triangle are equal, then the angles opposite to these sides are equal.<br>An exterior angle of a triangle is equal to the sum of the two opposite interior angles.<br>Angle Angle (AA) property:-<br>In two triangles, if two pairs of corresponding angles are congruent, then the triangles are similar.<br><strong>Calculation:</strong><br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/20/12/F3_Aashish%20S_16-12-2020_Swati_D13.png\"><br>∠BAD = ∠EAC (Given in the question) ----(1)<br>In ΔADE<br>⇒ AD = AE (<span>Given in the question</span>)<br>⇒ ∠ADE = ∠AED (angles of an isosceles triangles) ----(2)<br>So <span>∠ADB = ∠AEC (Supplementary angles of ∠ADE and ∠AED)</span><br>Considering ΔABD and <span>ΔAEC</span><br><span>⇒ ∠ADB = ∠AEC (Equal angles)</span><br><span>⇒ ∠BAD = ∠EAC (Given in the question)</span><br><span>⇒ AD = AE (Given in the question</span><span>)</span><br><span>By the Property of triangles ASA, we can conclude</span><br><span>ΔABD ~ ΔACE</span><br><span>So,</span><br><span>⇒ \\(\\frac{AB}{AC} =\\frac{BD}{CE} =\\frac{AD}{AE}\\)</span><br><span>⇒\\(\\frac{3x+1}{34} =\\frac{9}{y+1} =1\\)</span> ----(3)<br><br>Solving the above equation we get<br><span>⇒ </span>3x + 1 = 34<br><span>⇒ </span>x = 11<br>Similarly,<br><span>⇒ </span>y + 1 = 9<br><span>⇒ </span>y = 8<br>The value of (x + y) = 11 + 8 = 19<br><strong>∴ The value of (x + y) is 19 cm.</strong>",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1035,
+    "SL": "35",
+    "Question": "In ΔABC, D and E are the midpoints of sides BC and AC, respectively. AD and BE intersect at G at right angle. If AD = 18 cm and BE = 12 cm, then the length of DC (in cm) is:",
+    "OP1": "10",
+    "OP2": "6",
+    "OP3": "9",
+    "OP4": "8",
+    "Answer": "1",
+    "Solution": "<strong>Given:</strong><br>BD = DC<br>AE = EC<br>The length of AD = 18 cm<br>The length of BE = 12 cm<br><strong>Concept used:</strong><br>A centroid divides each median into segments with a 2:1 ratio.<br>Pythagorean theorem:-<br>H<sup>2</sup> = P<sup>2</sup> + B<sup>2</sup><br><strong>Calculation:</strong><br><span></span><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/20/12/F3_Aashish%20S_16-12-2020_Swati_D14.png\"><br>AG : GD = 2 : 1<br>Let AG and GD be 2x and x respectively.<br>2x + x = 18<br>⇒ 3x = 18<br>⇒ x = 18/3<br>⇒ x = 6<br>⇒ GD = 6 cm<br>BG : GE = 2 : 1<br>Let BG and GE be y respectively.<br>2y + y = 12<br>⇒ 3y = 12<br>⇒ y = 12/3<br>⇒ y = 4<br>BG = 2 × 4 = 8 cm<br>In right-angled ΔBGD,<br>BD<sup>2</sup>= BG<sup>2</sup> + GD<sup>2</sup><br>⇒ BD<sup>2</sup> = (8)<sup>2</sup> + (6)<sup>2</sup><br>⇒ BD<sup>2</sup> = 64 + 36<br>⇒ BD<sup>2</sup> = 100<br>⇒ BD = 10<br>BD = CD = 10 cm<br><strong>∴ The length of DC (in cm) is 10.</strong>",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1036,
+    "SL": "36",
+    "Question": "In a circle, O is centre of the circle. Chords AB and CD intersect at P. If ∠AOD = 32° and ∠COB = 26° , then the measure of ∠APD lies between:",
+    "OP1": "30° and 34°",
+    "OP2": "26° and 30°",
+    "OP3": "18° and 22°",
+    "OP4": "22°and 26°",
+    "Answer": "2",
+    "Solution": "<strong>Given:</strong><br>In a circle with center O, chords AB and CD intersect at P<br>∠AOD = 32° and ∠COB = 26°<br><strong>Concept used:</strong><br>The angle made by a chord at the center of a circle is double to the angle made at the circumference of the circle<br><strong>Calculation:</strong><br>A circle can be drawn based on the given information as -<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/22/04/F1_Madhuri_SSC_04.04.2022_D1_V2_.png\"><br>As per the question ∠AOD = 32° ; ∠COB = 26°<br>Then, ∠ABD = 16° (∵ angle on circumference by the base chord AD)<br>Also, ∠CDB = 13° (∵ angle on circumference by the base chord BC)<br>Now, consider ΔBPD<br>∠<span>D</span><span>PB</span> = 180° - (13° + 16° )<br>∠DPB = 151°<br><span>∠DPB + ∠APD = 180° (Supplementary angles)</span><br><span>∠APD = 180° - 151° = 29°</span><br>⇒ ∠APD will be of 29° (∵ ∠APC + ∠APD = 180°)<br><strong>∴ ∠APD lies between 26° and 30°</strong>",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1037,
+    "SL": "37",
+    "Question": "A drink of chocolate and milk contains 8% pure chocolate by volume. If 10 litres of pure milk are added to 50 litres of this drink, the percentage of chocolate in the new drink is:",
+    "OP1": "\\(6 \\frac{2}{3}\\)",
+    "OP2": "\\(5 \\frac{1}{3}\\)",
+    "OP3": "\\(6 \\frac{1}{3}\\)",
+    "OP4": "\\(5 \\frac{2}{3}\\)",
+    "Answer": "1",
+    "Solution": "<strong>Given:</strong><br>A drink of chocolate and milk contains 8% pure chocolate.<br>10 litres of pure milk are added to 50 litres of this drink<br><strong>Concept used:</strong><br><strong>Alligation method</strong><br><strong>Calculation:</strong><br>Using the above data in the alligation method, we have<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/20/12/F3_Aashish%20S_16-12-2020_Swati_D16.png\"><br><br>⇒ (x - 0)/(8 - x) = 50/10<br>⇒ x = 40 - 5x<br>⇒ x = 40/6<br>⇒ x = \\(6 {2 \\over 3}\\)<br><strong>∴ The percentage of chocolate in the new drink is \\(6 {2 \\over 3}\\)%</strong>",
+    "Tags": [
+      "MATH::Mixture-And-Alligation",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1038,
+    "SL": "38",
+    "Question": "When 5 children from class A join class B, the number of children in both classes is the same. If 25 children from B, join A, then the number of children in A becomes double the number of children in B. The ratio of the number of children in A to those in B is:",
+    "OP1": "9 : 8",
+    "OP2": "19 : 18",
+    "OP3": "19 : 17",
+    "OP4": "18 : 17",
+    "Answer": "3",
+    "Solution": "<strong>Given:</strong><br>When 5 children join B from A, the number of children in both classes is the same<br>If 25 children from B join A, the number of children in A becomes double the number in B<br><strong>Calculation:</strong><br>Let the number of children in class A be 'a' and that of class B be 'b'<br>As per question<br>5 children from class A join class B<br>⇒ a - 5 = b + 5<br>⇒ a - b = 10 -----(1)<br>Also, when 25 children from B join A, the number of children in A becomes double the number of children in B<br>⇒ a + 25 = 2 × (b - 25)<br>⇒ 2b - a = 75 -----(2)<br>By adding equations (1) and (2), we get<br>b = 85 and<br>a= 95<br><strong>∴ The ratio of the number of children in A to the number of children in B is 19 ∶ 17</strong>",
+    "Tags": [
+      "MATH::Algebra",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1039,
+    "SL": "39",
+    "Question": "A, B and C invested capital in the ratio 5 : 7 : 4, the timing of their investments being in the ratio x : y : z. If their profits are distributed in the ratio 45 : 42 : 28, then x : y : z = ?",
+    "OP1": "9 : 4 : 7",
+    "OP2": "7 : 9 : 4",
+    "OP3": "6 : 7 : 9",
+    "OP4": "9 : 6 : 7",
+    "Answer": "4",
+    "Solution": "<strong>Given:</strong><br>The ratio of investment of A, B, and C is 5 ∶ 7 ∶ 4<br>The timing ratio of A, B, and C is x ∶ y ∶ z<br>The profits distribution ratio is 45 ∶ 42 ∶ 28<br><strong>Concept used:</strong><br>Profits distributed in the ratio of investment × time<br>Calculation:<br>A B C<br>Investment 5 7 4<br>Time x y z<br>----------------------------------------------------------------------------<br>Profits Distribution 45 42 28<br>⇒ 5x = 45 ; 7y = 42 ; 4z = 28<br>⇒ x = 9 ; y = 6 ; z = 7<br><strong>∴ x ∶ y ∶ z = 9 ∶ 6 ∶ 7</strong>",
+    "Tags": [
+      "MATH::Partnership",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1040,
+    "SL": "40",
+    "Question": "In ΔPQR, PS is the internal bisector of ∠P meeting QR at S, PQ = 16 cm, PR = 22.4 cm, QR = 9.6 cm. The length of SR (in cm) is:",
+    "OP1": "6",
+    "OP2": "5.6",
+    "OP3": "4",
+    "OP4": "4.4",
+    "Answer": "2",
+    "Solution": "<strong>Given:</strong><br>PS is the internal angle bisector of ∠P<br>Length of PQ = 16 cm<br><span>Length of PR = </span>22.4 cm<br><span>Length of QR = 9.6 cm</span><br><strong>Concept used:</strong><br>The angle bisector of a triangle divides the opposite sides into two segments that are proportional to the other side of the triangle<br><strong>Calculation:</strong><br>We can draw a triangle based on the given data<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/22/03/F1_Shraddha_SSC_29.03.2022_D1_V2.png\"><br>Applying angle bisector theorem in the triangle<br>PQ/PR = QS/SR<br>⇒ 16/22.4 = QS/SR<br>⇒ QS/SR = 5/7<br>It is given that QR = 9.6 cm<br>⇒ QS + SR = 9.6 cm<br>⇒ 5 unit + 7 unit = 9.6 cm<br>⇒ 1 unit = 0.8 cm<br>⇒ QS = (5 × 0.8) cm and SR = (7 × 0.8) cm<br><strong>∴ The length of SR is 5.6 cm</strong>",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1041,
+    "SL": "41",
+    "Question": "If \\(\\frac{1}{{x + \\frac{1}{{y + \\frac{2}{{z + \\frac{1}{4}}}}}}} = \\frac{{29}}{{79}}\\) where x, y, and z are natural numbers, then the value of (2x + 3y - z) is:",
+    "OP1": "4",
+    "OP2": "0",
+    "OP3": "2",
+    "OP4": "1",
+    "Answer": "3",
+    "Solution": "<strong>Given:</strong><br>\\(\\frac{1}{{x + \\frac{1}{{y + \\frac{2}{{z + \\frac{1}{4}}}}}}} = \\frac{{29}}{{79}}\\)<br><strong>Calculation:</strong><br>RHS can be written as:<br>\\(⇒ \\;\\frac{1}{{\\frac{{79}}{{29}}}} = \\frac{{29}}{{79}}\\)<br>\\(⇒ \\;\\frac{1}{{2\\; +\\ \\frac{{21}}{{29}}\\;}} = \\frac{{29}}{{79}}\\)<br>\\(⇒ \\;\\frac{1}{{2\\; +\\ \\frac{1}{{\\frac{{21}}{{29}}}}\\;}} = \\frac{{29}}{{79}}\\)<br>\\(⇒ \\;\\frac{1}{{2\\; +\\ \\frac{1}{{1 \\ +\\ \\frac{8}{{21}}}}\\;}} = \\frac{{29}}{{79}}\\)<br>\\(⇒ \\;\\frac{1}{{2\\; +\\ \\frac{1}{{1\\ +\\ \\frac{2}{{\\frac{{21}}{4}}}}}\\;}} = \\frac{{29}}{{79}}\\)<br>\\(⇒ \\;\\frac{1}{{2\\; +\\ \\frac{1}{{1\\ +\\ \\frac{2}{{5\\ +\\ \\frac{1}{4}}}}}\\;}} = \\frac{{29}}{{79}}\\)<br>After comparing LHS with the question,<br>x = 2, y = 1, z = 5<br>Substituting the value of x, y and z in (2x + 3y - z),<br>⇒ 2(2) + 3(1) - 5<br>⇒ 4 + 3 - 5<br>⇒ 2<br><strong>∴ The value of (2x + 3y - z) is 2.</strong>",
+    "Tags": [
+      "MATH::Number-System",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1042,
+    "SL": "42",
+    "Question": "A boat can go 5 km upstream and 7.5 km downstream in 45 minutes. It can also go 5 km downstream and 2.5 km upstream in 25 minutes. How much time (in minutes) will it take to go 6 km upstream?",
+    "OP1": "24",
+    "OP2": "32",
+    "OP3": "36",
+    "OP4": "30",
+    "Answer": "3",
+    "Solution": "<strong>Given:</strong><br>A boat goes 5 km upstream and 7.5 km downstream in 45 minutes<br>Also, it goes 5 km downstream and 2.5 km upstream in 25 minutes<br><strong>Concept used:</strong><br>Upstream speed = Speed of the boat in still water - Speed of flow of the stream<br>Downstream speed = Speed of the boat in still water + Speed of flow of the stream<br><strong>Calculation:</strong><br>Let the Downstream and Upstream speed be 'd' km/hr and 'u' km/hr respectively<br>As per the question,<br>5/u + 7.5/d = 45/60 -----eq<sup>-n</sup>(1)<br>2.5/u + 5/d = 25/60 -----eq<sup>-n</sup>(2)<br>Multiplying eq<sup>-n</sup>(2) by 2 and then subtracting eq<sup>-n</sup>(1) from (2), we get<br>\\({2.5 \\over d}\\) = \\({5 \\over 60}\\)<br>⇒ d = 30<br>By putting the value of 'd' in any of the eq<sup>-n</sup>, we get the value of 'u'<br>⇒ u = 10<br>Now<br>Time is taken to travel 6 km upstream<br>= 6/10 hour or 36 minutes<br><strong>∴ The time required to travel 6 km upstream is 36 minutes</strong>",
+    "Tags": [
+      "MATH::Boat-And-Stream",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1043,
+    "SL": "43",
+    "Question": "The value of \\(3\\frac{1}{5} \\div 4\\frac{1}{2}\\;of\\;5\\frac{1}{3} + \\frac{1}{8} \\div \\frac{1}{2}of\\frac{1}{4} - \\frac{1}{4}\\left( {\\frac{1}{2} \\div \\frac{1}{8} \\times \\frac{1}{4}} \\right)\\) is:",
+    "OP1": "\\(\\frac{53}{60}\\)",
+    "OP2": "\\(\\frac{3}{4}\\)",
+    "OP3": "\\(\\frac{13}{15}\\)",
+    "OP4": "\\(\\frac{7}{8}\\)",
+    "Answer": "1",
+    "Solution": "<strong>Given:</strong><br>\\(\\;3\\frac{1}{5} \\div 4\\frac{1}{2}of5\\frac{1}{3} + \\frac{1}{8} \\div \\frac{1}{2}of\\frac{1}{4} - \\frac{1}{4}\\left( {\\frac{1}{2} \\div \\frac{1}{8} \\times \\frac{1}{4}} \\right)\\)<br><strong>Concept used:</strong><br>Mathematical operations involved must be done according to the BODMAS rule -<br><img alt=\"\"src=\"//cdn.testbook.com/images/production/quesImages/quesImage2521.png\"><br><strong>Calculation:</strong><br>\\(\\;3\\frac{1}{5} \\div 4\\frac{1}{2}of5\\frac{1}{3} + \\frac{1}{8} \\div \\frac{1}{2}of\\frac{1}{4} - \\frac{1}{4}\\left( {\\frac{1}{2} \\div \\frac{1}{8} \\times \\frac{1}{4}} \\right)\\)<br>\\(\\Rightarrow 3\\frac{1}{5} \\div 4\\frac{1}{2}of\\ 5\\frac{1}{3} + \\frac{1}{8} \\div \\frac{1}{2}of\\frac{1}{4} - \\frac{1}{4}\\left( 1 \\right)\\)<br>\\(\\Rightarrow \\frac{{16}}{5} \\div \\left( {\\frac{9}{2} \\times \\frac{{16}}{3}} \\right) + \\frac{1}{8} \\div \\left( {\\frac{1}{2} \\times \\frac{1}{4}} \\right) - \\frac{1}{4}\\)<br>\\(\\Rightarrow \\frac{{16}}{5} \\div \\left( {24} \\right) + \\frac{1}{8} \\div \\left( {\\frac{1}{8}} \\right) - \\frac{1}{4}\\)<br>\\(\\Rightarrow \\frac{2}{{15}} + 1 - \\frac{1}{4}\\)<br>\\(\\Rightarrow \\frac{17}{{15}} - \\frac{1}{4}\\)<br>\\(\\Rightarrow \\frac{{53}}{{60}}\\)<br><strong>∴ The value of the given expression is 53/60</strong>",
+    "Tags": [
+      "MATH::Simplification",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1044,
+    "SL": "44",
+    "Question": "Two men and 7 women can complete a work in 28 days, whereas 6 men and 16 women can do the same work in 11 days. In how many days will 5 men and 4 women, working together, complete the same work?",
+    "OP1": "22",
+    "OP2": "18",
+    "OP3": "14",
+    "OP4": "20",
+    "Answer": "1",
+    "Solution": "<strong>Given:</strong><br>2 men and 7 women can complete a work in 28 days<br>6 men and 16 women can do the same work in 11 days<br><strong>Concept used:</strong><br>Work = Total manpower × Total days<br>M<sub>1</sub>D<sub>1</sub>/W<sub>1</sub> = M<sub>2</sub>D<sub>2</sub>/W<sub>2</sub><br><strong>Calculation:</strong><br>Let the efficiency of 1 man be M.<br>And the efficiency of 1 woman is W.<br>According to the question,<br>2 men and 7 women complete a work in 28 days = 6 men and 16 women complete the same work in 11 days<br>⇒ (2M + 7W) × 28 = (6M + 16W) × 11<br>⇒ 56M + 196W = 66M + 176W<br>⇒ 10M = 20W<br>⇒ M = 2W<br>2 men and 7 women = 2M + 7W<br>⇒ 2 men and 7 women = 4W + 7W<br>⇒ 2 men and 7 women = 11W<br>5 men and 4 women = 5M + 4W<br>⇒ 5 men and 4 women = 10W + 4W<br>⇒ 5 men and 4 women = 14W<br>M<sub>1</sub>D<sub>1</sub>/W<sub>1</sub> = M<sub>2</sub>D<sub>2</sub>/W<sub>2</sub><br>⇒ 11W × 28 = 14W × D<sub>2</sub><br>⇒ D<sub>2</sub> = 22 days<br><strong>∴</strong> <strong>5 men and 4 women, working together, complete the same work in 22 days.</strong>",
+    "Tags": [
+      "MATH::Time-And-Work",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1045,
+    "SL": "45",
+    "Question": "The value of \\(\\frac{{27 \\times {{\\left( {0.25} \\right)}^3} + 125\\;{{\\left( {0.05} \\right)}^3}}}{{{{(0.75)}^2} - 0.25 \\times 0.5\\;\\;\\;\\;}}\\) is",
+    "OP1": "0.75",
+    "OP2": "1",
+    "OP3": "0.5",
+    "OP4": "0.25",
+    "Answer": "2",
+    "Solution": "<strong>Given:</strong><br>\\(\\frac{{27 × {{\\left( {0.25} \\right)}^3} + 125{{\\left( {0.05} \\right)}^3}}}{{{{\\left( {0.75} \\right)}^2} - 0.25 × 0.5}}\\)<br><strong>Calculation:</strong><br>\\(\\frac{{27 × {{\\left( {0.25} \\right)}^3} + 125{{\\left( {0.05} \\right)}^3}}}{{{{\\left( {0.75} \\right)}^2} - 0.25 × 0.5}}\\)<br>⇒ \\(\\frac{{27 × {{\\left( {0.25} \\right)}^3} +{{\\left( {5 \\times0.05} \\right)}^3}}}{{{{\\left( {0.75} \\right)}^2} - 0.25 × 0.5}}\\)<br>\\(⇒\\frac{{27 × {{\\left( {0.25} \\right)}^3} + {{\\left( {0.25} \\right)}^3}}}{{{{\\left( {0.25\\times3} \\right)}^2} - 0.25 × 0.5}}\\)<br>\\(⇒ \\frac{{{{\\left( {0.25} \\right)}^3}×(27 + 1)}}{{{{\\left( {0.25} \\right)}^2}×9 - 0.25 × 0.5}}\\)<br>\\(⇒ \\frac{{{{\\left( {0.25} \\right)}^3}×(28)}}{{{{\\left( {0.25} \\right)}}×[(9 × 0.25) - 0.5]}}\\)<br>\\(⇒ \\frac{{{{\\left( {0.25} \\right)}^3}×(28)}}{{{{\\left( {0.25} \\right)}}×[2.25 - 0.5]}}\\) = \\({0.25\\times0.25\\times28}\\over1.75\\)<br>⇒ \\({0.25\\times28}\\over7\\) = 1<br><strong>∴ The value is 1</strong>",
+    "Tags": [
+      "MATH::Simplification",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1046,
+    "SL": "46",
+    "Question": "A secant PAB is drawn from an external point P to the circle with centre O, intersecting it at A and B. If OP = 17 cm, PA = 8 cm and PB = 21 cm, then the radius of the circle is:",
+    "OP1": "10 cm",
+    "OP2": "12 cm",
+    "OP3": "11 cm",
+    "OP4": "15 cm",
+    "Answer": "3",
+    "Solution": "<strong>Given-</strong><br>OP = 17 cm, PA = 8 cm and PB = 21 cm<br><strong>Concept Used-</strong><br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/20/12/F3_Aashish%20S_16-12-2020_Swati_D18.png\"><br>In such a case = PA × PB = PC × PD<br><strong>Calculation-</strong><br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/20/12/F3_Aashish%20S_16-12-2020_Swati_D19.png\"><br>Let radius = x<br>⇒ PC = 17 - x and PD = 17 + x<br>According to Question-<br>PA × PB = PC × PD<br>⇒ 8 × 21 = (17 - x)(17 + x)<br>⇒ 168 = 289 - x<sup>2</sup><br>⇒ x<sup>2</sup> = 121<br>⇒ x = √121 = 11<br>∴ The radius of the circle is 11 cm",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1047,
+    "SL": "47",
+    "Question": "A and B start moving from places X and Y and Y to X, respectively, at the same time on the same day. After crossing each other. A and B take \\(5 \\frac{4}{9}\\) hours and 9 hours, respectively, to reach their respective destinations. If the speed of A is 33 km/h, then then speed (in km/h) of B is:",
+    "OP1": "22",
+    "OP2": "\\(24 \\frac{1}{3}\\)",
+    "OP3": "2",
+    "OP4": "\\(25 \\frac{2}{3}\\)",
+    "Answer": "4",
+    "Solution": "<span><img height=\"26px\"src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\"width=\"26px\"><u>Shortcut Trick</u></span><br>Let the speed of B be v km/hr.<br>When 2 trains after meeting take t<sub>1</sub> hrs. and t<sub>2</sub> hrs. to reach their destination, then,<br>v<sub>1</sub>/v<sub>2</sub> = √t<sub>2</sub>/√t<sub>1</sub><br>⇒ 33/v = √(9/(49/9)<br>⇒ v = 33 × (7/9)<br>v = 77/3 km/hr = \\(25 \\frac{2}{3}\\) km/hr<br>∴ The speed of B is \\(25 \\frac{2}{3}\\) km/hr.<br>The basic method is given below.<br><strong>Given:</strong><br>Speed of A = 33 km/hr<br>After crossing each other,<br>Time taken by A to reach destination = 49/5 hrs<br>Time taken by B to reach destination = 9 hrs<br><strong>Formula Used:</strong><br>Speed = Distance/Time<br><strong>Calculations:</strong><br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/20/12/F3_Aashish%20S_16-12-2020_Swati_D20.png\"><br>Let the speed of B be v km/hr.<br>Let both A and B meet at point Z after t hours.<br>Time taken by A and B to cover XZ is t hrs and 9 hrs respectively.<br>Now, Speed = Distance/Time<br>⇒ XZ = 33 × t = v × 9 ----(1)<br>Similarly, Time taken by A and B to cover YZ is 49/9 hrs and t hrs respectively.<br>⇒ YZ = 49/9 × 33 = v × t ----(2)<br>Dividing (1) by (2), we get<br>33t/(539t/3) = 9v/vt<br>⇒ t<sup>2</sup> = 9 × (49/9)<br>⇒ t = √49<br>⇒ t = 7 hrs<br>Substituting t in (1), we get<br>33 × 7 = v × 9<br>v = 77/3 km/hr = \\(25 \\frac{2}{3}\\) km/hr<br><strong>∴ The speed of B is \\(25 \\frac{2}{3}\\) km/hr.</strong>",
+    "Tags": [
+      "MATH::Time-Speed-Distance",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1048,
+    "SL": "48",
+    "Question": "The value of (tan<sup>2</sup> A + cot<sup>2</sup> A - 2) - sec<sup>2</sup> A cosec<sup>2</sup> A is:",
+    "OP1": "-4",
+    "OP2": "1",
+    "OP3": "-1",
+    "OP4": "4",
+    "Answer": "1",
+    "Solution": "<strong>Given:</strong><br>The value of (tan<sup>2</sup> A + cot<sup>2</sup> A - 2) - sec<sup>2</sup> A cosec<sup>2</sup> A<br><strong>Concept used:</strong><br>Trigonometric functions<br><strong>Calculations:</strong><br>⇒ \\(\\left( {\\frac{{{{\\sin }^2}A}}{{{{\\cos }^2}A}} + \\frac{{{{\\cos }^2}A}}{{{{\\sin }^2}A}} - 2} \\right) - \\frac{1}{{{{\\cos }^2}A{{\\sin }^2}A}}\\)<br>⇒ \\(\\left( {\\frac{{{{\\sin }^4}A + {{\\cos }^4}A}}{{{{\\sin }^2}A{{\\cos }^2}A}} - 2{{\\sin }^2}A{{\\cos }^2}A} \\right) - \\frac{1}{{{{\\sin }^2}A{{\\cos }^2}A}}\\)<br>⇒ \\(\\left( {\\frac{{{{\\sin }^4}A + {{\\cos }^4}A - 2{{\\sin }^2}A{{\\cos }^2}A}}{{{{\\sin }^2}A{{\\cos }^2}A}}} \\right) - \\frac{1}{{{{\\sin }^2}A{{\\cos }^2}A}}\\)<br>⇒ \\(\\frac{{\\left( {{{\\sin }^4}A + {{\\cos }^4}A + 2{{\\sin }^2}A{{\\cos }^2}A - 4{{\\sin }^2}A{{\\cos }^2}A} \\right) - 1}}{{{{\\sin }^2}A{{\\cos }^2}A}}\\)<br>⇒ \\(\\frac{{{{\\left( {{{\\sin }^2}A + {{\\cos }^2}A} \\right)}^2} - 4{{\\sin }^2}A{{\\cos }^2}A - 1}}{{{{\\sin }^2}A{{\\cos }^2}A}}\\)<br>⇒ \\(\\frac{{1 - 4{{\\sin }^2}A{{\\cos }^2}A - 1}}{{{{\\sin }^2}A{{\\cos }^2}A}}\\)<br>∴ - 4",
+    "Tags": [
+      "MATH::Trigonometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1049,
+    "SL": "49",
+    "Question": "What price should Neeraj mark on a shirt that costs Rs. 840, so as to earn a profit of 18% after allowing a discount of 16% on the marked price?",
+    "OP1": "Rs. 1,180",
+    "OP2": "Rs. 1,200",
+    "OP3": "Rs. 1,240",
+    "OP4": "Rs. 1,160",
+    "Answer": "1",
+    "Solution": "<strong>Given:</strong><br>What price should Neeraj mark on a shirt that costs Rs. 840, so as to earn a profit of 18% after allowing a discount of 16% on the marked price.<br><strong>Concept used:</strong><br>Profit and Loss<br><strong>Calculation:</strong><br>After allowing a discount of 16% a profit of 18% is gained.<br>⇒ \\(\\frac{{CP}}{{MP}} = \\frac{{100\\ - \\ Discount}}{{100\\ + \\ \\Pr ofit}}\\)<br>⇒ \\(\\frac{{CP}}{{MP}} = \\frac{{100\\ - 16}}{{100\\ + 18}}\\)<br>⇒ \\(\\frac{{CP}}{{MP}} = \\frac{{84}}{{118}}\\)<br>As per the Question the cost price of an article is Rs.840<br>84 unit = 840<br>1 unit = 10<br>MP = 118 × 10<br>MP = 1180.",
+    "Tags": [
+      "MATH::Discount",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1050,
+    "SL": "50",
+    "Question": "A dealer marks his goods at 40% above the cost price. He sells 60% of the goods at the marked price giving 10% discount and the rest by giving 50% discount on the marked price. What is his overall profit/loss percent?",
+    "OP1": "Profit 3.6%",
+    "OP2": "Loss 2.8%",
+    "OP3": "Loss 3.6%",
+    "OP4": "Profit 2.8%",
+    "Answer": "1",
+    "Solution": "<strong>Given:</strong><br>A dealer marks his goods at 40% above the cost price. He sells 60% of the goods at the marked price giving 10% discount and the rest by giving 50% discount on the marked price.<br><strong>Concept used:</strong><br>Profit and loss<br><strong>Calculation:</strong><br>Let the CP be Rs.100 and the Goods be 100 unit.<br>MP = \\(\\frac{{100 × 140}}{{100}}\\)<br>MP = 140<br>Total Goods price = 100 × 100<br>Total Goods price = 10000<br>Selling price of 60% goods = \\(\\frac{{60 × 100}}{{100}}\\)<br>SP = 60<br>Giving 10% discount on the MP<br>⇒ \\(\\frac{{140\\left( {100 - 10} \\right)}}{{100}}\\)<br>⇒ 14 × 9<br>SP = 126<br>Total SP = 126 × 60<br>Total SP = 7560<br>40% of other goods sold at 50% discount<br>⇒ \\(100 × \\frac{{40}}{{100}} × 140 × \\frac{{\\left( {100 - 50} \\right)}}{{100}}\\)<br>⇒ 4 × 14 × 50<br>SP = 2800<br>Total SP = 2800 + 7560<br>Total SP = 10360<br>Gain = 10360 - 10000<br>Gain = 360<br>Gain% = \\(\\frac{{360}}{{10000}} \\times 100\\)<br>Gain% = 3.6%",
+    "Tags": [
+      "MATH::Profit-And-Loss",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1051,
+    "SL": "51",
+    "Question": "From the top of a hill 240 m high, the angles of depression of the top and bottom of a pole are 30° and 60°, respectively. The difference (in m) between the height of the pole and its distance from the hill is:",
+    "OP1": "80(√3 - 1)",
+    "OP2": "120 (2 - √3)",
+    "OP3": "120 (√3 - 1)",
+    "OP4": "80 (2 - √3)",
+    "Answer": "4",
+    "Solution": "<strong>Given:</strong><br>From the top of a hill 240 m high, the angles of depression of the top and bottom of a pole are 30° and 60°, respectively. The difference (in m) between the height of the pole and its distance form the hill is:<br><strong>Concept :</strong><br>Height and Distance.<br><strong>Calculation:</strong><br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/20/12/F3_Aashish%20S_16-12-2020_Swati_D21.png\"><br>As per the figure shown above, AD is the Hill of height 240 m.<br>CE is the height of the pole.<br>In Δ ADE tan 60° = AD/DE<br>⇒ √3 = 240/DE<br>⇒ DE = 240/√3<br>⇒ DE = 80√3<br>In Δ ABC tan 30° = AB/BC = 1/√3<br>Where BC = DE = 80√3<br>⇒ \\(\\frac{{√ 3\\ \\times AB}}{{240}} = \\frac{1}{{√ 3 }}\\)<br>⇒ 3AB = 240<br>⇒ AB = 240/30<br>⇒ AB = 80.<br>The height of the hill is 240m and AB = 80<br>BD = 240 - 80<br>BD = 160. (The Height of the Pole)<br>The difference between the height of the pole and the distance between the pole and the hill<br>BD - DE<br>160 - 80√3<br>∴ <strong>80(2 - √3)</strong>",
+    "Tags": [
+      "MATH::Height-And-Distance",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1052,
+    "SL": "52",
+    "Question": "Study the pie-chart and answer the options:<br>Break up (degree wise) of students in terms of specialization in different areas (A, B, C, D &amp; E) in an MBA program.<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/22/04/5fc74fb8d2b1ef26513c5918_Ashish%20Singh_Sanyukta%20Gaikar_5.4.22_D1.PNG\"><br>The number of students specialising in E is what percent more than that of students specialising in C?",
+    "OP1": "32",
+    "OP2": "25.9",
+    "OP3": "35",
+    "OP4": "30.4",
+    "Answer": "3",
+    "Solution": "<strong>Given:</strong><br>Break up (degree wise) of students in terms of specialization in different areas (A, B, C, D &amp; E) in an MBA program.<br><strong>Concept used:</strong><br>Percentage.<br><strong>Calculation:</strong><br>E - C = 97.2 - 72<br>E - C = 25.2<br>Now E is what percent more than C<br>⇒ \\(\\frac{{252}}{{720}} \\times 100\\)<br>∴ 35%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1053,
+    "SL": "53",
+    "Question": "If a regular polygon has 16 sides, then what is the measure (in degrees) of its each interior angle?",
+    "OP1": "155",
+    "OP2": "\\(159 \\frac{1}{2}\\)",
+    "OP3": "\\(157 \\frac{1}{2}\\)",
+    "OP4": "154",
+    "Answer": "3",
+    "Solution": "<strong>Given:</strong><br>If a regular polygon has 16 sides.<br><strong>Concept used:</strong><br>Polygon.<br><strong>Calculation:</strong><br>A polygon has 16 sides.<br>Each exterior angle = 360/n<br>Where n is the number of sides.<br>Exterior angle = 360/16<br>Exterior angle = 90/4<br>Sum of interior angle + Exterior angle = 180°<br>Each interior angle = 180 - 90/4<br><span>Each </span>interior angle = \\(\\frac{{720\\ - \\ 90}}{4}\\)<br><span>Each </span>interior angle = \\(157\\frac{1}{2}\\)",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1054,
+    "SL": "54",
+    "Question": "In ΔABC, O is the incentre and ∠BOC = 135°. The measure of ∠BAC is:",
+    "OP1": "80°",
+    "OP2": "45°",
+    "OP3": "90°",
+    "OP4": "55°",
+    "Answer": "3",
+    "Solution": "<strong>Given:</strong><br>In ΔABC, O is the incentre and ∠BOC = 135°.<br><strong>Concept used:</strong><br><strong>Incentre of a triangle: </strong>The point of intersection of all three angle bisectors of a triangle is called its incentre.<br><strong>Calculation:</strong><br>The distance between the incentre and its all three sides is always equal and its called inradius.<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/22/03/F4_Savita%20SSC_29-3-22_D1.png\"><br>∠ BOC is at the incentre of Δ ABC.<br>∠ BOC = \\(90 + \\frac{1}{2}∠ A\\)<br>135 - 90 = \\(\\frac{1}{2}∠ A\\)<br>∠ A = 45 × 2<br>∠ A = 90°",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1055,
+    "SL": "55",
+    "Question": "In ΔABC, D and E are points on the sides AB and AC, respectively, such that DE || BC and DE: BC = 6 : 7. (Area of ΔADE) : (Area of trapezium BCED) = ?",
+    "OP1": "49 : 13",
+    "OP2": "36 : 13",
+    "OP3": "13 : 49",
+    "OP4": "13 : 36",
+    "Answer": "2",
+    "Solution": "<strong>Given:</strong><br>DE : BC = 6 : 7<br><strong>Calculation:</strong><br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/20/12/F3_Aashish%20S_16-12-2020_Swati_D22.png\"><br>Considering <span>Δ</span><span>ABC and ΔADE</span><br><span>∠A = ∠</span><span>A (Common)</span><br>As <span>DE ∥ BC</span><br><span>∠ADE = ∠</span><span>ABC (corresponding angles)</span><br><span>∠ACB = ∠</span><span>AED (corresponding angles)</span><br>Thus by AAA property, ΔABC and ΔADE are similar triangles<br>DE ∥ BC = 6 : 7<br>\\(\\frac{{Area\\ of\\ Δ ADE}}{{Area\\ of\\ Δ ABC}} = {(\\frac{{DE}}{{BC}}})^2\\)<br>Area of Trapezium BCDE = Area of Δ ABC - Area of Δ ADE<br>Area of Trapezium BCDE = 49 - 36<br>Area of Trapezium BCDE = 13<br>\\(\\frac{{Area\\ of\\ Δ ADE}}{{Area\\ of\\ Trapezium\\ BCDE}} = \\frac{{36}}{{13}}\\)<br><u><strong>Theorem Used:</strong></u><br>Ratios of the areas of two similar triangles is equal to the square of the ratio of their corresponding sides",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1056,
+    "SL": "56",
+    "Question": "The value of \\(0.\\overline {57} - 0.\\;4\\overline {32} + 0.\\;3\\bar 5\\) is:",
+    "OP1": "\\(0.4\\;\\overline {98}\\)",
+    "OP2": "\\(0.\\;\\overline {498}\\)",
+    "OP3": "\\(0.4\\;\\overline {94}\\)",
+    "OP4": "\\(0.\\;\\overline {494}\\)",
+    "Answer": "1",
+    "Solution": "<strong>\\(0.\\overline {57} - 0.\\;4\\overline {32} + 0.\\;3\\bar 5\\)</strong><br><br><strong>Solution -</strong><br>\\(0.\\overline {57} - 0.\\;4\\overline {32} + 0.\\;3\\bar 5\\)<br><br>⇒ 0.5757575757575.............<br>+ 0.3555555555555..........<br>- 0.4323232323232..........<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/22/01/5fc7509f79331681801b16f2_16425051264201.png\"><br>0.4989898989898....<br><span><img height=\"26px\"src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\"width=\"26px\"> <strong><span><u>Alternate Method</u></span></strong></span><br><span><strong><span><u>\\(0.\\overline {57} - 0.\\;4\\overline {32} + 0.\\;3\\bar 5\\)</u></span></strong></span><br>can be written as<br>57/99 - 428/990 + 32/90<br>⇒ Taking LCM as 990 of the Denominator<br>we get,<br>(570 - 428 + 352)/990<br>⇒ 494/990 [Converting into expression: 4 will be added with unit digit as the denominator having '0' in it)<br>Value of the given Expression = \\(0.\\;4\\overline {98}\\)<br><div></div>",
+    "Tags": [
+      "MATH::Number-System",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1057,
+    "SL": "57",
+    "Question": "If A is 40% less than B and C is 40% of the sum of A and B, then by what percentage is B greater than C?",
+    "OP1": "\\(56 \\frac{1}{4}\\)",
+    "OP2": "60",
+    "OP3": "36",
+    "OP4": "\\(40 \\frac{1}{8}\\)",
+    "Answer": "1",
+    "Solution": "<strong>Given -</strong><br>If A is 40% less than B and C is 40% of the sum of A and B<br><strong>Concept -</strong><br>If A is y% greater than B then<br>y % = (A/B) × 100<br><strong>Solution -</strong><br>Let B = 100<br>⇒ A = 60<br>⇒ C = 40% of (60 + 100) = 64<br>⇒ B is greater than C,<br>⇒ (100 - 64) × 100/64<br>⇒ (225/4)%<br>B is greater than C by \\(56 \\frac{1}{4}\\)%<br><strong>∴ B is greater than C by \\(56 \\frac{1}{4}\\)% .</strong>",
+    "Tags": [
+      "MATH::Percentage",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1058,
+    "SL": "58",
+    "Question": "A can do \\(\\frac{1}{3}\\) of a work in 30 days. B can do \\(\\frac{2}{5}\\) of the same work in 24 days. They worked together for 20 days. C completed the remaining work in 8 days. Working together A, B and C will complete the same work in:",
+    "OP1": "15 days",
+    "OP2": "10 days",
+    "OP3": "18 days",
+    "OP4": "12 days",
+    "Answer": "4",
+    "Solution": "<strong>Given -</strong><br>A can do \\(\\frac{1}{3}\\) of a work in 30 days<br>B can do \\(\\frac{2}{5}\\) of the same work in 24 days<br>C completed remaining work in 8 days.<br><strong>Solution -</strong><br>⇒ A can do \\(\\frac{1}{3}\\) of a work in 30 day<br>⇒ A completed work in 90 days<br>⇒ B can do \\(\\frac{2}{5}\\) of the same work in 24 days<br>⇒ B can completed work in 60 days.<br>⇒ Let the total work = LCM (90, 60) = 180 unit<br>⇒ Efficiency of A = 3 unit/day<br>⇒ Efficiency of B = 2 unit/day<br>⇒ They both worked for 20 days. work done in 20 days = 20 × 5 = 100 unit<br>⇒ remaining work = 180 - 100 = 80 unit<br>⇒ Remaining work done by C in 8 days,<br>⇒ Efficiency of C = 10 unit/day<br>⇒ Efficiency of (A + B + C) = 15 unit/day<br>⇒ Work completed = 180/15 = 12 days<br><strong>∴ If all worked together, the work completed in 12 days.</strong>",
+    "Tags": [
+      "MATH::Time-And-Work",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1059,
+    "SL": "59",
+    "Question": "When x is subtracted from each of 19, 28, 55 and 91, the numbers so obtained in this order, are in proportion. What is the mean proportional between (x + 9) and x<sup>2</sup>?",
+    "OP1": "27",
+    "OP2": "32",
+    "OP3": "28",
+    "OP4": "24",
+    "Answer": "3",
+    "Solution": "<strong>Given:</strong><br>When x is subtracted from each of 19, 28, 55, 91, obtained numbers are in proportion.<br><strong>Concept used:</strong><br><b>Componendo and Dividendo Rule</b><br>If \\(\\frac{a}{b} = \\frac{x}{y}\\), then \\(\\frac{a + b}{a - b} = \\frac{x + y}{x -y}\\)<br>The mean proportion of x and y is √xy<br><strong>Solution:</strong><br>Given numbers are 19, 28, 55, 91<br>According to the question<br>(19 - x), (28 - x), (55 - x) and (91 - x) are propertional<br>So, \\(\\frac{19 - x}{28 - x} = \\frac{55 - x}{91 -x}\\)<br>Appling Componendo-Dividendo method, we get<br><span>⇒ </span>\\(\\frac{(19 - x) + (28 - x)}{(19 - x) - (28 - x)} = \\frac{(55 - x) + (91 - x)}{(55 - x) - (91 - x)}\\)<br><span>⇒ \\(\\frac{47 - 2x}{-9} = \\frac{146 - 2x}{-36}\\)</span><br>⇒ 188 - 8x = 146 - 2x<br>⇒ 6x = 42<br>⇒ x = 7<br>⇒ mean proportional = √{7 + 9) × 7<sup>2</sup>} = 28<br><strong>∴ Required mean proportion is 28.</strong>",
+    "Tags": [
+      "MATH::Ratio-And-Proportion",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1060,
+    "SL": "60",
+    "Question": "A T.V. is sold at 8% gain. Had it been for Rs. 714 more, the gain would have been 15%. To gain 18%, the selling price of the T.V. should be:",
+    "OP1": "Rs. 12,240",
+    "OP2": "Rs. 12,138",
+    "OP3": "Rs. 11, 934",
+    "OP4": "Rs. 12,036",
+    "Answer": "4",
+    "Solution": "<span><img height=\"26px\"src=\"//cdn.testbook.com/resources/lms_creative_elements/shortcut-trick-image.png\"width=\"26px\"><strong><span><u>Shortcut Trick</u></span></strong></span>(15% - 8%) of C.P = 714<br>1% of C.P = 102<br>118% of C.P = 102 × 118 = <span>Rs. 12,036</span><br><strong><span>Since, 118% of C.P = S.P for 18% profit</span></strong><br><br><span><img height=\"26px\"src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\"width=\"26px\"><strong><span><u>Alternate Method</u></span></strong></span><br><strong>Given:</strong><br>T.V. is sold at 8% gain, if it sold Rs. 714 more , gain = 15%<br><strong>Formula used:</strong><br>Selling price = (100 + profit) × cost price/100<br><strong>Solution:</strong><br>Let the cost price be Rs. 100x.<br>⇒ Selling price = Rs. 108x<br>⇒ If it sold Rs. 714 more, Selling price = Rs. 115x<br>⇒ 115x - 108x = 714<br>⇒ 7x = 714<br>⇒ x = 102<br>⇒ Cost price = 100x = Rs. 10200<br>⇒ to gain 18%, selling price = Rs. 10,200 × 118/100<br>⇒ Selling price = Rs. 12,036<br><strong>∴ to gain 18%, selling price = Rs. 12,036</strong>",
+    "Tags": [
+      "MATH::Profit-And-Loss",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1061,
+    "SL": "61",
+    "Question": "In ΔABC, M and N are the points on side BC such that AM ⊥ BC, AN is the bisector ∠A, and M lies between B and N. If ∠B = 68° , and ∠C = 26° , then the measure of ∠MAN is:",
+    "OP1": "28°",
+    "OP2": "24°",
+    "OP3": "21°",
+    "OP4": "22°",
+    "Answer": "3",
+    "Solution": "<strong>Given -</strong><br>ΔABC,<br>M and N are the side on BC such that AM ⊥ BC, AN is the bisector ∠A, and M lies between B and N<br>∠B = 68° , and ∠C = 26°<br><strong>Concept used -</strong><br>ΔABC,<br>M and N are the side on BC such that AM ⊥ BC, AN is the bisector ∠A, and M lies between B and N.<br>∠MAN = (∠B - ∠C)/2<br><strong>Solution -</strong><br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/22/03/F4_Madhuri_SSC_29.03.2022_D1.png\"><br>⇒ ∠MAN = (∠B - ∠C)/2<br>⇒ ∠MAN = (68° - 26°)/2 = 21°<br><strong>∴ </strong><strong>∠MAN = 21°</strong>",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1062,
+    "SL": "62",
+    "Question": "If x<sup>2</sup> + 4y<sup>2</sup> = 17 and xy = 2, where x &gt; 0, y &gt; 0, then what is the value of x<sup>3</sup> + 8y<sup>3</sup>?",
+    "OP1": "85",
+    "OP2": "65",
+    "OP3": "76",
+    "OP4": "95",
+    "Answer": "2",
+    "Solution": "<strong>Given -</strong><br>x<sup>2</sup> + 4y<sup>2</sup> = 17 and xy = 2, where x &gt; 0, y &gt; 0<br><strong>Formula used -</strong><br>a<sup>3</sup> + b<sup>3</sup> = (a + b) (a<sup>2</sup> - ab + b<sup>2</sup>)<br>(a + b)<sup>2</sup> = a<sup>2</sup> + b<sup>2</sup> + 2ab<br><strong>Solution -</strong><br>x<sup>2</sup> + 4y<sup>2</sup> = 17 and xy = 2, where x &gt; 0, y &gt; 0<br>⇒ xy = 2 then, 4xy = 8<br>⇒ (x + 2y)<sup>2</sup> = x<sup>2</sup> + 4y<sup>2</sup> + 4xy = 17 + 8 = 25<br>⇒ (x + 2y) = 5<br>⇒ x<sup>3</sup> + 8y<sup>3</sup> = (x + 2y) (x<sup>2</sup> + 4y<sup>2</sup> - 2xy)<br>⇒ x<sup>3</sup> + 8y<sup>3</sup> = (5) × (17 - 4) = 65<br><strong>∴ x<sup>3</sup> + 8y<sup>3</sup> = 65.</strong><br><strong>Short trick -</strong><br>⇒ put x = 1, y = 2<br>⇒ it satisfy both the given expression.<br>⇒x<sup>3</sup> + 8y<sup>3</sup> = 1<sup>3</sup> + 8 × 2<sup>3</sup> = 65",
+    "Tags": [
+      "MATH::Algebra",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1063,
+    "SL": "63",
+    "Question": "In what ratio should sugar costing Rs. 40 per kg be mixed with sugar costing Rs. 48 per kg , so as to earn a profit of 20% by selling the mixture at Rs. 54 per kg?",
+    "OP1": "2 ∶ 3",
+    "OP2": "4 ∶ 7",
+    "OP3": "3 ∶ 5",
+    "OP4": "5 ∶ 8",
+    "Answer": "3",
+    "Solution": "<strong>Given -</strong><br>Sugar costing Rs. 40 per kg be mixed with sugar costing Rs. 48 per kg<br>Profit = 20%, selling price = Rs. 54<br><strong>Formula used -</strong><br>Selling price = (100 + profit) × cost price/100<br><strong>Solution -</strong><br>Let the cost price of whole mixture be Rs. x.<br>⇒ x = 54 × 100/120<br>⇒ x = Rs. 45<br>Ratio = (48 – 45) ∶ (45 – 40)<br>⇒ 3 ∶ 5<br><strong>∴ The ratio is 3 : 5.</strong>",
+    "Tags": [
+      "MATH::Mixture-And-Alligation",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1064,
+    "SL": "64",
+    "Question": "A and B enter into a partnership with capital in the ratio 5 : 6. After 4 months, A withdraws \\(\\frac{1}{5}\\) of his capital, while B increases his capital by \\(33 \\frac{1}{3}\\)%. What is the share of B(in Rs. lakhs) in the annual profit of Rs. 6.3 lakhs?",
+    "OP1": "2.34",
+    "OP2": "2.61",
+    "OP3": "3.69",
+    "OP4": "3.96",
+    "Answer": "4",
+    "Solution": "<strong>Given:</strong><br>The ratio of A and B's capital = 5 ∶ 6<br>After 4 months, A withdraws 1/5 of his capital, while B increases his capital by \\(33 \\frac{1}{3}\\)%<br>Total annual profit = Rs. 6.3 lakhs<br><strong>Concept used:</strong><br>Divide the profit according to ratio of investment<br><strong>Calculations:</strong><br>Let money invests by A and B be 5x and 6x respectively<br>Total money invests by A in first 4 months = 5x × 4 = 20x<br>Total money invests by B in first 4 months = 6x × 4 = 24x<br>According to the question,<br>After 4 months money invests by A = 5x × 4/5 = 4x<br>After 4 months money invest by B = 6x × (1 + 100/300)<br>⇒ 6x × 4/3 = 8x<br>Total money invests by A in last 8 months = 4x × 8 = 32x<br>Total money invests by B in last 8 months = 8x × 8 = 64x<br>Total money invests by A in a year = 20x + 32x = 52x<br>Total money invests by B in a year = 24x + 64x = 88x<br>Ratio of money invests by A and B = 52x ∶ 88x<br>⇒ 13 ∶ 22<br>B's profit = (6,30,000/35) × 22 = 3,96,000<br><strong>∴ Share of B is 3.96 lakh.</strong>",
+    "Tags": [
+      "MATH::Partnership",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1065,
+    "SL": "65",
+    "Question": "The monthly salaries of A and B are the same. A, B and C donate 10%, 8% and 9% respectively, of their monthly salaries to a charitable trust. The difference between the donations of A and B is Rs. 400. The total donation by A and B is Rs. 900 more than that of C. What is the monthly salary of C?",
+    "OP1": "Rs. 30,000",
+    "OP2": "Rs. 36,000",
+    "OP3": "Rs. 25,000",
+    "OP4": "Rs. 27,000",
+    "Answer": "1",
+    "Solution": "<strong>Given:</strong><br>Salary of A and B are the same<br>Money donate by A = 10%<br>Money donate by B = 8%<br>Money donate by C = 9%<br>The difference between the donations of A and B = Rs. 400<br>The total donation by A and B is Rs. 900 more than that of C<br><strong>Calculations:</strong><br>Let the salary of A and B be 100x each and C be 100y.<br>Money donate by A = 100x × 10/100 = 10x<br>Money donate by B = 100x × 8/100 = 8x<br>Money donate by C = 100y × 9/100 = 9y<br>According to the question<br>⇒ 10x – 8x = 400<br>⇒ 2x = 400<br>⇒ x = 200<br>Total donation of A and B = 10x + 8x = 18x<br>⇒ 18 × 200 = 3600<br>The total donation by A and B is Rs. 900 more than that of C<br>⇒ 3600 – 9y = 900<br>⇒ 9y = 2700<br>⇒ y = 300<br>Monthly Salary of C = 100y = 100 × 300 = 30000<br><strong>∴ Monthly salary of C is Rs. 30000</strong>",
+    "Tags": [
+      "MATH::Percentage",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1066,
+    "SL": "66",
+    "Question": "A sold an item to B at 20% gain, B sold it to C at 8% gain. C sold it to D at 25% loss. If the difference between the profits of A and B is Rs. 260, then D bought it for:",
+    "OP1": "Rs. 2,430",
+    "OP2": "Rs. 2,200",
+    "OP3": "Rs. 2,268",
+    "OP4": "Rs. 2,480",
+    "Answer": "1",
+    "Solution": "<strong>Given:</strong><br>A sold an item to B at 20% gain<br>B sold it to C at 8% gain<br>C sold it to D at 25% loss<br>If the difference between the profit of A and B is Rs. 260<br><strong>Concept used:</strong><br>S.P = C.P × (100 + P%)/100<br>S.P = C.P × (100 – L%)/100<br>P = S.P – C.P<br>Where,<br>S.P → Selling price<br>C.P → Cost price<br>P% → Profit%<br>L% → Loss%<br><strong>Calculations:</strong><br>Let the cost price of A be 100x<br>Cost price of B = Selling price of A = 100x × 120/100 = 120x<br>Profit of A = 120x – 100x = 20x<br>Cost price of C = Selling price of B = 120x × 108/100 = 129.60x<br>Profit of B = 129.60x – 120x = 9.6x<br>Difference between profit of A and B = 20x – 9.6x = 10.4x<br>⇒ 10.4x = 260<br>⇒ x = 25<br>Cost price of D = Selling price of C = 129.60x × 75/100 = 97.20x<br>Cost price of D = 97.20 × 25 = 2430<br><strong>∴ Cost price of D is Rs. 2,430</strong>",
+    "Tags": [
+      "MATH::Profit-And-Loss",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1067,
+    "SL": "67",
+    "Question": "If (x + y)<sup>3</sup> + 8 (x - y)<sup>3</sup> = (3x + Ay) (3x<sup>2</sup> + Bxy + Cy<sup>2</sup>), then the value of A + B + C is:",
+    "OP1": "3",
+    "OP2": "2",
+    "OP3": "4",
+    "OP4": "0",
+    "Answer": "4",
+    "Solution": "<strong>Solution:</strong><br><strong>Given data:</strong><br>(x + y)<sup>3</sup> + 8 (x - y)<sup>3</sup> = (3x + Ay) (3x<sup>2</sup> + Bxy + Cy<sup>2</sup>) ----(1)<br><strong>Concept used:</strong><br>a<sup>3</sup> + b<sup>3</sup> = (a + b)(a<sup>2</sup> – ab + b<sup>2</sup>)<br><strong>Calculation:</strong><br>(x + y)<sup>3</sup> + 8 (x - y)<sup>3</sup><br>⇒ (x + y)<sup>3</sup> + [2 (x – y)]<sup>3</sup><br>⇒ [x + y + 2 (x – y)] {(x + y)<sup>2</sup> – (x + y) × 2 (x – y) + (2x – 2y)<sup>2</sup>}<br>⇒ (x + y + 2x – 2y) [x<sup>2</sup> + 2xy + y<sup>2</sup> – (x + y) (2x – 2y) + (4x<sup>2</sup> – 8xy + 4y<sup>2</sup>)]<br>⇒ (3x – y) [x<sup>2</sup> + 2xy + y<sup>2</sup> – (2x<sup>2</sup> – 2xy + 2xy – 2y<sup>2</sup>) + 4x<sup>2</sup> – 8xy + 4y<sup>2</sup>]<br>⇒ (3x – y) (5x<sup>2</sup> – 6xy + 5y<sup>2</sup> – 2x<sup>2</sup> + 2y<sup>2</sup>)<br>⇒ (3x – y) (3x<sup>2</sup> – 6xy + 7y<sup>2</sup>)<br>Comparing coefficients of terms with equation 1,<br>⇒ A = -1<br>⇒ B = -6<br>⇒ C = 7<br>⇒ A + B + C = -1 + -6 + 7<br>⇒ A + B + C = 0<br><br><strong>∴</strong><strong> The value of A + B + C is 0.</strong>",
+    "Tags": [
+      "MATH::Algebra",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1068,
+    "SL": "68",
+    "Question": "If \\(\\sqrt{11 - 3 \\sqrt{8}} = a + b \\sqrt{2}\\), then what is the value of (2a + 3b)?",
+    "OP1": "7",
+    "OP2": "9",
+    "OP3": "3",
+    "OP4": "5",
+    "Answer": "3",
+    "Solution": "<strong>Concept used:</strong><br>(a – b)<sup>2</sup> = a<sup>2</sup> – 2ab + b<sup>2</sup><br><strong>Calculations:</strong><br>\\(\\sqrt{11 - 3 \\sqrt{8}} = a + b \\sqrt{2}\\)<br>\\(⇒ \\sqrt{11 - 3 \\sqrt{2 × 2 × 2}} = a + b \\sqrt{2}\\)<br>\\(⇒ \\sqrt{11 - 2 × 3 \\sqrt{2}} = a + b \\sqrt{2}\\)<br>\\(⇒ \\sqrt{(3)^2 + (\\sqrt2)^2 - 2 × 3 \\sqrt{2}} = a + b \\sqrt{2}\\)<br>\\(⇒ \\sqrt{(3\\;-\\;√2)^2} = a + b \\sqrt{2}\\)<br>⇒ 3 – √2 = a + b√2<br>Compare a and b<br>⇒ a = 3<br>⇒ b = -1<br>Value of (2a + 3b) = 2 × 3 + 3 × (-1)<br>⇒ 6 – 3 = 3<br><strong>∴ Value of 2a + 3b is 3</strong>",
+    "Tags": [
+      "MATH::Simplification",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1069,
+    "SL": "69",
+    "Question": "Study the given graph and answer the question that follows.<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/22/03/5fc738a8537aa6c68ba6c341_Akash_28-03-2022_1.PNG\"><br>In which year was the production of computers by the company 16% more than the average exports of computers in the six years (2013 to 2018)?",
+    "OP1": "2018",
+    "OP2": "2015",
+    "OP3": "2014",
+    "OP4": "2016",
+    "Answer": "4",
+    "Solution": "<strong>Calculation:</strong><br>Total exports of computers in 6 years (in thousands) = (140 + 240 + 200 + 350 + 300 + 270)<br>⇒ 1500<br>Number of years = 6<br>Average export = 1500/6<br>⇒ 250<br>Now, 16% more than 250 = 250 × (116/100)<br>⇒ 290<br>In year 2016, the production of computers is 290 (in thousands)<br><strong>∴ The production of computers by the company is 16% more than the average export in year 2016</strong><br><br><strong><span><img height=\"26px\"src=\"//cdn.testbook.com/resources/lms_creative_elements/confusion-points-image.png\"width=\"26px\"><strong><span><u>Confusion Points</u></span></strong></span></strong><br><strong><span>Here, we have to find in which year the production is exactly 16% more than the average export.</span></strong> You will get three years 2016, 2017, and 2018 but the correct answer will be 2016 only because it is (290) exactly 16% more than the average exports.",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1070,
+    "SL": "70",
+    "Question": "Reshma buys two articles A and B for Rs. 1,734. She sells A at a loss of 16% and sells B at a gain of 20%. The selling price of both articles is the same. If A is sold for Rs. 1,147.50, then the gain percent on A is:",
+    "OP1": "12",
+    "OP2": "10",
+    "OP3": "12.5",
+    "OP4": "10.5",
+    "Answer": "3",
+    "Solution": "<strong>Solution:</strong><br><strong>Given data:</strong><br>Let, CP of article A and B be A and B respectively<br>A + B = Rs. 1734 ----(1)<br>Loss % of A = 16%<br>Gain % of B = 20%<br>SP<sub>1</sub> of A = SP<sub>1</sub> of B<br>SP<sub>2</sub> of A = Rs. 1,147.50<br><strong>Concept used:</strong><br>SP = CP × (100 + gain %)/100<br>SP = CP × (100 – Loss %)/100<br>Gain = SP – CP<br>Gain % = (Gain/CP) × 100<br><strong>Calculation:</strong><br>SP = CP × (100 – Loss %)/100<br>SP<sub>1</sub> of A = A × (100 – 16)/100<br>⇒ SP<sub>1</sub> of A = 0.84A ----(2)<br>SP = CP × (100 + gain %)/100<br>SP<sub>1</sub> of B = B × (100 + 20)/100<br>⇒ SP<sub>1</sub> of B = 1.2B ----(3)<br>Equating equations 2 and 3<br>⇒ 0.84A = 1.2B<br>⇒ A = 10B/7<br>Putting value of A in equation 1,<br>⇒ 10B/7 + B = 1734<br>⇒ 17B/7 = 1734<br>⇒ CP of B = Rs. 714<br>⇒ A = 1734 – 714<br>⇒ CP of A = Rs. 1020<br>SP<sub>2</sub> of A = Rs. 1147.50<br>Gain<sub>2</sub> = SP<sub>2</sub> – CP<br>⇒ 1147.50 – 1020<br>⇒ Rs. 127.5<br>Gain % = (Gain<sub>2</sub>/CP) × 100<br>⇒ (127.5/1020) × 100<br>⇒ 12.5 %<br><br><strong>∴</strong><strong> The gain % on article A is 12.5%.</strong><br><span><img height=\"26px\"src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\"width=\"26px\"><strong><span><u>Alternate Method</u></span></strong></span>According to the question,<br>Article A<br>16% = (-4)/25<br>If, CP = 25<br>Loss = 4<br>SP = 25 - 4 = 21<br>Article B<br>20% = (+1)/5<br>Let, CP = 5<br>Profit = 1<br>SP = 1 + 5 = 6<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/22/02/F1__Suhani_08-2-22_Savita_D1.png\"><br>Now,<br>Let the CP of A be Rs. 10x<br>Let the CP of B be Rs. 7x<br>Then,<br>17x = 1734<br>⇒ x = 102<br><span>CP of A = 10x = 10 × 102 = Rs. 1020</span><br><span>CP of B = 7x = 7 × 102 = Rs. 714</span><br><span>Again, according to the question,</span><br>Selling price of A = Rs. 1,147.50<br>Cost price of A = <span>Rs. 1020</span><br>Gain % = (Gain/CP) × 100<br>⇒ (127.5/1020) × 100<br>⇒ 12.5 %<br><strong>∴ The gain % on article A is 12.5%.</strong>",
+    "Tags": [
+      "MATH::Profit-And-Loss",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1071,
+    "SL": "71",
+    "Question": "If 2x<sup>2</sup> - 7x + 5 = 0, then what is the value of \\(x^2 + \\frac{25}{4x^2}\\)?",
+    "OP1": "\\(5 \\frac{1}{2}\\)",
+    "OP2": "\\(7 \\frac{1}{4}\\)",
+    "OP3": "\\(9 \\frac{3}{4}\\)",
+    "OP4": "\\(9 \\frac{1}{2}\\)",
+    "Answer": "2",
+    "Solution": "<strong>Concept used:</strong><br>(a + b)<sup>2</sup> = a<sup>2</sup> + b<sup>2</sup> + 2ab<br><strong>Calculations:</strong><br>2x<sup>2</sup> – 7x + 5 = 0<br>⇒ 2x<sup>2</sup> + 5 = 7x<br>⇒ x<sup>2</sup> + 5/2 = 7x/2<br>⇒ x + 5/2x = 7/2<br>Square of both side of equation<br>⇒ (x + 5/2x)<sup>2</sup> = (7/2)<sup>2</sup><br>⇒ x<sup>2</sup> + (5/2x)<sup>2</sup> + 2 × x × 5/2x = 49/4<br>⇒ x<sup>2</sup> + 25/4x<sup>2</sup> + 5 = 49/4<br>⇒ x<sup>2</sup> + 25/4x<sup>2</sup> = 49/4 – 5<br>⇒ x<sup>2</sup> + 25/4x<sup>2</sup> = 29/4<br>⇒ x<sup>2</sup> + 25/4x<sup>2</sup> = \\(7 \\frac{1}{4}\\)<br><strong>∴ The correct of answer is \\(7 \\frac{1}{4}\\)</strong>",
+    "Tags": [
+      "MATH::Algebra",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1072,
+    "SL": "72",
+    "Question": "In ΔABC, D and E are points on the sides AB and AC, respectively, such that DE || BC. If AD = 5 cm, DB = 9 cm, AE = 4 cm and BC = 15.4 cm, then the sum of the lengths of DE and EC (in cm) is:",
+    "OP1": "12.7",
+    "OP2": "10.8",
+    "OP3": "13.4",
+    "OP4": "11.6",
+    "Answer": "1",
+    "Solution": "<b>Given :</b><br>DE ∥ BC<br>AD = 5 cm<br>DB = 9 cm<br>AE = 4 cm<br>BC = 15.4 cm<br><strong>To find :</strong><br>DE + EC<br><strong>Concept used :</strong><br>Basic Proportionality Theorem (BPT) - In any triangle, if a line intersects any two sides and parallel to the third side then two sides will be divided in the same ratio.<br><strong>Solution :</strong><br>As, DE ∥ BC<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/20/12/F3_Aashish%20S_16-12-2020_Swati_D25.png\"><br>⇒ (AD)/(DB) = (AE)/(EC)<br>⇒ 5/9 = 4/EC<br>⇒ EC = 36/5<br>⇒ EC = 7.2 cm ----(1)<br><strong>Again,</strong><br>⇒ (AD)/(AB) = (DE)/(BC)<br>⇒ 5/14 = DE/15.4<br>⇒ DE = 5.5 cm ----(2)<br><strong>From (1) and (2)</strong><br>⇒ DE + EC = 5.5 + 7.2<br>⇒ DE + EC = 12.7 cm<br><strong>∴ (DE + EC) is 12.7 cm.</strong>",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1073,
+    "SL": "73",
+    "Question": "\\(\\frac{sec A(sec A + tan A )(1 - sin A)}{(cosec^2 A - 1) sin^2 A}\\) is equal to:",
+    "OP1": "cos<sup>2</sup> A",
+    "OP2": "sec<sup>2</sup> A",
+    "OP3": "cot A",
+    "OP4": "cos A",
+    "Answer": "2",
+    "Solution": "<strong>Given :</strong><br>\\(\\frac{sec A(sec A + tan A )(1 - sin A)}{(cosec^2 A - 1) sin^2 A}\\)<br><strong>Concept used :</strong><br>sec a = 1/(cos a)<br>tan a = (sin a)/(cos a)<br><strong>Solution :</strong><br><strong>\\(\\frac{sec A(sec A + tan A )(1 - sin A)}{(cosec^2 A - 1) sin^2 A}\\)</strong><br>\\(= \\left[ {\\frac{1}{{cosA}}\\left( {\\frac{1}{{cosA}} + \\frac{{sinA}}{{cosA}}} \\right)\\left( {1 - sinA} \\right)} \\right]/[(1/{\\sin ^2}A) - 1]\\;{\\rm{sin}}{\\;^2}A\\;\\)<br>\\(= [1/cos^2A(1 + sinA)(1 - sinA)]/[((1 - si{n^2}A)/si{n^2}A){\\rm{ \\times }}si{n^2}A]\\)<br>\\(= se{c^2}A(1 - si{n^2}A)/((1 - si{n^2}A))\\)<br>= sec<sup>2</sup> A",
+    "Tags": [
+      "MATH::Trigonometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1074,
+    "SL": "74",
+    "Question": "Let ab, a ≠ b, is a 2-digit prime number such that ba is also a prime number. The sum of all such numbers is:",
+    "OP1": "374",
+    "OP2": "418",
+    "OP3": "396",
+    "OP4": "407",
+    "Answer": "2",
+    "Solution": "<strong>Given :</strong><br>ab is a 2-digit prime number<br>a ≠ b<br><strong>To find :</strong><br>The sum of ab and ba<br><strong>Solution :</strong><br>List of such prime numbers is<br><span>13, 31, 17, 71, 37, 73, 79, 97</span>.<br>⇒ Sum of these numbers = 13 + 31 + 17 + 71 + 37 + 73 + 79 + 97<br>⇒ Sum of these numbers = 418<br><strong>∴ The required number is 418.</strong>",
+    "Tags": [
+      "MATH::Number-System",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1075,
+    "SL": "75",
+    "Question": "A shopkeeper bought 20 kg of rice at Rs. 55 per kg, 25 kg of rice at Rs. 50 per kg and 35 kg of rice at Rs. 60 per kg. He spent a sum of Rs. 150 on transportation. H mixed all the three types of rice and sold all the stock at Rs. 62.56 kg. His profit percent in the entire transaction is:",
+    "OP1": "8.8",
+    "OP2": "10.5",
+    "OP3": "9.2",
+    "OP4": "12.5",
+    "Answer": "1",
+    "Solution": "<strong>Given :</strong><br>Rate of Rice of quality 1 = Rs. 55<br>Quantity = 20 kg<br>Rate of Rice of quality 2 = Rs. 50<br>Quantity = 25 kg<br>Rate of Rice of quality 3 = Rs. 60<br>Quantity = 35 kg<br>Money spent on transportation = Rs. 150<br>Selling price of mixed Rice = Rs. 62.56<br><strong>Formula used :</strong><br>Profit = Selling price - Cost price<br>Profit% = (profit/cost price) × 100<br><strong>Solution :</strong><br>Cost price of Rice of quality 1 = 55 × 20<br>⇒ Cost price of Rice of quality 1 = 1100<br>Cost price of Rice of quality 2 = 50 × 25<br>⇒ Cost price of Rice of quality 2 = 1250<br>⇒ Cost price of Rice of quality 3 = 60 × 35<br>Cost price of Rice of quality 3 = 2100<br>⇒ Total quantity of mixed rice = 20 + 25 + 35<br>⇒ Total quantity of mixed rice = 80 kg<br>Final cost price including transportation = 1100 + 1250 + 2100 + 150<br>⇒ Final cost price including transportation = 4600<br>⇒ Cost price of 1 kg of mixed rice = 4600/80<br>⇒ Cost price of 1 kg of mixed rice = 57.5<br>⇒ Selling price of 1 kg of mxed rice = 62.56<br>⇒ Profit = 62.56 - 57.5<br>⇒ Profit = 5.06<br>⇒ Profit% = (5.06/57.5) × 100<br>⇒ Profit% = 8.8%<br><strong>∴ His profit percent in the entire transaction is 8.8%</strong>",
+    "Tags": [
+      "MATH::Profit-And-Loss",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1076,
+    "SL": "76",
+    "Question": "A metallic solid spherical ball of radius 3 cm is melted and recast into three spherical balls. The radii of two of these balls are 2 cm and 1.5 cm. What is the surface area (in cm<sup>2</sup>) of the third ball?",
+    "OP1": "\\(\\frac{25}{2} \\pi\\)",
+    "OP2": "50 π",
+    "OP3": "\\(\\frac{25}{4} \\pi\\)",
+    "OP4": "25 π",
+    "Answer": "4",
+    "Solution": "<b>Given :</b><br>The radius of the metallic big ball, R = 3 cm<br>Re-casted in three small balls.<br>The radius of the first small ball, r<sub>1</sub> = 2 cm<br>The radius of the second small ball, r<sub>2</sub> = 1.5 cm<br><strong>Concept used :</strong><br>Before and after recasting volume remains the same<br><strong>Formula used :</strong><br>The volume of sphere = (4/3) π r<sup>3</sup><br><strong>Calculation :</strong><br>Let the radius of the third ball be r<sub>3</sub><br>The volume of big ball = sum of the volume of three small balls<br>⇒ (4/3) π R<sup>3</sup> = (4/3) π (r<sub>1</sub><sup>3</sup> + r<sub>2</sub><sup>3</sup> + r<sub>3</sub><sup>3</sup>)<br>⇒ R<sup>3</sup> = r<sup>1</sup><sup>3</sup> + r<sup>2</sup><sup>3</sup> + r<sup>3</sup><sup>3</sup><br>⇒ 2<sup>3</sup> + 1.5<sup>3</sup> + r<sub>3</sub><sup>3</sup> = 3<sup>3</sup><br>⇒ 8 + 3.375 + r<sub>3</sub><sup>3</sup> = 27<br>⇒ r<sub>3</sub><sup>3</sup> = 27 - 8 - 3.375<br>⇒ r<sub>3</sub><sup>3</sup> = 15.625<br>⇒ r<sub>3</sub> = 2.5<br><strong>Now,</strong><br>Surface area of sphere of radius 2.5 cm<br>⇒ Surface area of third sphere = 4 π r<sub>3</sub><sup>2</sup><br>⇒ Surface area of third sphere = 4 π (2.5)<sup>2</sup><br>⇒ Surface area of third sphere = 4 π 6.25<br>⇒ Surface area of third sphere = 25 π<br><strong>∴ The surface area of third sphere is 25 π cm<sup>2</sup>.</strong>",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1077,
+    "SL": "77",
+    "Question": "\\(\\frac{(1 + tan\\theta + sec\\theta)(1 + cot\\theta - cosec\\theta)}{(sec\\theta + tan\\theta)(1 - sin\\theta)}\\) is equal to:",
+    "OP1": "2cosecθ",
+    "OP2": "cosecθ",
+    "OP3": "secθ",
+    "OP4": "2secθ",
+    "Answer": "4",
+    "Solution": "<strong>Given :</strong><br>\\(\\frac{(1 + tanθ + secθ)(1 + cotθ - cosecθ)}{(secθ + tanθ)(1 - sinθ)}\\)<br><strong>Concept used :</strong><br>tanθ = sinθ/cosθ<br>secθ = 1/cosθ<br>cotθ = cosθ\\sinθ<br><strong>Solution :</strong><br>\\(\\frac{(1 + tanθ + secθ)(1 + cotθ - cosecθ)}{(secθ + tanθ)(1 - sinθ)}\\)<br>\\(= \\;\\frac{{\\left( {1 + \\frac{{sinθ }}{{cosθ }} + \\frac{1}{{cosθ }}} \\right)\\left( {1 + \\frac{{cosθ }}{{sinθ }} - \\frac{1}{{sinθ }}} \\right)}}{{\\left( {\\frac{1}{{cosθ }} + \\frac{{sinθ }}{{cosθ }}\\;} \\right)\\left( {1 - sinθ } \\right)}}\\)<br>\\(= \\;\\frac{{\\left( {\\frac{1}{{sinθ cosθ }}} \\right)\\left( {cosθ + sinθ + 1} \\right)\\left( {sinθ + cosθ - 1} \\right)}}{{\\frac{1}{{cosθ }}\\left( {1 + sinθ } \\right)\\left( {1 - sinθ } \\right)}}\\)<br>\\(= \\frac{1}{{sinθ }}\\;\\;\\frac{{\\left[ {{{\\left( {cosθ + sinθ } \\right)}^2} - {1^2}} \\right]}}{{\\left( {1 - {{\\sin }^2}θ } \\right)}}\\)<br>\\(= \\frac{1}{{sinθ }}\\;\\frac{{\\left( {{{\\cos }^2}θ + {{\\sin }^2}θ + 2sinθ cosθ } \\right) - 1}}{{\\left( {1 - {{\\sin }^2}θ } \\right)}}\\)<br>\\(= \\frac{1}{{sinθ }}\\;\\frac{{2sinθ cosθ }}{{{{\\cos }^2}θ }}\\)<br>= 2/cosθ<br>= 2secθ<br><strong>∴ the required value is 2secθ .</strong>",
+    "Tags": [
+      "MATH::Trigonometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1078,
+    "SL": "78",
+    "Question": "A train travelling at 36 km/h crosses a pole in 25 seconds. How much time (in seconds) will it take to cross a bridge 250 m long?",
+    "OP1": "56",
+    "OP2": "72",
+    "OP3": "48",
+    "OP4": "50",
+    "Answer": "4",
+    "Solution": "<strong>Given :</strong><br>Speed of train = 36 km/h<br>Time taken to cross a pole = 25 seconds<br>Length of bridge = 250 m<br><strong>Formula used :</strong><br>Distance = speed × time<br><strong>Solution :</strong><br>Speed of train = 36 × (5/18)<br>⇒ Speed of train = 10 m/s<br>⇒ Time taken = 25 seconds<br>⇒ Length of train = 25 × 10<br>⇒ Length of train = 250 m<br>⇒ Length of bridge = 250 m<br>⇒ Total length = length of tran + length of bridge<br>⇒ Total length = 250 + 250<br>⇒ Total length = 500 m<br>⇒ Time taken to cross the bridge = 500/10<br><strong>∴ the time taken to cross the bridge is 50 second.</strong>",
+    "Tags": [
+      "MATH::Time-Speed-Distance",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1079,
+    "SL": "79",
+    "Question": "Alloy A contains metals x and y only in the ratio 5 : 2 and alloy B contains these metals in the ratio 3 : 4. Alloy C is prepared by mixing A and B in the ratio 4 : 5. The percentage of x in alloy C is:",
+    "OP1": "45 %",
+    "OP2": "56 %",
+    "OP3": "\\(44 \\frac{4}{9}\\) %",
+    "OP4": "\\(55 \\frac{5}{9}\\) %",
+    "Answer": "4",
+    "Solution": "<strong>Given :</strong><br>The ratio of x and y in alloy A = 5 : 2<br>The ratio of x and y in alloy B = 3 : 4<br>The ratio of A and B in alloy C = 4 : 5<br><strong>To find :</strong><br>Percentage of metal x in alloy C<br><strong>Calculation :</strong><br>⇒ Quantity of metal x in alloy A = 5/7<br>⇒ Quantity of metal y in alloy A = 2/7<br>⇒ Quantity of metal x in alloy B = 3/7<br>⇒ Quantity of metal y in alloy B = 4/7<br><strong>A.T.Q.,</strong><br>⇒ The ratio of x and y in alloy C \\(= \\;\\frac{{\\left( {\\frac{5}{7}} \\right) × 4 + \\left( {\\frac{3}{7}} \\right) × 5}}{{\\left( {\\frac{2}{7}} \\right) × 4 + \\left( {\\frac{4}{7}} \\right) × 5}}\\)<br>⇒ The ratio of x and y in alloy C \\(= \\;\\frac{{\\frac{{20}}{7} + \\frac{{15}}{7}}}{{\\frac{8}{7} + \\frac{{20}}{7}\\;}}\\)<br>⇒ The ratio of x and y in alloy C = 35/28<br>⇒ Quantity of x in alloy C = 35/63<br>⇒ Quantity of x in alloy C = 5/9<br>⇒ Percentage of x in alloy C = (5/9) × 100<br><strong>∴ The percentage of x in alloy C is \\(55 \\frac{5}{9}\\)%.</strong>",
+    "Tags": [
+      "MATH::Mixture-And-Alligation",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1080,
+    "SL": "80",
+    "Question": "To do a certain work, the ratio of the efficiencies of A and B is 7 : 5. Working together, they can complete the same work in \\(17 \\frac{1}{2}\\) days. A alone will complete 60% of the same work in:",
+    "OP1": "21 days",
+    "OP2": "16 days",
+    "OP3": "15 days",
+    "OP4": "18 days",
+    "Answer": "4",
+    "Solution": "<strong>Given:</strong><br>The ratio of efficiencies of A : B = 7 : 5<br><strong>Calculation:</strong><br>The ratio of efficiencies of A : B = 7 : 5<br>Work is done by A and B in 1 day<br>⇒ 7 + 5 = 12<br>Total work to be completed in 17.5 days<br>⇒ 12 × 17.5<br>⇒ 210<br>60% of the Total work completed by A<br>⇒ 210 × (60/100)<br>⇒ 126<br>’‘A will complete the 60% work<br>⇒ 126/7<br>⇒ 18 days<br><strong>∴ ‘A’ will complete 60% of the work in 18 days.</strong>",
+    "Tags": [
+      "MATH::Time-And-Work",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1081,
+    "SL": "81",
+    "Question": "Amita travels from her house at \\(3 \\frac{1}{2}\\) km/h and reaches her school 6 minutes late. The next day she travels at \\(4 \\frac{1}{2}\\)km/h and reaches her school 10 minutes early. What is the distance between her house and the school?",
+    "OP1": "5.6 km",
+    "OP2": "5.4 km",
+    "OP3": "4.8 km",
+    "OP4": "4.2 km",
+    "Answer": "4",
+    "Solution": "<strong>Given:</strong><br>Speed 1 = 3.5 km/hr reaches 6 min late<br>Speed 2 = 4.5 km/h reaches 10 min early.<br><strong>Formula used:</strong><br>Distance = [(Speed 1 × Speed 2)/(Difference of Speeds)] × time difference<br><strong>Calculation:</strong><br>Distance = [(Speed 1 × Speed 2)/(Difference of Speeds)] × time difference<br>⇒ Distance = [(3.5 × 4.5)/1] × 16/60<br>⇒ 4.2 km<br><strong>∴</strong><strong> The distance between her house and the school is 4.2 km.</strong><br><strong>Mistakes Point:</strong><br>Convert all given data in same units i.e all-time in an hour or sec and distance in Km or meter according to requirements.",
+    "Tags": [
+      "MATH::Time-Speed-Distance",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1082,
+    "SL": "82",
+    "Question": "The circumference of the base of a cylindrical vessel is 158.4 cm and its height is 1 m. How many litres of water can it hold (correct to one decimal place)?<br>(Take \\(\\pi = \\frac{22}{7}\\))",
+    "OP1": "200.8 litres",
+    "OP2": "198.2 litres",
+    "OP3": "186.4 litres",
+    "OP4": "199.6 litres",
+    "Answer": "4",
+    "Solution": "<strong>Given:</strong><br>Circumference of the base of cylindrical vessel = 158.4 cm<br>Height of cylindrical vessel = 1 m = 100 cm<br><strong>Formula used:</strong><br>Circumference of the circle = 2πr<br>Volume of cylinder = πr<sup>2</sup>h<br>Where,<br>r = radius of cylinder<br>h = height of cylinder<br><strong>Concept used:</strong><br>1 cm<sup>3</sup> = 0.001 litre<br><strong>Calculation:</strong><br>Circumference of the circle = 2πr<br>⇒ 2πr = 158.4 cm<br>⇒ r = 25.2 cm<br>Height of cylinder = 100 cm<br>Volume of cylinder = πr<sup>2</sup>h<br>⇒ (22/7) × 25.2 × 25.2 × 100<br>⇒ 199584 cm<sup>3</sup><br>The volume of the cylinder in litres<br>⇒ 199584 × 0.001 litre<br>⇒ 199.584 litres<br>⇒ 199.6 litres<br><strong>∴ The volume of the cylinder in litres is 199.6 litres.</strong>",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1083,
+    "SL": "83",
+    "Question": "The value of \\(\\frac{sin \\theta + cos \\theta - 1}{sin \\theta - cos \\theta + 1} \\times \\sqrt{\\frac{1 + sin \\theta}{1 - sin \\theta}}\\) is:",
+    "OP1": "1",
+    "OP2": "-2",
+    "OP3": "2",
+    "OP4": "-1",
+    "Answer": "1",
+    "Solution": "<strong>Given:</strong><br><strong>\\(\\frac{{{\\rm{sinθ \\;}} + {\\rm{\\;cosθ \\;}} - {\\rm{\\;}}1}}{{{\\rm{sinθ \\;}} - {\\rm{\\;cosθ \\;}} + {\\rm{\\;}}1}}\\; × \\;\\sqrt {\\frac{{1\\; + \\;{\\rm{sinθ }}}}{{1\\; - \\;{\\rm{sinθ }}}}}\\)</strong><br><strong>Concept used:</strong><br>Take any triplet to solve this type of questions easily<br><strong>Calculation:</strong><br><img alt=\"\"src=\"//cdn.testbook.com/images/production/quesImages/quesImage3846.png\"><br>sinθ = 4/5, cosθ = 3/5<br><strong>\\(\\frac{sin θ + cos θ - 1}{sin θ - cos θ + 1} × \\sqrt{\\frac{1 + sin θ}{1 - sin θ}}\\)</strong><br>\\(⇒ \\;\\frac{{\\frac{4}{5}\\; + \\;\\frac{3}{5}\\; - 1}}{{\\frac{4}{5} - \\;\\frac{3}{5} + 1}} × \\;\\sqrt {\\frac{{1 + \\;\\frac{4}{5}}}{{1 - \\;\\frac{4}{5}}}}\\)<br>\\(⇒ \\;\\frac{{\\frac{{4 + 3 - 5}}{5}\\;}}{{\\frac{{4 - 3 + 5}}{5}}} × \\;\\sqrt {\\frac{{\\;\\frac{9}{5}}}{{\\;\\frac{1}{5}}}}\\)<br>⇒ (2/5) × (5/6) × 3<br>⇒ 1<br><strong>∴ The value is 1.</strong>",
+    "Tags": [
+      "MATH::Trigonometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1084,
+    "SL": "84",
+    "Question": "The compound interest on a sum of Rs. 20,000 at 15% p.a. for \\(2 \\frac{2}{3}\\)years, when interest compounded yearly is:",
+    "OP1": "Rs. 9,000",
+    "OP2": "Rs. 9,095",
+    "OP3": "Rs. 9,908",
+    "OP4": "Rs. 8,896",
+    "Answer": "2",
+    "Solution": "<strong>Given:</strong><br>Principal = Rs. 20000, Rate = 15%, Time = \\(2\\frac{2}{{3\\;}}\\;{\\rm{years}}\\)<br><strong>Formula used:</strong><br>Amount = Principal(1 + rate/100)<sup>time</sup><br><strong>Calculation:</strong><br>Amount = Principal(1 + rate/100)<sup>time</sup><br>\\(\\Rightarrow 20000 \\times {\\left( {1 + \\;\\frac{{15}}{{100}}} \\right)^2}\\left( {1 + \\;\\frac{{\\frac{2}{3} \\times 15}}{{100}}} \\right)\\)<br>\\(\\Rightarrow 20000 \\times {\\left( {\\;\\frac{{23}}{{20}}} \\right)^2}\\left( {\\;\\frac{{11}}{{10}}} \\right)\\)<br>⇒ 5 × 23 × 23 × 11<br>⇒ 29095<br>Interest = Amount – Principal<br>⇒ 29095 – 20000<br>⇒ 9095<br><strong>∴ The compound interest is Rs. 9095.</strong>",
+    "Tags": [
+      "MATH::Compound-Interest",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1085,
+    "SL": "85",
+    "Question": "Study the given graph and answer the question that follows.<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/22/03/5fc73f7d56b9f89d0537d667_Akash_28-03-2022_1.PNG\"><br>The total production of computers in 2013, 2015, and 2018 is x% of the total exports of computers by the company during the six years. The value of x is:",
+    "OP1": "\\(52 \\frac{1}{3}\\)",
+    "OP2": "\\(43 \\frac{1}{3}\\)",
+    "OP3": "\\(49 \\frac{2}{3}\\)",
+    "OP4": "\\(53 \\frac{1}{3}\\)",
+    "Answer": "4",
+    "Solution": "<strong>Given:</strong><br>Production of computers<br>2013 = 180, 2015 = 300, 2018 = 320<br>Exports of computers<br>2013 = 140, 2014 = 240, 2015 = 200, 2016= 350, 2017 = 300, 2018 = 270<br><strong>Calculation:</strong><br>Production of computers<br>⇒ 180 + 300 + 320<br>⇒ 800<br>Exports of computers<br>⇒ 140 + 240 + 200 + 350 + 300 + 270<br>⇒ 1500<br>% of total exports<br>⇒ 800/1500 × 100<br>⇒ \\(53 \\frac{1}{3}\\)%<br><strong>∴ \\(53 \\frac{1}{3}\\)%</strong>",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1086,
+    "SL": "86",
+    "Question": "In ΔPRQ, ∠P = 90° , S and T are the mid points of sides PR and PQ respectively. What is the value of RQ<sup>2</sup>/(QS<sup>2</sup>+ RT<sup>2</sup>)?",
+    "OP1": "\\(\\frac{1}{2}\\)",
+    "OP2": "\\(\\frac{2}{3}\\)",
+    "OP3": "\\(\\frac{4}{5}\\)",
+    "OP4": "\\(\\frac{3}{4}\\)",
+    "Answer": "3",
+    "Solution": "<strong>Given:</strong><br>∠P = 90°<br>S and T midpoint of PR and PQ.<br><strong>Concept used:</strong><br><u>Pythagoras theorem</u><br>Hypotenuse<sup>2</sup> = perpendicular<sup>2</sup> + base<sup>2</sup><br><strong>Calculation:</strong><br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/20/12/F3_Aashish%20S_16-12-2020_Swati_D26.png\"><br>S and T are the midpoints of PR and PQ.<br>QR<sup>2</sup> = QP<sup>2</sup> + PR<sup>2</sup><br>⇒ QR<sup>2</sup> = 2<sup>2</sup> + 2<sup>2</sup><br>⇒ QR<sup>2</sup> = 4 + 4<br>⇒ QR<sup>2</sup> = 8<br>⇒ QR = √8<br>⇒ QR = 2√2<br>QS<sup>2</sup> = QP<sup>2</sup> + PS<sup>2</sup><br>⇒ QS<sup>2</sup> = 2<sup>2</sup> + 1<sup>2</sup><br>⇒ QS<sup>2</sup> = 4 + 1<br>⇒ QS<sup>2</sup> = 5<br>⇒ QS = √5<br>RT<sup>2</sup> = PT<sup>2</sup> + PR<sup>2</sup><br>⇒ RT<sup>2</sup> = 1<sup>2</sup> + 2<sup>2</sup><br>⇒ RT<sup>2</sup> = 1 + 4<br>⇒ RT<sup>2</sup> = 5<br>⇒ RT = √5<br>RQ<sup>2</sup>/(QS<sup>2</sup>+ RT<sup>2</sup>)<br>⇒ (2√2)<sup>2</sup>/[(√5)<sup>2</sup> + (√5)<sup>2</sup>]<br>⇒ 8/10<br>⇒ 4/5<br><strong>∴ The value of RQ<sup>2</sup>/(QS<sup>2</sup>+ RT<sup>2</sup>) is 4/5.</strong>",
+    "Tags": [
+      "MATH::Geometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1087,
+    "SL": "87",
+    "Question": "The rate of interest for the first 2 years is 6% p.a., for the next 3 years is 10% p.a. and for the period beyond 5 years is 12% p.a. If a person gets Rs. 12,771 as simple interest after 7 years, then how much money did he invest?",
+    "OP1": "Rs. 19,350",
+    "OP2": "Rs. 19,450",
+    "OP3": "Rs. 19,300",
+    "OP4": "Rs. 20,000",
+    "Answer": "1",
+    "Solution": "<strong>Given:</strong><br>Total interest after 7 years = Rs. 12,771<br><strong>Formula used:</strong><br>S.I = (P × R × T)/100<br><strong>Calculation:</strong><br>Let the principal be ‘P’.<br>For the first 2 years<br>S.I = (P × 6 × 2)/100<br>⇒ S.I = 3P/25<br>For the next 3 years<br>S.I = (P × 10 × 3)/100<br>⇒ S.I = 3P/10<br>For the next 2 years<br>S.I = (P × 12 × 2)/100<br>⇒ S.I = 6P/25<br>Total Interest in 7 years = Rs. 12,771<br>(3P/25) + (3P/10) + (6P/25) = 12771<br>⇒ 33P/50 = 12771<br>⇒ P = 19350<br><strong>∴ The amount invested is Rs. 19,350.</strong><br><span><img height=\"26px\"src=\"//cdn.testbook.com/resources/lms_creative_elements/alternate-methord-image.png\"width=\"26px\"><strong><span><u>Alternate Method</u></span></strong></span><table border=\"1\"><tr><td>2 year<td>3 year<td>2 year<tr><td>6%<td>10%<td>12%<tr><td>2 × 6 = 12%<td>3 × 10 = 30%<td>2 × 12 = 24%</table>Total Interest for 7 years = 12 + 30 + 24 = 66% 66% = 12771 P = 100% = (12771 / 66) × 100 = 19350 <span>∴ The amount invested is Rs. 19,350.</span>",
+    "Tags": [
+      "MATH::Simple-Interest",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1088,
+    "SL": "88",
+    "Question": "The circumference of the base of a right circular cone is 44 cm and its height is 24 cm. The curved surface area (in cm<sup>2</sup>) of the cone is:<br>(Take π \\(= \\frac{22}{7}\\))",
+    "OP1": "550",
+    "OP2": "528",
+    "OP3": "440",
+    "OP4": "572",
+    "Answer": "1",
+    "Solution": "<strong>Given :-</strong><br>Circumference of the base of right circular cone = 44 cm<br>Height of cone = 24 cm<br><strong>Concept :-</strong><br>Circumference of base of cone = 2πR<br>Curved surface area of cone = πRl<br>Where,<br>R = Radius of base of cone<br>l= Slant height of cone<br>l = √(h<sup>2</sup> + R<sup>2</sup>)<br><strong>Calculation :-</strong><br>⇒ Circumference of circle = 2 × (22/7) × R<br>⇒ 44 = (44/7) × R<br>⇒ R = 7 cm<br>Now,<br>⇒ Slant height = √((24)<sup>2</sup> + (7)<sup>2</sup>)<br>⇒ Slant height = √(576 + 49)<br>⇒ Slant height = √(625)<br>⇒ Slant height = 25<br>Now,<br>⇒ Curved surface area of cone = (22/7) × 7 × 25<br>⇒ Curved surface area of cone = 550 cm<sup>2</sup><br><strong>∴ Curved surface area of cone is 550 cm<sup>2</sup></strong>",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1089,
+    "SL": "89",
+    "Question": "In ΔABC, right angled at B, if tanA = 1/2, then the value of \\(\\frac{sin A(cos C + cos A)}{cos C (sin C - sin A)}\\) is:",
+    "OP1": "\\(2 \\sqrt{5}\\)",
+    "OP2": "1",
+    "OP3": "3",
+    "OP4": "2",
+    "Answer": "3",
+    "Solution": "<strong>Given :-</strong><br>ΔABC is a right angle at B<br>tanA = (1/2)<br><strong>Calculation :-</strong><br>As tanA = (1/2)<br>sin A = (1/√5)<br>cos A = <span>(2/√5)</span><br>sin C <span>= </span><span>(2/√5)</span><br>cos C = <span>(1/√5)</span><br>Now, Put the value of all identities<br>⇒ \\(\\frac{sin A(cos C + cos A)}{cos C (sin C - sin A)}\\) = {<span>(1/√5)</span>(<span>(1/√5) </span>+ <span>(2</span><span>/√5)</span>))/{<span>(1/√5)</span>(<span>(2/√5)</span> - <span>(1/√5)}</span><br>⇒ \\(\\frac{sin A(cos C + cos A)}{cos C (sin C - sin A)}\\) = <span>{</span><span>(</span><span>(3/√5)</span><span>)}/{</span><span>(1/√5)</span><span>}</span><br><strong>∴ \\(\\frac{sin A(cos C + cos A)}{cos C (sin C - sin A)}\\) = 3</strong>",
+    "Tags": [
+      "MATH::Trigonometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1090,
+    "SL": "90",
+    "Question": "A sum of Rs. 10,500 amounts to Rs. 13,650 in 2 years at a certain rate percent per annum simple interest. The same sum will amount to what in 1 year at the same rate, if the interest is compounded half yearly (nearest to Rs.1)?",
+    "OP1": "Rs. 12,124",
+    "OP2": "Rs. 12,143",
+    "OP3": "Rs. 12,134",
+    "OP4": "Rs. 12,314",
+    "Answer": "3",
+    "Solution": "<strong>Given :-</strong><br>A sum of Rs. 10,500 amounts to Rs. 13,650 in 2 years at a certain rate percent per annum simple interest<br>compounded half yearly<br><strong>Concept :-</strong><br>Simple interest = (Principal × rate × time)/100<br>Simple interest = Amount - Principal<br>Compound interest = Amount - Principal<br>Amount = Principal(1 + (r/100))<sup>t</sup><br>If interest is compounded half yearly then time become double and rate become half<br><strong>Calculation :-</strong><br>⇒ Simple interest = 13,650 - 10,500<br>⇒ Simple interest = Rs. 3150<br>⇒ 3150 = (10,500 × r × 2)/100<br>⇒ 3150 = 105 × r × 2<br>⇒ r = 3150/(105 × 2)<br>⇒ r = 15%<br>Now,<br>For compounded half yearly<br>⇒ Rate = (15/2)%<br>⇒ Time = 2 years<br>⇒ Amount = 10,500(1 + (15/200))<sup>2</sup><br>⇒ Amount = 10,500(1 + (3/40))<sup>2</sup><br>⇒ Amount = 10,500 × (43/40) × (43/40)<br>⇒ Amount = 12,134<br><strong>∴ The sum will amount is 12,134</strong>",
+    "Tags": [
+      "MATH::Compound-Interest",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1091,
+    "SL": "91",
+    "Question": "The number of students in section A and section B of a class are 40 and 52, respectively. The average score in mathematics of all the students is 75. If the average score of the students in A is 20% more than that of students in B, then what is the average score of students in B?",
+    "OP1": "63",
+    "OP2": "69",
+    "OP3": "71",
+    "OP4": "65",
+    "Answer": "2",
+    "Solution": "<strong>Given</strong><strong> :-</strong><br>Total number of student in section A = 40<br>Total number of student in section B = 52<br>Average score in mathematics of all the student = 75<br>If the average score of the students in A is 20% more than that of students in B<br><strong>Concept :-</strong><br>Average = (Sum of total)/Total number<br>Total number of student = Student in section A + Student in section B<br><strong>Calculation :-</strong><br>⇒ Total number of student = 40 + 52<br>⇒ Total number of student = 92<br>⇒ 75 = (Sum of total score)/92<br>⇒ Total score in mathematics = 75 × 92<br>⇒ Total score in mathematics = 6900<br>Now,<br>Let the average score of section B student be x<br>⇒ Average score of section A student = x + ((20/100) × x)<br>⇒ Average score of section A student = (6x/5)<br>Now,<br>⇒ x = (Sum of score of mathematics in section B)/52<br>⇒ Sum of score of section B in mathematics = 52x<br>Now,<br>⇒ (6x/5) = (Sum of score of mathematics in section A)/40<br>⇒ Sum of score of mathematics in section A = (6x/5) × 40<br>⇒ Sum of score of mathematics in section A = 48x<br>Now,<br>⇒ Total score = Sum of score of mathematics in section A + Sum of score of section B in mathematics<br>⇒ 6900 = 48x + 52x<br>⇒ 100x = 6900<br>⇒ x = (6900/100)<br>⇒ x = 69<br>⇒ Average score of section B = 69<br><strong>∴ Average score of section B is 69</strong>",
+    "Tags": [
+      "MATH::Average",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1092,
+    "SL": "92",
+    "Question": "If cosec θ = b/a, then \\(\\frac{\\sqrt{3} cot \\theta + 1}{tan \\theta + \\sqrt{3}}\\) is equal to:",
+    "OP1": "\\(\\frac{\\sqrt{b^2 - a^2}}{a}\\)",
+    "OP2": "\\(\\frac{\\sqrt{b^2 + b^2}}{b}\\)",
+    "OP3": "\\(\\frac{\\sqrt{a^2 + b^2}}{b}\\)",
+    "OP4": "\\(\\frac{\\sqrt{b^2 - a^2}}{b}\\)",
+    "Answer": "1",
+    "Solution": "<strong>Given :-</strong><br>cosec θ = b/a<br><strong>Concept :-</strong><br>tanθ = (1/cotθ)<br>cotθ = (Base/Perpendicular)<br>cosec θ = (Hypotenuse/Perpendicular)<br>Base = √(H<sup>2</sup> - P<sup>2</sup>)<br><strong>Calculation :-</strong><br>⇒ \\(\\frac{√{3} cot θ + 1}{tan θ + √{3}}\\)<br>In Place of tanθ put (1/cotθ)<br>⇒ (√3 cotθ + 1)/((1/cotθ) + √3)<br>⇒ [(√3 cotθ + 1)/(√3 cotθ + 1)] × cotθ<br>⇒ cotθ<br>Now,<br>⇒ Base = √(b<sup>2</sup> - a<sup>2</sup>)<br>⇒ cotθ = √(b<sup>2</sup> - a<sup>2</sup>)/a<br><strong>∴ \\(\\frac{\\sqrt{3} cot \\theta + 1}{tan \\theta + \\sqrt{3}}\\) = √(b<sup>2</sup> - a<sup>2</sup>)/a</strong>",
+    "Tags": [
+      "MATH::Trigonometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1093,
+    "SL": "93",
+    "Question": "Study the given graph and answer the question that follows:<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/22/03/5fc74724537aa6c68ba7d835_Akash_28-03-2022_1.PNG\"><br>By what percent were the total exports of computers, by the company, in 2013, 2014 and 2018 less than the total production of computers in 2015 to 2017 (correct to one decimal place)?",
+    "OP1": "28.8",
+    "OP2": "43.1",
+    "OP3": "32.6",
+    "OP4": "30.1",
+    "Answer": "4",
+    "Solution": "<strong>Given :-</strong><br>Export of computer during 2013, 2014, and 2018<br>Production of computer during 2015, 2016 and 2017<br><strong>Concept :-</strong><br>Percentage = (Difference between total production during time period and export)/Total production during time period<br><strong>Calculation :-</strong><br>⇒ Total export during 2013, 2014 and 2018 = 140 + 240 + 270<br>⇒ Total export during 2013, 2014 and 2018 = 650<br>⇒ Total production during 2015, 2016 and 2017 = 300 + 290 + 340<br>⇒ Total production during 2015, 2016 and 2017 = 930<br>⇒ Difference of production and export during given period = 930 - 650<br>⇒ Difference of production and export during given period = 280<br>⇒ Percentage = (280/930) × 100<br>⇒ Percentage = 30.10<br><strong>∴ Percent of the total exports of computers, by the company, in 2013, 2014 and 2018 less than the total production of computers in 2015 to 2017 is 30.10</strong><br><span><span><img height=\"26px\"src=\"//cdn.testbook.com/resources/lms_creative_elements/mistake-point-image.png\"width=\"26px\"><strong><span><u>Mistake Points</u></span></strong></span></span><br>Remember to consider 2015 to 2017 as 2015, 2016 and 2017 all three years.",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1094,
+    "SL": "94",
+    "Question": "The base of a solid right prism of height 10 cm is a square and its volume is 160 cm<sup>3</sup>. What is its total surface area of the prism (in cm<sup>2</sup>)?",
+    "OP1": "176",
+    "OP2": "200",
+    "OP3": "192",
+    "OP4": "180",
+    "Answer": "3",
+    "Solution": "<strong>Given :-</strong><br>Base of prism is square<br>Height of prism = 10 cm<br>Volume of prism = 160 cm<sup>3</sup><br><strong>Concept :-</strong><br>Concept of prism is based on cylinder<br>Total surface area of prism = Curved/lateral surface area + (2 × Base area)<br>Volume of prism = Base area × height<br>Curved surface area of prism = Base perimeter × Height<br>Area of square = side<sup>2</sup><br>Perimeter of square = 4 × side<br><strong>Calculation :-</strong><br>⇒ 160 = Base area × 10<br>⇒ Base area = (160/10)<br>⇒ Base area = 16 cm<sup>2</sup><br>As base of prism is square so,<br>⇒ 16 = side<sup>2</sup><br>⇒ Side = √16 = 4 cm<br>⇒ Perimeter of base = 4 × 4 = 16 cm<br>Now<br>⇒ Curved surface area = 16 × 10 = 160 cm<sup>2</sup><br>⇒ Total surface area = 160 + (2 × 16)<br>⇒ Total surface area = 160 + 32 = 192 cm<sup>2</sup><br><strong>∴ Total surface area is 192 cm<sup>2</sup></strong>",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1095,
+    "SL": "95",
+    "Question": "If cos(2θ + 54°) = sin θ, 0° &lt; (2 θ + 54°) &lt; 90°, then what is the value of \\(\\frac{1}{tan 5 \\theta + cosec \\frac{5 \\theta}{2}}\\)?",
+    "OP1": "\\(2 - \\sqrt{3}\\)",
+    "OP2": "\\(2 + \\sqrt{3}\\)",
+    "OP3": "\\(2 \\sqrt{3}\\)",
+    "OP4": "\\(3 \\sqrt{2}\\)",
+    "Answer": "1",
+    "Solution": "<strong>Given :-</strong><br>cos(2θ + 54°) = sin θ<br>0° &lt; (2 θ + 54°) &lt; 90°,<br><strong>Concept :-</strong><br>sin(90° - θ) = cosθ<br>cos(90° - θ) = sinθ<br>a<sup>2</sup> - b<sup>2</sup> = (a - b)(a + b)<br><strong>Calculation :-</strong><br>⇒ sin(90° - (2θ + 54°) = sinθ<br>⇒ 90° - 2θ - 54° = θ<br>⇒ 36° = θ + 2θ<br>⇒ 36° = 3θ<br>⇒ θ = 12°<br>Now,<br>⇒ tan5θ = tan 5 × 12°<br>⇒ tan5θ = tan60° = √3<br>⇒ cosec(5θ/2) = cosec (5 × 12/2)<br>⇒ cosec(5θ/2) = cosec30° = 2<br>Now,<br>⇒ \\(\\frac{1}{tan 5 \\theta + cosec \\frac{5 \\theta}{2}}\\) = (1/(√3 + 2))<br>Now using rationalization method<br>⇒ (1/(2 + √3)) × (2 - √3)/(2 - √3)<br>⇒ (2 - √3)/(4 - 3)<br>⇒ \\(\\frac{1}{tan 5 \\theta + cosec \\frac{5 \\theta}{2}}\\) = (2 - √3)<br><strong>∴ \\(\\frac{1}{tan 5 \\theta + cosec \\frac{5 \\theta}{2}}\\) = (2 - √3)</strong><br><strong><span><img height=\"26px\"src=\"//cdn.testbook.com/resources/lms_creative_elements/important-point-image.png\"width=\"26px\"><strong><span><u>Important Points</u></span></strong></span></strong><br><strong><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/21/02/Trigo%20-%20Formula.PNG\"></strong>",
+    "Tags": [
+      "MATH::Trigonometry",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1096,
+    "SL": "96",
+    "Question": "From a solid cylindrical wooden block of height 18 cm and radius 7.5 cm, a conical cavity of the same height and same radius is taken out. What is total surface area (in cm<sup>2</sup>) of the remaining solid?",
+    "OP1": "416.25 π",
+    "OP2": "472.5 π",
+    "OP3": "326.25 π",
+    "OP4": "270 π",
+    "Answer": "2",
+    "Solution": "<strong>Given:</strong><br>Height of the block is (h) =18 cm<br>Radius of the block is (r) = 7.5 cm<br>Height of the conical cavity (h) =18 cm and radius (r) = 7.5 cm<br><strong>Concept Used:</strong><br>The curved surface area of a cylinder of height h and radius r = 2πrh<br>Area of the base = πr<sup>2</sup><br>Curved surface of the cone = πrl<br>Where l = \\({\\sqrt{h^2 + r^2}}\\) is the slant height of the cone, r = radius of a cone and h = height<br><strong>Calculation:</strong><br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/20/12/F3_Aashish%20S_16-12-2020_Swati_D27.png\"><br>The total surface area of the remaining solid = Curved surface area of the cylinder + area of the base of the cylinder + curved surface area of the cone<br>The height of the cylinder, as well as the cone, (h) = 18 cm<br>The radius of the base of the cylinder as well as the cone (r) = 7.5 cm<br>The slant height of the cone (l) = \\({\\sqrt{h^2 + r^2}}\\)<br>⇒\\({ \\sqrt{18^2 + 7.5^2} }\\) = \\({ \\sqrt{324 + 56.25} }\\)<br>⇒ \\({ \\sqrt{380.25} }\\) = 19.5<br>The curved surface area of the cone = πrl<br>⇒ π × 7.5 × 19.5<br>⇒ 146.25π<br>The curved surface area of the cylinder = 2πrh<br>⇒ 2π × 7.5 × 18<br>⇒ 270π<br>The area of the base of the cylinder = πr<sup>2</sup><br>⇒ π × (7.5)<sup>2</sup><br>⇒ 56.25π<br>The total surface area of the remaining solid = (curved surface area of the cone + curved surface area of the cylinder + area of the base of the cylinder)<br>⇒ (146.25π + 270π + 56.25π)<br>⇒ 472.5π<br><strong>∴ The total surface area of the remaining solid is 472.5π cm<sup>2</sup></strong>",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1097,
+    "SL": "97",
+    "Question": "A cylindrical roller made of iron is 1.2 m long. Its internal radius is 24 cm and thickness of the iron sheet used in making the roller is 15 cm. What is the mass (in kg) of the roller, if 1 cm<sup>3</sup> of iron has 8 g mass?",
+    "OP1": "892.8 π",
+    "OP2": "907.2 π",
+    "OP3": "846.72 π",
+    "OP4": "845.75 π",
+    "Answer": "2",
+    "Solution": "<strong>Given:</strong><br>Length of the roller is 1.2 m. Its internal radius is 24 cm and thickness is 15 cm.<br>1 cm<sup>3</sup> of iron has 8 g mass<br><strong>Concept Used:</strong><br>If R be the external radius and r be the internal radius and h be the height of a cylinder then the volume of the material of the cylinder is π(R<sup>2</sup> - r<sup>2</sup>)h<br><strong>Calculation:</strong><br>Length of the roller (h) = 1.2 m = 120 cm<br>The internal radius of the cylinder (r) = 24 cm<br>The thickness of the cylinder is 15 cm<br>External radius of the cylinder (R) = (24 + 15) = 39 cm<br>The volume of the cylinder is π(39<sup>2</sup> - 24<sup>2</sup>) × 120<br>⇒ 113400π cm<sup>3</sup><br>Mass of 1 cm<sup>3</sup> iron is 8 g<br>Mass of 113400π cm<sup>3</sup> iron is (113400π × 8) g<br>⇒ 907200π g<br>⇒ 907.2π kg [∵ 1 kg = 1000 g]<br><strong>∴ The mass of the roller is 907.2π kg.</strong>",
+    "Tags": [
+      "MATH::Mensuration",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1098,
+    "SL": "98",
+    "Question": "Study the given graph and answer the question that follows:<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/22/03/5fc749f28e7c885a20c16a65_Ashish_Akash_28-03-2022_1.PNG\"><br>The number of weeks, in which the cost of living index was 160 or more but less than 190, is approximately what percent more than the number of weeks in which the cost of living index was 200 or more but less than 220 (correct to one decimal place)?",
+    "OP1": "36.8",
+    "OP2": "58.3",
+    "OP3": "44.4",
+    "OP4": "60.6",
+    "Answer": "2",
+    "Solution": "<strong>Given:</strong><br>Cost of living index and number of weeks it stayed on that level<br><strong>Concept Used:</strong><br>Concept of ratio and proportion<br>Concept of percentage, it is calculated on the base of 100<br>For Example, x% means x out of 100<br><strong>Calculation:</strong><br>The number of weeks, in which the cost of living index was 160 or more but less than 190 is (4 + 6 + 9) = 19<br>The number of weeks in which the cost of living index was 200 or more but less than 220 is (7 + 5) = 12<br>Percentage more than is [{(19 - 12)/12} × 100]%<br>⇒ (7/12) × 100<br>⇒ 58.3%<br><strong>∴ The number of weeks, in which the cost of living index was 160 or more but less than 190, is approximately 58.3% more than the number of weeks in which the cost of living index was 200 or more but less than 220 (correct to one decimal place).</strong>",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1099,
+    "SL": "99",
+    "Question": "Raju ate \\(\\frac{3}{8}\\) part of a pizza and Adam ate \\(\\frac{3}{10}\\)part of the remaining pizza. Then Renu ate \\(\\frac{4}{7}\\) part of the pizza that was left. What fraction of the pizza is still left?",
+    "OP1": "\\(\\frac{1}{8}\\)",
+    "OP2": "\\(\\frac{3}{16}\\)",
+    "OP3": "\\(\\frac{1}{4}\\)",
+    "OP4": "\\(\\frac{5}{12}\\)",
+    "Answer": "2",
+    "Solution": "<strong>Given:</strong><br>Raju ate \\(\\frac{3}{8}\\) part of a pizza and Adam ate \\(\\frac{3}{10}\\)part of the remaining pizza. Then Renu ate \\(\\frac{4}{7}\\) part of the pizza that was left.<br><strong>Concept Used:</strong><br>Concept of fractional substraction<br><strong>Calculation:</strong><br>Let, the total pizza is 1 part<br>Raju ate \\(\\frac{3}{8}\\) part<br>Remaining (1 - 3/8) part<br>⇒ 5/8 part<br>Adam ate \\(\\frac{3}{10}\\)part of the remaining pizza<br>⇒ Adam ate (5/8 × 3/10) = 15/80 = 3/16 part of the total pizza<br>Total pizza is eaten (3/8 + 3/16)<br>⇒ 9/16 part<br>Remaining pizza (1 - 9/16)<br>⇒ 7/16 part<br>Then Renu ate \\(\\frac{4}{7}\\) part of the pizza<br>Renu ate (7/16 × 4/7) = 1/4 part of the pizza<br>Together they ate (3/8 + 3/16 + 1/4) part<br>⇒ 13/16 part<br>The fraction of the pizza till left (1 - 13/16)<br>⇒ 3/16 part<br><strong>∴ 3/16 fraction of the pizza is still left.</strong>",
+    "Tags": [
+      "MATH::Number-System",
+      "CGL::Mains::014"
+    ]
+  },
+  {
+    "noteId": 1100,
+    "SL": "100",
+    "Question": "If \\(x - \\frac{1}{x} = 5, x \\neq 0\\), then what is the value of \\(\\frac{x^6 + 3x^3 - 1}{x^6 - 8x^3 - 1}\\)?",
+    "OP1": "\\(\\frac{4}{9}\\)",
+    "OP2": "\\(\\frac{11}{13}\\)",
+    "OP3": "\\(\\frac{3}{8}\\)",
+    "OP4": "\\(\\frac{13}{12}\\)",
+    "Answer": "4",
+    "Solution": "<strong>Given:</strong><br>\\(x - \\frac{1}{x} = 5, x \\neq 0\\),<br>We have to find the value of:<br>\\(\\frac{x^6 + 3x^3 - 1}{x^6 - 8x^3 - 1}\\)<br><strong>Formula Used:</strong><br>a<sup>3</sup> - b<sup>3</sup> = (a - b)<sup>3</sup> + 3ab(a - b)<br><strong>Calculation:</strong><br>\\(\\frac{x^6 + 3x^3 - 1}{x^6 - 8x^3 - 1}\\)<br>⇒ (x<sup>3</sup> + 3 - 1/x<sup>3</sup>)/(x<sup>3</sup> - 8 - 1/x<sup>3</sup>) [Divide both numerator and denominator by x<sup>3</sup>]<br>⇒ {(x<sup>3</sup> - 1/x<sup>3</sup>) + 3}/{(x<sup>3</sup> - 1/x<sup>3</sup>) - 8}<br>⇒ {(x - 1/x)<sup>3</sup> + 3(x - 1/x) + 3}/{(x - 1/x)<sup>3</sup> + 3(x - 1/x) - 8}<br>⇒ (5<sup>3</sup> + 3 × 5 + 3)/(5<sup>3</sup> + 3 × 5 - 8)<br>⇒ (125 + 15 + 3)/(125 + 15 - 8)<br>⇒ 143/132<br>⇒ 13/12<br><strong>∴ The value of \\(\\frac{x^6 + 3x^3 - 1}{x^6 - 8x^3 - 1}\\) is 13/12</strong>",
+    "Tags": [
+      "MATH::Algebra",
+      "CGL::Mains::014"
+    ]
+  }
+]

@@ -1,0 +1,1502 @@
+[
+  {
+    "noteId": 1001,
+    "SL": "1",
+    "Question": "P and Q are two points on the ground on either side of a pole. The angles of elevation of the top of the pole as observed from P and Q are 60° and 30°, respectively and the distance between them is 84√3 m. What is the height (in m) of the pole?",
+    "OP1": "60",
+    "OP2": "52.5",
+    "OP3": "73.5",
+    "OP4": "63",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1002,
+    "SL": "2",
+    "Question": "If x is the remainder when 3<sup>61284</sup> is divided by 5 and y is the remainder when 4<sup>96</sup> is divided by 6, then what is the value of (2x – y)?",
+    "OP1": "2",
+    "OP2": "-4",
+    "OP3": "-2",
+    "OP4": "4",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1003,
+    "SL": "3",
+    "Question": "The value of \\(\\frac{{\\left( {\\sin \\theta - cos\\theta } \\right)\\left( {1\\; + \\;\\tan \\theta \\; + \\;cot\\theta } \\right)}}{{1\\; + \\;sin\\theta cos\\theta }}\\)",
+    "OP1": "secθ – cosecθ",
+    "OP2": "tanθ – cotθ",
+    "OP3": "cosecθ – secθ",
+    "OP4": "sinθ + cosθ",
+    "Answer": "1",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1004,
+    "SL": "4",
+    "Question": "Walking at 60% of his usual speed, a man reaches his destination 1 hour 40 minutes late. His usual time (in hours) to reach the destination is:",
+    "OP1": "\\(3\\frac{1}{4}\\)",
+    "OP2": "\\(3\\frac{1}{8}\\)",
+    "OP3": "\\(2\\frac{1}{4}\\)",
+    "OP4": "\\(2\\frac{1}{2}\\)",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1005,
+    "SL": "5",
+    "Question": "The value of sin<sup>2</sup> 64° + cos 64° sin 26° + 2 cos 43° cosec 47° is:",
+    "OP1": "3",
+    "OP2": "2",
+    "OP3": "4",
+    "OP4": "1",
+    "Answer": "1",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1006,
+    "SL": "6",
+    "Question": "The value of (1 + cot θ – cosec θ) (1 + cos θ + sin θ) sec θ = ?",
+    "OP1": "-2",
+    "OP2": "sin θ cos θ",
+    "OP3": "secθ cosecθ",
+    "OP4": "2",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1007,
+    "SL": "7",
+    "Question": "Two parallel chords on the same side of the centre of a circle are 12 cm and 20 cm long and the radius of the circle is 5√13 cm. What is the distance (in cm) between the chords?",
+    "OP1": "2",
+    "OP2": "3",
+    "OP3": "2.5",
+    "OP4": "1.5",
+    "Answer": "1",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1008,
+    "SL": "8",
+    "Question": "The internal diameter of a hollow hemispherical vessel is 24 cm. It is made of a steel sheet which is 0.5 cm thick. What is the total surface area (in cm<sup>2</sup>) of the vessel?",
+    "OP1": "600.2π",
+    "OP2": "612.75π",
+    "OP3": "600.5π",
+    "OP4": "468.75π",
+    "Answer": "2",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1009,
+    "SL": "9",
+    "Question": "A can do one - third of a work in 15 days, B can do 75% of the same work in 18 days and C can do the same work in 36 days. B and C work together for 8 days. In how many days will A alone complete the remaining work?",
+    "OP1": "24 days",
+    "OP2": "20 days",
+    "OP3": "16 days",
+    "OP4": "18 days",
+    "Answer": "2",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1010,
+    "SL": "10",
+    "Question": "The price of oil is increased by 20%. However, its consumption decreased by \\(8\\frac{1}{3}\\%\\). What is the percentage increase or decrease in the expenditure on it?",
+    "OP1": "Increase by 5%",
+    "OP2": "Decrease by 5%",
+    "OP3": "Decrease by 10%",
+    "OP4": "Increase by 10%",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1011,
+    "SL": "11",
+    "Question": "In a ΔABC. D is point on BC. AB is produce to E and AC is produce to F. A circle is passes through DEF, where AB = 10 cm, AC = 8.6 cm and BC = 6.4, then BE = ?",
+    "OP1": "3.5 cm",
+    "OP2": "3.2 cm",
+    "OP3": "2.5 cm",
+    "OP4": "2.2 cm",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1012,
+    "SL": "12",
+    "Question": "In ΔABD, C is the midpoint of BD. If AB = 10 cm, AD = 12 cm and AC = 9 cm, then BD = ?",
+    "OP1": "2√10 cm",
+    "OP2": "√10 cm",
+    "OP3": "√41 cm",
+    "OP4": "2√41 cm",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1013,
+    "SL": "13",
+    "Question": "The average age of 120 students in a group is 13.56 years. 35% of the number of students are girls and the rest are boys. If the ratio of the average age of boys and girls is 6 : 5, then what is the average age (in years) of the girls?",
+    "OP1": "11.6",
+    "OP2": "10",
+    "OP3": "12",
+    "OP4": "14.4",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1014,
+    "SL": "14",
+    "Question": "If in ΔABC, D and E are the points on AB and BC respectively such that DE∥AC, and AD : AB = 3 : 8, then (area of ΔBDE) : (area of quadrilateral DECA) = ?",
+    "OP1": "9 : 64",
+    "OP2": "9 : 55",
+    "OP3": "8 : 13",
+    "OP4": "25 : 39",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1015,
+    "SL": "15",
+    "Question": "Let \\(x\\; = \\;\\sqrt[6]{{27}} - \\sqrt {6\\frac{3}{4}}\\) and \\(\\;y\\; = \\;\\frac{{\\sqrt {45\\;} \\; + \\;\\sqrt {605} \\; + \\;\\sqrt {245} }}{{\\sqrt {80\\;} \\; + \\;\\sqrt {125} }}\\), then the value of x<sup>2</sup> + y<sup>2</sup>is :",
+    "OP1": "223/36",
+    "OP2": "227/9",
+    "OP3": "221/36",
+    "OP4": "221/9",
+    "Answer": "1",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1016,
+    "SL": "16",
+    "Question": "If in ΔPQR. ∠P = 120°, PS ⊥ QR at S and PQ + QS = SR, then the measure of ∠Q is:",
+    "OP1": "30°",
+    "OP2": "40°",
+    "OP3": "20°",
+    "OP4": "50°",
+    "Answer": "2",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1017,
+    "SL": "17",
+    "Question": "If 25% of half of x is equal to 2.5 times the value of 30% of one - fourth of y, then x is what per cent more or less than y?",
+    "OP1": "50% less",
+    "OP2": "\\(33\\frac{1}{3}\\% \\;\\)less",
+    "OP3": "\\(33\\frac{1}{3}\\% \\;\\) more",
+    "OP4": "50% more",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1018,
+    "SL": "18",
+    "Question": "How many kgs of salt, costing Rs. 28 per kg must be mixed with 39.6 kgs of salt, costing Rs. 16 per kg, so that selling the mixture at Rs. 29.90, there is a gain of 15%?",
+    "OP1": "138",
+    "OP2": "198",
+    "OP3": "200",
+    "OP4": "130",
+    "Answer": "2",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1019,
+    "SL": "19",
+    "Question": "The value of \\(\\frac{{2\\left( {{{\\sin }^6}\\theta \\; + \\;{{\\cos }^6}\\theta } \\right) - 3\\left( {{{\\sin }^4}\\theta \\; + \\;{{\\cos }^4}\\theta } \\right)}}{{{{\\cos }^4}\\theta - {{\\sin }^4}\\theta - 2{{\\cos }^2}\\theta }}\\)is :",
+    "OP1": "2",
+    "OP2": "-2",
+    "OP3": "-1",
+    "OP4": "1",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1020,
+    "SL": "20",
+    "Question": "The value of \\(\\frac{{{{\\left( {4.6} \\right)}^4} + {{\\left( {5.4} \\right)}^4} + {{\\left( {24.84} \\right)}^2}}}{{{{\\left( {4.6} \\right)}^2} + {{\\left( {5.4} \\right)}^2} + 24.84}}\\) is:",
+    "OP1": "25.42",
+    "OP2": "24.24",
+    "OP3": "25.48",
+    "OP4": "24.42",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1021,
+    "SL": "21",
+    "Question": "In an office, 5/8 of the total numbers of employees are males and the rest are females, 2/5 of the number of males are non - technical workers while 2/3 of the number of females are technical workers. What fraction of the total number of employees are technical workers?",
+    "OP1": "5/8",
+    "OP2": "2/5",
+    "OP3": "1/2",
+    "OP4": "3/8",
+    "Answer": "1",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1022,
+    "SL": "22",
+    "Question": "Sudha bought 80 articles at the same price. She sold some of them at 8% profit and the remaining at 12% loss resulting in an overall profit of 6%. The number of items sold at 8% profit is :",
+    "OP1": "70",
+    "OP2": "60",
+    "OP3": "72",
+    "OP4": "64",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1023,
+    "SL": "23",
+    "Question": "The marked price of an article is Rs 1500. If two successive discounts, each of x%, on the market price is equal to a single discount of Rs 587.40, then what will be the selling price of article if a single discount of x% is given on the market price?",
+    "OP1": "Rs. 1,200",
+    "OP2": "Rs. 1,170",
+    "OP3": "Rs. 1,155",
+    "OP4": "Rs. 1,025",
+    "Answer": "2",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1024,
+    "SL": "24",
+    "Question": "In an examination, A obtained 10% more marks than B, B obtained 20% more marks than C and C obtained 32% less marks than D. If A obtained 272 more marks than C, then the marks obtained by B is:",
+    "OP1": "952",
+    "OP2": "816",
+    "OP3": "850",
+    "OP4": "1020",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1025,
+    "SL": "25",
+    "Question": "What is the remainder when (127<sup>97</sup> + 97<sup>97</sup>) is divided by 32?",
+    "OP1": "2",
+    "OP2": "7",
+    "OP3": "0",
+    "OP4": "4",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1026,
+    "SL": "26",
+    "Question": "An article was sold at a profit of 14%. Had it been sold for Rs. 121 less, a loss of 8% would have been incurred. If the same article had been sold for Rs. 536.25, then the profit/loss percent would have been :",
+    "OP1": "Loss, 2.5%",
+    "OP2": "Profit, 2.5%",
+    "OP3": "Profit, 5%",
+    "OP4": "Loss, 5%",
+    "Answer": "1",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1027,
+    "SL": "27",
+    "Question": "Two positive number differ by 2001. When the large number is divided by the smaller number, the quotient is 9 and the remainder is 41. The sum of the digits of the larger number is :",
+    "OP1": "15",
+    "OP2": "14",
+    "OP3": "11",
+    "OP4": "10",
+    "Answer": "2",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1028,
+    "SL": "28",
+    "Question": "The base of a right pyramid is an equilateral triangle with area \\(16\\sqrt 3 c{m^2}\\). If the area of one of its lateral faces is 30 cm<sup>2</sup>, then its height (in cm) is:",
+    "OP1": "\\(\\sqrt {\\frac{{209}}{{12}}}\\)",
+    "OP2": "\\(\\sqrt {\\frac{{739}}{{12}}}\\)",
+    "OP3": "\\(\\sqrt {\\frac{{643}}{{12}}}\\)",
+    "OP4": "\\(\\sqrt {\\frac{{611}}{{12}}}\\)",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1029,
+    "SL": "29",
+    "Question": "The sides of a triangle are 12 cm, 35 cm and 37 cm. What is the circumradius of the triangle?",
+    "OP1": "19 cm",
+    "OP2": "17.5 cm",
+    "OP3": "17 cm",
+    "OP4": "18.5 cm",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1030,
+    "SL": "30",
+    "Question": "The average of 18 numbers is 37.5. If six numbers of average x are added to them, then the average of all the numbers increases by one. The value of x is :",
+    "OP1": "41.5",
+    "OP2": "40",
+    "OP3": "42",
+    "OP4": "38.5",
+    "Answer": "1",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1031,
+    "SL": "31",
+    "Question": "If 2cos<sup>2</sup>θ + 3sin θ = 3, where 0° &lt; θ &lt;90°, then what is the value of sin<sup>2</sup>2θ + cos<sup>2</sup>θ + tan<sup>2</sup>2θ + cosec<sup>2</sup>2θ",
+    "OP1": "35/12",
+    "OP2": "29/6",
+    "OP3": "35/6",
+    "OP4": "29/3",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1032,
+    "SL": "32",
+    "Question": "Pipes A and B are filling pipes while pipe C is an emptying pipe. A and B can fill a tank in 72 and 90 minutes respectively. When all the three pipes are opened together, the tank gets filled in 2 hours. A and B are opened together for 12 minutes, then closed and C is opened. The tank will be empty after:",
+    "OP1": "18 minutes",
+    "OP2": "16 minutes",
+    "OP3": "15 minutes",
+    "OP4": "12 minutes",
+    "Answer": "1",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1033,
+    "SL": "33",
+    "Question": "What is the area (in square units) of the triangular region enclosed by the graphs of the equations x + y = 3, 2x + 5y = 12 and the x - axis?",
+    "OP1": "3",
+    "OP2": "6",
+    "OP3": "4",
+    "OP4": "2",
+    "Answer": "1",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1034,
+    "SL": "34",
+    "Question": "A, B and C started a business. Thrice the investment of A is equal to twice the investment of B and also equal to four times the investment of C. If C’s share out of the total profit is Rs. 4,863, then the share of A in the profit is :",
+    "OP1": "Rs. 8,105",
+    "OP2": "Rs. 9,726",
+    "OP3": "Rs. 7,272",
+    "OP4": "Rs. 6,484",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1035,
+    "SL": "35",
+    "Question": "The bisector of ∠A is ΔABC meets BC in D. If AB = 15 cm, AC = 13 cm and BC = 14 cm, then DC = ?",
+    "OP1": "6.5 cm",
+    "OP2": "8 cm",
+    "OP3": "7.5 cm",
+    "OP4": "8.5 cm",
+    "Answer": "1",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1036,
+    "SL": "36",
+    "Question": "A vessel contains a 32 litres solution of acid and water in which the ratio of acid and water is 5 ∶ 3 If 12 litres of the solution is taken out and \\(7\\frac{1}{2}\\) litres of water are added to it, then what is the ratio of acid and water in the resulting solution?",
+    "OP1": "8 : 11",
+    "OP2": "5 : 6",
+    "OP3": "4 : 9",
+    "OP4": "4 : 7",
+    "Answer": "2",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1037,
+    "SL": "37",
+    "Question": "A solid cylinder of base radius 12 cm and height 15 cm is melted and recast into n toys each in the shape of a right circular cone of height 9 cm mounted on a hemisphere of radius 3 cm. The value of n is:",
+    "OP1": "54",
+    "OP2": "27",
+    "OP3": "64",
+    "OP4": "48",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1038,
+    "SL": "38",
+    "Question": "A 15 m deep well with radius 2.8 m is dug and the earth taken out from it is spread evenly to form a platform of breadth 8 m and height 1.5 m. What will be the length of the platform? (Take π = 22/7)",
+    "OP1": "30.2 m",
+    "OP2": "30.8 m",
+    "OP3": "28.8 m",
+    "OP4": "28.4 m",
+    "Answer": "2",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1039,
+    "SL": "39",
+    "Question": "If 5√5 x<sup>3</sup> + 2√2 y<sup>3</sup>= (Ax + √2y)(Bx<sup>2</sup> + 2y<sup>2</sup> + Cxy), then what is the value of (A<sup>2</sup> + B<sup>2</sup> – C<sup>2</sup>)?",
+    "OP1": "40",
+    "OP2": "15",
+    "OP3": "30",
+    "OP4": "20",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1040,
+    "SL": "40",
+    "Question": "If the measure of each exterior angle of a regular polygon is \\(\\left( {51\\frac{3}{7}} \\right)^\\circ ,\\) then the ratio of the number of its diagonals to the number of its sides is:",
+    "OP1": "13 : 6",
+    "OP2": "3 : 1",
+    "OP3": "5 : 2",
+    "OP4": "2 : 1",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1041,
+    "SL": "41",
+    "Question": "A person covers 40% of the distance from A to B at 8 km/h, 40% of the remaining distance at 9 km/h and the rest at 12 km/h. His average speed (in km/h) for the journey is:",
+    "OP1": "\\(9\\frac{5}{8}\\)",
+    "OP2": "\\(9\\frac{2}{3}\\)",
+    "OP3": "\\(9\\frac{3}{8}\\)",
+    "OP4": "\\(9\\frac{1}{3}\\)",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1042,
+    "SL": "42",
+    "Question": "In ΔABC, D and E are the points on AB and AC respectively such that AD × AC = AB × AE. If ∠ADE = ∠ACB + 30° and ∠ABC = 78°, then ∠A = ?",
+    "OP1": "56°",
+    "OP2": "48°",
+    "OP3": "54°",
+    "OP4": "68°",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1043,
+    "SL": "43",
+    "Question": "The value of \\(\\frac{{\\sin \\theta \\; + \\;cos\\theta - 1}}{{\\sin \\theta - cos\\theta \\; + \\;1}} \\times \\frac{{{{\\tan }^2}\\theta \\left( {cose{c^2}\\theta - 1} \\right)}}{{sec\\theta - tan\\theta }}\\) is:",
+    "OP1": "1/2",
+    "OP2": "-1",
+    "OP3": "1",
+    "OP4": "0",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1044,
+    "SL": "44",
+    "Question": "A certain sum amounts to Rs. 4,205.55 at 15% p.a in \\(2\\frac{2}{5}\\) years, interest compounded yearly. The sum is:",
+    "OP1": "Rs. 3,500",
+    "OP2": "Rs. 3,200",
+    "OP3": "Rs. 2,700",
+    "OP4": "Rs. 3,000",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1045,
+    "SL": "45",
+    "Question": "Two numbers are in the ratio 3 : 5. If 13 is subtracted from each, the new numbers are in the ratio 10 : 21. If 15 is added to each of the original numbers, then the ratio becomes:",
+    "OP1": "23 : 33",
+    "OP2": "4 : 5",
+    "OP3": "24 : 35",
+    "OP4": "5 : 7",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1046,
+    "SL": "46",
+    "Question": "A sum of Rs. 10,500 amounts to Rs. 13,825 in \\(3\\frac{4}{5}\\) years at a certain rate per cent per annum simple interest. What will be the simple interest on the same sum for 5 years at double the earlier rate?",
+    "OP1": "Rs. 8,670",
+    "OP2": "Rs. 8,470",
+    "OP3": "Rs. 8,560",
+    "OP4": "Rs. 8,750",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1047,
+    "SL": "47",
+    "Question": "The graph of the equations 5x – 2y + 1 = 0 and 4y – 3x + 5 = 0, intersect at the point p(α, β). What is the value of (2α – 3β)?",
+    "OP1": "-3",
+    "OP2": "6",
+    "OP3": "-4",
+    "OP4": "4",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1048,
+    "SL": "48",
+    "Question": "If \\(\\frac{{3\\left( {{x^2} + 1} \\right) - 7x}}{{3x}} = 6,\\) x ≠ 0, then the value of \\(\\sqrt x + \\frac{1}{{\\sqrt x }}\\;is:\\)",
+    "OP1": "\\(\\sqrt {\\frac{{11}}{3}}\\)",
+    "OP2": "\\(\\sqrt {\\frac{{25}}{3}}\\)",
+    "OP3": "\\(\\sqrt {\\frac{{31}}{3}}\\)",
+    "OP4": "\\(\\sqrt {\\frac{{35}}{3}}\\)",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1049,
+    "SL": "49",
+    "Question": "A person invested one - fourth of the sum of Rs. 25,000 at a certain rate of simple interest and the rest at 4% p.a. higher rate. If the total interest received for 2 years is Rs. 4,125, what is the rate at which the second sum was invested?",
+    "OP1": "9.5%",
+    "OP2": "9.25%",
+    "OP3": "5.25%",
+    "OP4": "7.5%",
+    "Answer": "2",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1050,
+    "SL": "50",
+    "Question": "ab(a – b) + bc(b – c) + ca(c – a) is equal to :",
+    "OP1": "(a + b)(b – c)(c – a)",
+    "OP2": "(b – a)(b – c)(c – a)",
+    "OP3": "(a –b)(b – c)(c – a)",
+    "OP4": "(a –b)(b + c)(c – a)",
+    "Answer": "2",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1051,
+    "SL": "51",
+    "Question": "Basir’s working hours per day were increased by 15% and his wages per hour were increased by 20%. By how much percent did his daily earnings increase?",
+    "OP1": "38",
+    "OP2": "40",
+    "OP3": "36",
+    "OP4": "35",
+    "Answer": "1",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1052,
+    "SL": "52",
+    "Question": "The value of \\(\\sqrt {28 + 10\\sqrt 3 } - \\sqrt {7 - 4\\sqrt 3 }\\) is closest to:",
+    "OP1": "7.2",
+    "OP2": "5.8",
+    "OP3": "6.5",
+    "OP4": "6.1",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1053,
+    "SL": "53",
+    "Question": "A Person buys 80 kg of rice and sells it at a profit of as much money as he paid for 30 kg. His profit per cent is:",
+    "OP1": "\\(37\\frac{1}{2}\\)",
+    "OP2": "35",
+    "OP3": "\\(27\\frac{3}{{11}}\\)",
+    "OP4": "40",
+    "Answer": "1",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1054,
+    "SL": "54",
+    "Question": "The value of 24 × 2 ÷ 12 + 12 ÷ 6 of 2 ÷ (15 ÷ 8 × 4) of (28 ÷ 7 of 5) is:",
+    "OP1": "\\(4\\frac{{32}}{{75}}\\)",
+    "OP2": "\\(4\\frac{8}{{75}}\\)",
+    "OP3": "\\(4\\frac{2}{3}\\)",
+    "OP4": "\\(4\\frac{1}{6}\\)",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1055,
+    "SL": "55",
+    "Question": "A right prism has height 18cm and its base is a triangle with sides 5cm, 8 cm and 12 cm. What is its lateral surface area (in cm<sup>2</sup>)?",
+    "OP1": "432",
+    "OP2": "486",
+    "OP3": "468",
+    "OP4": "450",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1056,
+    "SL": "56",
+    "Question": "The radius of the base of a right circular cylinder is 3 cm and its curved surface are is 60 πcm<sup>2</sup>. The volume of the cylinder (in cm<sup>3</sup>) is:",
+    "OP1": "60 π",
+    "OP2": "72 π",
+    "OP3": "90 π",
+    "OP4": "81 π",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1057,
+    "SL": "57",
+    "Question": "A man can row a distance of 900 metres against the stream in 12 minutes and returns to the starting point in 9 minutes. What is the speed (in km/h) of the man in still water?",
+    "OP1": "\\(5\\frac{1}{4}\\)",
+    "OP2": "\\(4\\frac{1}{2}\\)",
+    "OP3": "6",
+    "OP4": "5",
+    "Answer": "1",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1058,
+    "SL": "58",
+    "Question": "A certain loan was returned in two equal half - yearly instalments each of Rs. 6,760. If the rate of interest was 8% p.a., compounded yearly, how much was the interest paid on the loan?",
+    "OP1": "Rs. 810",
+    "OP2": "Rs. 750",
+    "OP3": "Rs. 790",
+    "OP4": "Rs. 770",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1059,
+    "SL": "59",
+    "Question": "The radius and the height of a right circular cone are in the ration 5 : 12. Its curved surface area is 816.4 cm<sup>2</sup>. What is the volume (in cm<sup>3</sup>) of the cone? (Take π = 3.14)",
+    "OP1": "31440",
+    "OP2": "1256",
+    "OP3": "2512",
+    "OP4": "628",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1060,
+    "SL": "60",
+    "Question": "ΔABC, BE ⊥ AC, CD ⊥ AB and BE and CD intersect each other at O. The bisectors of ∠OBC and ∠OCB meet At P. If ∠BPC = 148°, then what is the measure of ∠A?",
+    "OP1": "28°",
+    "OP2": "32°",
+    "OP3": "64°",
+    "OP4": "56°",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1061,
+    "SL": "61",
+    "Question": "A, B and C spend 80%, 85% and 75% of their incomes, respectively. If their savings are in the ratio 8 : 9 : 20 and the difference between the incomes of A and C is Rs. 18,000, then the income of B is:",
+    "OP1": "Rs. 36,000",
+    "OP2": "Rs. 30,000",
+    "OP3": "Rs. 27,000",
+    "OP4": "Rs. 24,000",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1062,
+    "SL": "62",
+    "Question": "25 persons can complete a work in 60 days. They started the work. 10 persons left the work after x days. If the whole work was completed in 80 days, then what is the value of x?",
+    "OP1": "15",
+    "OP2": "30",
+    "OP3": "18",
+    "OP4": "29",
+    "Answer": "2",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1063,
+    "SL": "63",
+    "Question": "A sector of radius 10.5 cm with the central angle 120° is folded to form a cone by joining the two bounding radii of the sector. What is the volume (in cm<sup>3</sup>)of the cone so formed?",
+    "OP1": "\\(\\;\\frac{{343\\sqrt 2 }}{{12}}\\pi\\)",
+    "OP2": "\\(\\frac{{343\\sqrt 3 }}{6}\\pi\\)",
+    "OP3": "\\(\\frac{{343\\sqrt 2 }}{6}\\pi\\)",
+    "OP4": "\\(\\frac{{343\\sqrt 3 }}{{12}}\\pi\\)",
+    "Answer": "1",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1064,
+    "SL": "64",
+    "Question": "If \\(\\frac{{\\sin \\theta }}{{1 + cos\\theta }} + \\frac{{1 + \\cos \\theta }}{{sin\\theta }} = \\frac{4}{{\\sqrt 3 }},0^\\circ &lt; \\theta &lt; 90^\\circ ,\\) then the value of (secθ + tanθ)<sup>-1</sup> is:",
+    "OP1": "3 + √2",
+    "OP2": "2 + √3",
+    "OP3": "2 – √3",
+    "OP4": "3 – √2",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1065,
+    "SL": "65",
+    "Question": "If x + y + z = 6, xyz = - 10 and x<sup>2</sup> + y<sup>2</sup> + z<sup>2</sup> = 30, then what is the value of (x<sup>3</sup> + y<sup>3</sup> + z<sup>3</sup>)?",
+    "OP1": "135",
+    "OP2": "132",
+    "OP3": "130",
+    "OP4": "127",
+    "Answer": "2",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1066,
+    "SL": "66",
+    "Question": "In finding the HCF of two numbers by division method, the last divisor is 17 and the quotients are 1, 11 and 2, respectively. What is sum of the two numbers ?",
+    "OP1": "867",
+    "OP2": "901",
+    "OP3": "816",
+    "OP4": "833",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1067,
+    "SL": "67",
+    "Question": "A student was asked to find the of \\(9\\frac{4}{9} \\div 11\\frac{1}{3}\\rm \\ of\\ \\frac{1}{6} + \\left( {1\\frac{1}{3} \\times 1\\frac{4}{5} \\div \\frac{3}{5}} \\right) \\times 2\\frac{1}{6} \\rm \\ of\\ \\frac{2}{3} \\div \\frac{4}{3}\\rm \\ of\\ \\frac{2}{3}\\). His answer was \\(19\\frac{1}{4}\\) What is the difference between his answer and the correct answer?",
+    "OP1": "\\(7\\frac{3}{4}\\)",
+    "OP2": "\\(6\\frac{1}{3}\\)",
+    "OP3": "\\(7\\frac{1}{2}\\)",
+    "OP4": "\\(6\\frac{2}{3}\\)",
+    "Answer": "1",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1068,
+    "SL": "68",
+    "Question": "A tank is in the form of a cuboid with length 12m. If 18 kilolitre of water is removed from it, the water level goes down by 30 cm. What is the width (in m) of the tank?",
+    "OP1": "5.5",
+    "OP2": "4.5",
+    "OP3": "4",
+    "OP4": "5",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1069,
+    "SL": "69",
+    "Question": "35% of goods were sold at a profit of 65%, while the remaining were sold at x% loss. If the overall loss is 12%, then what is the value of x? (correct to one decimal place)",
+    "OP1": "53.5",
+    "OP2": "51.8",
+    "OP3": "50.6",
+    "OP4": "52.4",
+    "Answer": "1",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1070,
+    "SL": "70",
+    "Question": "N solid metallic spherical balls are melted and recast into a cylindrical rod whose radius is 3 times that of a spherical ball and height is 4 times the radius of a spherical ball. The value of N is:",
+    "OP1": "30",
+    "OP2": "24",
+    "OP3": "36",
+    "OP4": "27",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1071,
+    "SL": "71",
+    "Question": "Given that (5x – 3)<sup>3</sup> + (2x + 5)<sup>3</sup> + 27(4 – 3x)<sup>3</sup> = 9(3 – 5x) (2x + 5) (3x – 4), then the value of (2x + 1) is:",
+    "OP1": "13",
+    "OP2": "-15",
+    "OP3": "15",
+    "OP4": "-13",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1072,
+    "SL": "72",
+    "Question": "Monika spends 72% of her income. If her income increases by 20% and savings increase by 15%, then her expenditure increases by: (correct to 1 decimal place)",
+    "OP1": "20.2%",
+    "OP2": "21.9%",
+    "OP3": "20.8%",
+    "OP4": "19.8%",
+    "Answer": "2",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1073,
+    "SL": "73",
+    "Question": "In quadrilateral ABCD, ∠C = 72° and ∠D = 28°. The bisectors of ∠A and ∠B meet in O. What is the measure of ∠AOB?",
+    "OP1": "50°",
+    "OP2": "36°",
+    "OP3": "48°",
+    "OP4": "54°",
+    "Answer": "1",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1074,
+    "SL": "74",
+    "Question": "A is as efficient as B and C together. Working together A and B can complete a work in 36 days and C alone can complete it in 60 days. A and C work together for 10 days. B alone will complete the remaining work in:",
+    "OP1": "88 days",
+    "OP2": "110 days",
+    "OP3": "84 days",
+    "OP4": "90 days",
+    "Answer": "2",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1075,
+    "SL": "75",
+    "Question": "A sum is divided among A, B, C and D such that the ratio of the shares of A and B is 2 : 3, that of B and C is 1 : 2 and that of C and D 3 : 4. If the difference between the shares of A and D is Rs. 648, then find the sum of shares of A, B, C and D.",
+    "OP1": "Rs. 2,484",
+    "OP2": "Rs. 1,944",
+    "OP3": "Rs. 2,160",
+    "OP4": "Rs. 2,052",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1076,
+    "SL": "76",
+    "Question": "<strong>Direction∶</strong> Study the following bar graph and answer the question given.<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/22/03/5e3a72b6f60d5d650c6422c7_Sonali_Sanyukta%20Gaikar_24.3.22_D1.PNG\"><br><br><strong><b>Question:</b></strong><br>The number of companies whose production of motorcycles is equal to or more than the average demand of motorcycles (per year) over five years is:",
+    "OP1": "2",
+    "OP2": "3",
+    "OP3": "4",
+    "OP4": "1",
+    "Answer": "2",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1077,
+    "SL": "77",
+    "Question": "If a 10 - digit number 5432y1749x is divisible by 72, then what is the value of (5x – 4y)?",
+    "OP1": "9",
+    "OP2": "14",
+    "OP3": "15",
+    "OP4": "10",
+    "Answer": "2",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1078,
+    "SL": "78",
+    "Question": "In ΔPQR, ∠Q &gt;∠R, PS is the bisector of ∠P and PT ⊥ QR. If ∠SPT = 28° and ∠R = 23°, then the measure of ∠Q is :",
+    "OP1": "89°",
+    "OP2": "82°",
+    "OP3": "79°",
+    "OP4": "74°",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1079,
+    "SL": "79",
+    "Question": "A Sphere of maximum volume is cut out from a solid hemisphere. What is the ratio of the volume of the sphere to that of the remaining solid?",
+    "OP1": "1 : 1",
+    "OP2": "1 : 2",
+    "OP3": "1 : 3",
+    "OP4": "1 : 4",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1080,
+    "SL": "80",
+    "Question": "<strong>Direction∶</strong> Study the following bar graph and answer the question given.<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/22/03/5e3a72b6f60d5d650c6422c7_Sonali_Sanyukta%20Gaikar_24.3.22_D1.PNG\"><br><br><strong><b>Question:</b></strong><br>The ratio of the total demand of motorcycles of companies A, C and E to the total production of motorcycles of B and C is:",
+    "OP1": "2 : 1",
+    "OP2": "11 : 10",
+    "OP3": "1 : 1",
+    "OP4": "3 : 2",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1081,
+    "SL": "81",
+    "Question": "If the selling price of an article is 32% more than its cost price and the discount offered on its marked price is 12%, then what is the ratio of its cost price to the marked price?",
+    "OP1": "4 : 5",
+    "OP2": "1 : 2",
+    "OP3": "2 : 3",
+    "OP4": "3 : 8",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1082,
+    "SL": "82",
+    "Question": "A shopkeeper allows 18% discount on the market price of an article and still makes a profit of 23% If he gains Rs, 18.40 on the sale of the article, then what is the marked price of the article?",
+    "OP1": "Rs. 120",
+    "OP2": "Rs. 125",
+    "OP3": "Rs. 146",
+    "OP4": "Rs. 140",
+    "Answer": "1",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1083,
+    "SL": "83",
+    "Question": "To cover a distance of 416 km, a train A takes \\(2\\frac{2}{3}\\) hours more than train B. If the speed of A is doubled, it would take \\(1\\frac{1}{3}\\) hours less than B. What is the speed (in km/h) of train A?",
+    "OP1": "54",
+    "OP2": "56",
+    "OP3": "52",
+    "OP4": "65",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1084,
+    "SL": "84",
+    "Question": "<strong>Direction∶</strong> Study the following bar graph and answer the question given.<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/22/03/5e3a72b6f60d5d650c6422c7_Sonali_Sanyukta%20Gaikar_24.3.22_D1.PNG\"><br><br><strong><b>Question:</b></strong><br>The total production of motorcycles of companies C, D and E is what per cent less than the total demand of motor cycles of all the companies during five years?",
+    "OP1": "32",
+    "OP2": "38",
+    "OP3": "43",
+    "OP4": "47",
+    "Answer": "1",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1085,
+    "SL": "85",
+    "Question": "A, B and C started a business with their capitals in the ratio 2 : 3 : 5. A increased his capital by 50% after 4 months, B increased his capital by \\(33\\frac{1}{3}\\%\\) after 6 months and C withdrew 50% of his capital after 8 months, from the start of the business. If the total profit at the end of a year was Rs. 86,800, then the difference between the shares of A and C in the profit was:",
+    "OP1": "Rs. 9,800",
+    "OP2": "Rs. 8,400",
+    "OP3": "Rs. 7,000",
+    "OP4": "Rs. 12,600",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1086,
+    "SL": "86",
+    "Question": "If sec θ + tan θ = p, (p &gt; 1), then (cosec θ + 1)/(cosec θ – 1) = ?",
+    "OP1": "\\(\\frac{{p\\; + \\;1}}{{p - 1}}\\)",
+    "OP2": "p<sup>2</sup>",
+    "OP3": "\\(\\frac{{p - 1}}{{p\\; + \\;1}}\\)",
+    "OP4": "2P<sup>2</sup>",
+    "Answer": "2",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1087,
+    "SL": "87",
+    "Question": "S is the incentre of ΔPQR. If ∠PSR = 125°, then the measure of ∠PQR is:",
+    "OP1": "75°",
+    "OP2": "55°",
+    "OP3": "80°",
+    "OP4": "70°",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1088,
+    "SL": "88",
+    "Question": "<strong>Direction∶ </strong>The given pie-chart shows the break-up of total marks obtained by a student in five subjects A, B, C, D and E. The maximum marks in each subject is 150 and he obtained at total of 600 marks.<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/22/03/5e3a7518f60d5d650c64230_Sanyukta%20Gaikar_28.3.22_D1.PNG\"><br><br><strong><b>Question:</b></strong><br>What is the difference between the marks obtained by the students in subject B and D?",
+    "OP1": "12",
+    "OP2": "30",
+    "OP3": "27",
+    "OP4": "20",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1089,
+    "SL": "89",
+    "Question": "a, b and c are three fraction such that a &lt; b &lt; c. If c divided by a, the result is 9/2, which exceeds b by 23/6. The sum of a, b and c is 19/12. What is the value of (2a + b – c)?",
+    "OP1": "1/12",
+    "OP2": "1/4",
+    "OP3": "1/2",
+    "OP4": "1/3",
+    "Answer": "2",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1090,
+    "SL": "90",
+    "Question": "The value cosec (67° + θ) – sec (23° – θ) + cos15° cos35° cosec55° cos60° cosec 75°.",
+    "OP1": "2",
+    "OP2": "1/2",
+    "OP3": "0",
+    "OP4": "1",
+    "Answer": "2",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1091,
+    "SL": "91",
+    "Question": "In a circle with centre O, ABCD is a cyclic quadrilateral and AC is diameter. Chords AB and DC are produced to meet at E. If ∠CAE = 34° and ∠E = 30°, then ∠CBD is equal to:",
+    "OP1": "36°",
+    "OP2": "34°",
+    "OP3": "26°",
+    "OP4": "24°",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1092,
+    "SL": "92",
+    "Question": "<strong>Direction∶ </strong>The given pie-chart shows the break-up of total marks obtained by a student in five subjects A, B, C, D and E. The maximum marks in each subject is 150 and he obtained at total of 600 marks.<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/22/03/5e3a7518f60d5d650c64230_Sanyukta%20Gaikar_28.3.22_D1.PNG\"><br><br><strong><b>Question:</b></strong><br>In how many subjects did the student obtain more than his average score?",
+    "OP1": "4",
+    "OP2": "3",
+    "OP3": "2",
+    "OP4": "1",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1093,
+    "SL": "93",
+    "Question": "The value of \\(0.4\\bar 7\\; + \\;0.5\\overline {03} - 0.3\\bar 9\\; \\times \\;0.\\bar 8\\) is:",
+    "OP1": "\\(0.6\\overline {25}\\)",
+    "OP2": "\\(0.6\\overline {15}\\)",
+    "OP3": "\\(0.62\\bar 5\\)",
+    "OP4": "\\(0.\\overline {615}\\)",
+    "Answer": "1",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1094,
+    "SL": "94",
+    "Question": "The radius of the base of a right circular cylinder is increased by 20% By what per cent should its height be reduced so that its volume remains the same as before?",
+    "OP1": "\\(30\\frac{2}{9}\\)",
+    "OP2": "28",
+    "OP3": "\\(30\\frac{5}{9}\\)",
+    "OP4": "25",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1095,
+    "SL": "95",
+    "Question": "The LCM of two numbers x and y is 204 times their HCF. If their HCF is 12 and the difference between the numbers is 60, then x + y = ?",
+    "OP1": "852",
+    "OP2": "426",
+    "OP3": "660",
+    "OP4": "348",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1096,
+    "SL": "96",
+    "Question": "<strong>Direction∶ </strong>The given pie-chart shows the break-up of total marks obtained by a student in five subjects A, B, C, D and E. The maximum marks in each subject is 150 and he obtained at total of 600 marks.<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/22/03/5e3a7518f60d5d650c64230_Sanyukta%20Gaikar_28.3.22_D1.PNG\"><br><br><strong><b>Question:</b></strong><br>The total mark obtained by the student in subjects C and E is approximately how much per cent more than what he obtained in A and D together?",
+    "OP1": "8.33%",
+    "OP2": "7.26%",
+    "OP3": "10.25%",
+    "OP4": "9.09%",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1097,
+    "SL": "97",
+    "Question": "The value of \\(\\frac{{{{\\sec }^2}\\theta }}{{cose{c^2}\\theta }}\\; + \\;\\frac{{cose{c^2}\\theta }}{{{{\\sec }^2}\\theta }} - \\left( {{{\\sec }^2}\\theta \\; + \\;cose{c^2}\\theta } \\right)\\) is:",
+    "OP1": "0",
+    "OP2": "1",
+    "OP3": "-2",
+    "OP4": "2",
+    "Answer": "3",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1098,
+    "SL": "98",
+    "Question": "If (5x + 2y) : (10x + 3y) = 5 : 9, then (2x<sup>2</sup> + 3y<sup>2</sup>) : (4x<sup>2</sup> + 9y<sup>2</sup>) = ?",
+    "OP1": "10 : 27",
+    "OP2": "31 : 87",
+    "OP3": "16 : 47",
+    "OP4": "1 : 3",
+    "Answer": "2",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1099,
+    "SL": "99",
+    "Question": "The value of \\(\\frac{{2\\sqrt {10} }}{{\\sqrt 5 \\; + \\;\\sqrt 2 - \\sqrt 7 }} - \\sqrt {\\frac{{\\sqrt 5 - 2}}{{\\sqrt 5 \\; + \\;2}}} - \\frac{3}{{\\sqrt 7 - 2}}\\;\\) is:",
+    "OP1": "√7",
+    "OP2": "√2",
+    "OP3": "2√5",
+    "OP4": "2 + √2",
+    "Answer": "2",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  },
+  {
+    "noteId": 1100,
+    "SL": "100",
+    "Question": "The given graph shows the weights of students in a school on a particular day.<br><img alt=\"\"src=\"//storage.googleapis.com/tb-img/production/20/02/F1_S.G_04.02.20_Savita_D5.png\"><br><br><strong><b>Question:</b></strong><br>The number of students weighing less 50 kg is what per cent less than the number of students weighing 55 kg or more?",
+    "OP1": "40",
+    "OP2": "55",
+    "OP3": "30",
+    "OP4": "44",
+    "Answer": "4",
+    "Solution": "Number of students weighing less 50 kg = 40 + 30 = 70<br>Number of students weighing 55 kg or more = 55 + 45 + 25 = 125<br>Required percentage = [(125 – 70)/125] × 100 = 44%",
+    "Tags": [
+      "MATH::Data-Interpretation",
+      "CGL::Mains::012"
+    ]
+  }
+]
